@@ -1,0 +1,8 @@
+name: "Groove"
+description: "Smarter fertility. A better you."
+
+url: "http://localhost:4000"
+
+encoding: "utf-8"
+markdown: rdiscount
+permalink: pretty
