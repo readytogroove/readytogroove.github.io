@@ -45,6 +45,8 @@ h3 {
 
 p {
   font-size: 20px;
+  padding-bottom: 20px;
+  color: #70777D;
 }
 
 p.small-text {
@@ -264,6 +266,10 @@ img.blog-author-img {
   width: 60px;
   text-align: left;
   border-radius: 50%;
+}
+
+.blog-body {
+  margin-top: 20px;
 }
 
 @media screen and (max-width:1000px) {

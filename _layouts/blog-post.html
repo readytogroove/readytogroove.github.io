@@ -1,11 +1,27 @@
 ---
 layout: main
-title: Blog
+title: {{ post.title }}
 ---
 
 <div class="gray-background">
 	<div class="container">
-		<h2>{{post.title}}</h2>
-		<p class="gray-light">{{content}}</p>
+		<div class="blog-container">
+			<h1 class="gray-dark blog-title">{{ post.title }}</h1>
+			<div class="blog-info">
+				<div class="author-img">
+					{% if page.author == "Brian Smith" %}
+					<img class="blog-author-img" src="/img/BS.jpg" />
+					{% else %}
+					<img class="blog-author-img" src="/img/JA.jpg" />
+					{% endif %}
+				</div><!--.author-img-->
+				<div class="blog-info-text">
+					<p class="gray-very-light small-text">{{ page.author }} wrote this on {{ page.date | date: '%B %-d, %Y' }}</p>
+				</div><!--.blog-info-text-->
+			</div><!--.blog-info-->
+			<div class="blog-body">
+				<p>{{content}}</p>
+			</div>
+		</div><!--.blog-container-->
 	</div><!--.container-->
 </div><!--.gray-background-->
