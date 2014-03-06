@@ -179,6 +179,10 @@ p.footer-text {
 
 /* index.html styles */
 
+.mantle {
+  overflow: hidden;
+}
+
 /* about.html styles */
 
 .gray-background {

@@ -1,12 +1,40 @@
----
-layout: main
-title: {{ post.title }}
----
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	    <title>{{page.title}}</title>
+	    <meta property="og:site_name" content="Groove"/>
+	    <meta property="og:title" content="{{page.title}}"/>
+	    <!-- <meta property="og:image" content="http://www.jenniferaldoretta.com/img/JA.jpg"/> -->
+	    <meta property="og:description" content="Smarter fertility. A better you." />
+	    <meta name="description" content="Smarter fertility. A better you.">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	    <link rel='stylesheet' type='text/css' href='/css/reset.css'/>
+	    <link rel='stylesheet' type='text/css' href='/css/style.css'/>
+	    <link rel="shortcut icon" href="/img/favicon.png" type="image/png">
+		<!-- <link rel="shortcut icon" type="image/png" href="http://www.jenniferaldoretta.com/favicon.png" /> -->
+	</head>
+
+	<body>
+		<div id="header-container">
+			<div class="logo">
+				<a href="/"><img src="/img/logo.png" alt="Groove" /></a>
+			</div>
+			<div class="nav">
+	     	<ul>
+	        	<li class="nav-link"><a class="text-link" href="/about">about</a></li>
+	        	<li class="nav-link"><a class="text-link" href="/blog">blog</a></li>
+	      	</ul>
+	      </div>
+   		</div><!--#header-container--> 
+
+   		<div class="content-container">
+
+
 
 <div class="gray-background">
 	<div class="container">
 		<div class="blog-container">
-			<h1 class="gray-dark blog-title">{{ post.title }}</h1>
+			<h1 class="gray-dark blog-title">{{ page.title }}</h1>
 			<div class="blog-info">
 				<div class="author-img">
 					{% if page.author == "Brian Smith" %}
@@ -25,3 +53,46 @@ title: {{ post.title }}
 		</div><!--.blog-container-->
 	</div><!--.container-->
 </div><!--.gray-background-->
+
+
+</div>
+
+   	<div id="footer-container">
+   		<div class="footer-float-left">
+   			<ul>
+   				<li>
+   					<div>
+   						<ul>
+   							<li class="social-media-icons">
+   								<a href="http://www.twitter.com/readytogroove">twitter</a>
+   							</li>
+   							<li class="social-media-icons">
+   								<a href="http://www.facebook.com/readytogroove">facebook</a>
+   							</li>
+   							<li class="social-media-icons">
+   								<a href="http://www.pinterest.com/readytogroove">pinterest</a>
+   							</li>
+   						</ul>
+   					</div>
+   				</li>
+   				<li>
+   					<a class="text-link" href="mailto:howdy@readytogroove.com">howdy@readytogroove.com</a>
+   				</li>
+   				<li>
+   					<a class="text-link" href="privacy.html">privacy policy</a>
+   				</li>
+   				<li>
+   					<a class="text-link" href="terms.html">terms of use</a>
+   				</li>
+   			</ul>
+   		</div>
+   		<div class="footer-float-right">
+   			<p class="footer-text">crafted with love in Austin, Texas</p>
+   		</div>
+   		<div class="signature">
+   			<p class="footer-text">&#169; 2014 Groove, LLC. All rights reserved.</p>
+   		</div>
+   	</div><!--#footer-container-->
+   </body><!--.body-container-->
+
+</html>
