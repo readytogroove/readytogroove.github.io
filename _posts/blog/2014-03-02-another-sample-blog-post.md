@@ -3,6 +3,7 @@ layout: blog-post
 title:  "Another Sample Blog Post"
 date:   2014-03-02
 author: "Brian Smith"
+category: blog
 excerpt: "Terminal is such a huge damn pain in my ass."
 ---
 
