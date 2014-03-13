@@ -12,6 +12,14 @@
 
 /*Global Styles*/
 
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 500;
+}
+
 .gray-dark {
   color: #6C6C6C;
 }
@@ -56,6 +64,7 @@ body, h1, h2, h3, p {
   font-family: 'helvetica neue';
   font-weight: 200;
   line-height: 1.4em;
+  color: #6C6C6C
 }
 
 h1 {
@@ -65,10 +74,12 @@ h1 {
 
 h2 {
   font-size: 30px;
+  margin-bottom: 15px;
 }
 
 h3 {
   font-size: 26px;
+  margin-bottom: 15px;
 }
 
 p {
@@ -96,6 +107,10 @@ h1.page-header {
 
 ol {
   list-style: decimal;
+  margin-left: 50px;
+}
+
+blockquote {
   margin-left: 50px;
 }
 
@@ -136,7 +151,7 @@ ol {
     background-color: #39AA91;
   }
 
-.logo {
+.logo-container {
     float: left;
   }
 
@@ -306,7 +321,7 @@ img.groover {
 
 .groover-title {
   text-align: left;
-  padding-bottom: 20px;
+  padding-bottom: 5px;
 }
 
 .groover-info {
@@ -335,7 +350,7 @@ img.groover {
 }
 
 .blog-excerpt {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .author-img {
@@ -430,6 +445,31 @@ img.the-cycle {
   margin-bottom: 10px;
 }
 
+a.notes {
+  padding-top: 100px;
+}
+
+.book-image-container {
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+}
+
+img.book-image {
+  width: 50%;
+  text-align: center;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+div.book-image-container p.small-text {
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
 /* press.html styles */
 
 .press-kit {
@@ -450,9 +490,22 @@ img.the-cycle {
     padding-bottom: 15px;
     padding-top: 0;
   }
+
+  img.book-image {
+    width: 400px;
+  }
 }
 
 @media screen and (max-width:901px) {
+
+  .logo-container {
+    float: none;
+    text-align: center;
+  }
+
+  .logo-img {
+    width: 125px;
+  }
 
   h1.page-header, h1.the-cycle-header, .the-cycle-sub-header {
     text-align: center;
@@ -533,6 +586,10 @@ img.the-cycle {
     text-align: center;
   }
 
+  div.book-image-container p.small-text {
+    width: 90%;
+  }
+
 }
 
 @media screen and (max-width: 751px) {
@@ -543,6 +600,18 @@ img.the-cycle {
 
   .groover-img {
     width: 220px;
+  }
+
+  div.book-image-container p.small-text {
+    width: 100%;
+  }
+
+  img.book-image {
+    width: 375px;
+  }
+
+  blockquote {
+    margin-left: 25px;
   }
 }
 
@@ -567,6 +636,10 @@ img.the-cycle {
 
   .app-img {
     width: 90%;
+  }
+
+  img.book-image {
+    width: 100%;
   }
 }
 
