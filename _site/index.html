@@ -52,8 +52,66 @@
 
  		<div class="content-container">
  			<div class="mantle">
-	<img class="mantle-img" src="/img/mantle.jpg" />
+  <div class="container">
+    <div class="iphone">
+      <div class="screen-container">
+        <img src="img/screen1.png" id="screen1" class="screen active" />
+        <img src="img/screen2.png" id="screen2" class="screen" />
+        <img src="img/screen3.png" id="screen3" class="screen" />
+        <img src="img/screen4.png" id="screen4" class="screen" />
+        <img src="img/screen5.png" id="screen5" class="screen" />
+        <img src="img/screen6.png" id="screen6" class="screen" />
+      </div>
+    </div>
+
+    <div class="text-container">
+      <div id="text1" class="text active" >
+        <h1>This is the title</h1>
+        <h3>This is the text thaodslkfja es with the title</h3>
+      </div>
+      <div id="text2" class="text" >
+        <h1>Thise title</h1>
+        <h3>is the text that goes witasdfads h the title</h3>
+      </div>
+      <div id="text3" class="text" >
+        <h1>This is theitle asd</h1>
+        <h3>This is the text thd es with the title</h3>
+      </div>
+      <div id="text4" class="text" >
+        <h1>This is the tddd itle</h1>
+        <h3>This is the textd that goes wle</h3>
+      </div>
+      <div id="text5" class="text" >
+        <h1>This ith tle</h1>
+        <h3>Th the text that goes with tff ahe title</h3>
+      </div>
+      <div id="text6" class="text" >
+        <h1>This is the title yup</h1>
+        <h3>This is the text that goes w asdfasd ith the title</h3>
+      </div>
+    </div>
+  </div>
 </div><!--.mantle-->
+
+<script>
+  var $screens = $('.screen');
+  var $texts = $('.text');
+  var $activeScreen = $screens.first();
+  var $activeText = $texts.first();
+  var gotoSlide = function(n) {
+    $activeScreen.removeClass('active').addClass('deactivating');
+    $activeText.removeClass('active').addClass('deactivating');
+    $nextScreen = $('#screen' + n).removeClass('deactivating').addClass('active');
+    $nextText = $('#text' + n).removeClass('deactivating').addClass('active');
+    setTimeout(function() {
+      $activeScreen.removeClass('deactivating');
+      $activeText.removeClass('deactivating');
+      $activeScreen = $nextScreen;
+      $activeText = $nextText;
+    }, 300);
+
+  }
+</script>
 
  		</div><!--.content-container-->
 
