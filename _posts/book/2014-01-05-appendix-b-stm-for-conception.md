@@ -27,4 +27,4 @@ Unfortunately, a pregnancy resulting in a miscarriage is sometimes a fact of lif
 {% include image.html url="/img/book/image14.jpg" description="After a confirmed pregnancy on cycle day 25 using a pregnancy test, this woman's BBT begins to fall significantly starting on cycle day 31. She, unfortunately, experiences a miscarriage after 20 days of a high BBT and a confirmed pregnancy." %}
 
 
-I would also recommend reading through Appendix C for information on reproductive disorders that can lead to difficulty achieving a pregnancy or carrying a pregnancy to term.
+I would also recommend reading through <a class="text-link" target="_blank" href="/book/2014/01/04/appendix-c-stm-for-reproductive-health/">Appendix C</a> for information on reproductive disorders that can lead to difficulty achieving a pregnancy or carrying a pregnancy to term.
