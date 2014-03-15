@@ -309,8 +309,94 @@ li.nav-button-link {
 
 .mantle {
   overflow: hidden;
+  background: url('/img/mantle.jpg') center center no-repeat;
+  background-size: cover;
 }
+  .mantle .container {
+    width: 60%;
+    padding: 0 20%;
+  }
 
+  .iphone {
+    float: left;
+    position: relative;
+    width: 233px;
+    height: 492px;
+    background: url('/img/iphone5-img.png') center center no-repeat;
+  }
+    .iphone .screen-container,
+    .iphone .screen-container .screen {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }  
+      .iphone .screen-container .screen .img {
+        width: 233px;
+        height: 492px;
+      }
+      .iphone .screen-container .screen {
+        z-index: 1;
+        opacity: 0;
+        -webkit-transition: opacity 0.3s ease-out;
+        -moz-transition: opacity 0.3s ease-out;
+        -o-transition: opacity 0.3s ease-out;
+        transition: opacity 0.3s ease-out;
+      }
+      .iphone .screen-container .screen.active {
+        opacity: 1;
+        z-index: 2;
+      }
+      .iphone .screen-container .screen.deactivating {
+        opacity: 0;
+        z-index: 2;
+      }
+
+  .mantle .text-container {
+    float: right;
+    position: relative;
+    width: 50%;
+  }
+    .mantle .text-container .text {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      opacity: 0;
+      -webkit-transform: translate3d(200%, 0, 0);
+      -moz-transform: translate3d(200%, 0, 0);
+      -o-transform: translate3d(200%, 0, 0);
+      transform: translate3d(200%, 0, 0);
+
+      -webkit-transition: -webkit-transform 0.3s ease-out, opacity 0.3s ease-out;
+      -moz-transition: -moz-transform 0.3s ease-out, opacity 0.3s ease-out;
+      -o-transition: -o-transform 0.3s ease-out, opacity 0.3s ease-out;
+      transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+    }
+      .mantle .text-container .text.active {
+        opacity: 1;
+        -webkit-transform: translate3d(0%, 0, 0);
+        -moz-transform: translate3d(0%, 0, 0);
+        -o-transform: translate3d(0%, 0, 0);
+        transform: translate3d(0%, 0, 0);
+      }
+      .mantle .text-container .text.deactivating {
+        opacity: 0;
+        -webkit-transform: translate3d(0%, 0, 0);
+        -moz-transform: translate3d(0%, 0, 0);
+        -o-transform: translate3d(0%, 0, 0);
+        transform: translate3d(0%, 0, 0);
+      }
+    .mantle .text-container h1,
+    .mantle .text-container h3 {
+      color: white;
+      font-weight: 200;
+    }
+    .mantle .text-container h3 {
+      font-weight: lighter;
+    }
 /* about.html styles */
 
 h1.about-header {
