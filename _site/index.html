@@ -52,7 +52,7 @@
 
  		<div class="content-container">
  			<div class="mantle">
-  <div class="container">
+  <div class="container clearfix">
     <div class="iphone">
       <div class="screen-container">
         <img src="img/screen1.png" id="screen1" class="screen active" />
@@ -64,31 +64,33 @@
       </div>
     </div>
 
-    <div class="text-container">
+    <div class="text-container clearfix">
       <div id="text1" class="text active" >
-        <h1>This is the title</h1>
-        <h3>This is the text thaodslkfja es with the title</h3>
+        <h1>Smarter fertility.<br>A better you.</h1>
+        <h3>Groove empowers you with information and tools made for you, your body, and your health.</h3>
       </div>
       <div id="text2" class="text" >
-        <h1>Thise title</h1>
-        <h3>is the text that goes witasdfads h the title</h3>
+        <h1>Listen to your body.</h1>
+        <h3>It gives you all the information you need to be in control. All you have to do is record it.</h3>
       </div>
       <div id="text3" class="text" >
-        <h1>This is theitle asd</h1>
-        <h3>This is the text thd es with the title</h3>
+        <h1>Never get caught off guard.</h1>
+        <h3>Groove predicts the start of your next cycle with incredible accuracy.</h3>
       </div>
       <div id="text4" class="text" >
-        <h1>This is the tddd itle</h1>
-        <h3>This is the textd that goes wle</h3>
+        <h1>Get the skinny.</h1>
+        <h3>View your cycle averages and past data on one simple screen.</h3>
       </div>
       <div id="text5" class="text" >
-        <h1>This ith tle</h1>
-        <h3>Th the text that goes with tff ahe title</h3>
+        <h1>Manage your fertility.</h1>
+        <h3>Upgrade your account to practice natural and effective birth control, get pregnant easily, or take control of your reproductive health.</h3>
       </div>
       <div id="text6" class="text" >
-        <h1>This is the title yup</h1>
-        <h3>This is the text that goes w asdfasd ith the title</h3>
+        <h1>You can&rsquo;t live without it.</h1>
+        <h3>Groove has all the features you need &ndash; and the look and feel you&rsquo;ve been waiting for.</h3>
       </div>
+
+      <a target="_blank" class="button" href="https://itunes.apple.com/us/app/groove-period-fertility-tracker/id831795151?ls=1&mt=8">Get the iPhone app now</a>
     </div>
   </div>
 </div><!--.mantle-->
@@ -98,6 +100,8 @@
   var $texts = $('.text');
   var $activeScreen = $screens.first();
   var $activeText = $texts.first();
+  var currentSlide = 1;
+  var numSlides = $screens.length;
   var gotoSlide = function(n) {
     $activeScreen.removeClass('active').addClass('deactivating');
     $activeText.removeClass('active').addClass('deactivating');
@@ -108,9 +112,20 @@
       $activeText.removeClass('deactivating');
       $activeScreen = $nextScreen;
       $activeText = $nextText;
-    }, 300);
-
+    }, 1000);
   }
+
+  var autoRotate = function() {
+    currentSlide += 1;
+
+    if (currentSlide > numSlides) {
+      currentSlide = 1;
+    }
+
+    gotoSlide(currentSlide);
+  }
+
+  setInterval(autoRotate, 5000);
 </script>
 
  		</div><!--.content-container-->
