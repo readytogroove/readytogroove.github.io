@@ -5,7 +5,7 @@ date:   2014-01-04
 category: book
 ---
 
-When a woman knows what is normal and healthy for her cycle, it's easy to detect when reproductive health might be on the decline. Things like stress, lack of sleep, too much exercise, illness, and major life events can all delay ovulation and interfere with the menstrual cycle, so it comes as no surprise that taking a deeper look at a woman's cycle reveals a great deal about the state of her health. Charting fertility signs can assist in the diagnosis of many reproductive (and non-reproductive) health disorders such as polycystic ovarian syndrome (PCOS), luteal phase defect, and low thyroid function, to name a few. I would highly recommend getting in touch with one of the individuals listed in Appendix D if you (or your partner) struggle with any of these disorders.
+When a woman knows what is normal and healthy for her cycle, it's easy to detect when reproductive health might be on the decline. Things like stress, lack of sleep, too much exercise, illness, and major life events can all delay ovulation and interfere with the menstrual cycle, so it comes as no surprise that taking a deeper look at a woman's cycle reveals a great deal about the state of her health. Charting fertility signs can assist in the diagnosis of many reproductive (and non-reproductive) health disorders such as polycystic ovarian syndrome (PCOS), luteal phase defect, and low thyroid function, to name a few. I would highly recommend getting in touch with one of the individuals listed in <a class="text-link" target="_blank" href="/book/2014/01/03/appendix-d-fertility-awareness-and-menstrual-health-resources/">Appendix D</a> if you (or your partner) struggle with any of these disorders.
 
 
 ##PCOS

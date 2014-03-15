@@ -5,7 +5,7 @@ date:   2014-01-10
 category: book
 ---
 
-Using the rules of the sympto-thermal method (STM) that I discussed in the previous chapter, we can determine when a woman is no longer at risk of an unintended pregnancy or when her baby-making window has passed! Not just this, but monitoring these fertility signs on a daily basis allows for faster detection of many reproductive health disorders, including polycystic ovarian syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances. While this book is not meant to diagnose or help a woman self-diagnose any reproductive disorders, practicing STM can help physicians work with women to reach a timelier, more cost-effective, and less invasive diagnosis. This chapter will discuss _how_ to check all of the fertility signs we've learned about up to this point.
+Using the rules of the sympto-thermal method (STM) that I discussed in the <a class="text-link" target="_blank" href="/book/2014/01/11/chapter-7-the-rules-of-the-sympto-thermal-method/">previous chapter</a>, we can determine when a woman is no longer at risk of an unintended pregnancy or when her baby-making window has passed! Not just this, but monitoring these fertility signs on a daily basis allows for faster detection of many reproductive health disorders, including polycystic ovarian syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances. While this book is not meant to diagnose or help a woman self-diagnose any reproductive disorders, practicing STM can help physicians work with women to reach a timelier, more cost-effective, and less invasive diagnosis. This chapter will discuss _how_ to check all of the fertility signs we've learned about up to this point.
 
 
 ##Basal Body Temperature
@@ -98,7 +98,7 @@ Identifying peak day may sound like a challenging undertaking if you're just sta
 
 Peak day, as I have mentioned, is defined as the _last day_ of slippery cervical fluid or wet vaginal sensation. It is not necessarily the day with the largest quantity of cervical fluid, which is a common cause for confusion. The day after peak day, a drying pattern will begin. This is why peak day can _only_ be identified on the following day. As with basal body temperature, it's imperative to look at the overall cervical fluid pattern rather than honing in on the individual day. Focusing on _changes_ in fluid from day to day will eliminate a great deal of confusion and uncertainty.
 
-During daily checks, it may even be helpful to snap a picture of your fingers with your phone after gathering some fluid. Some will find that this will make it easier to spot changes. As a learning tool, I have provided a full cycle of cervical fluid images in Appendix E. Each woman will find that she has a different fluid pattern, but these images will give you an idea of how cervical fluid changes throughout the course of a cycle. 
+During daily checks, it may even be helpful to snap a picture of your fingers with your phone after gathering some fluid. Some will find that this will make it easier to spot changes. As a learning tool, I have provided a full cycle of cervical fluid images in <a class="text-link" target="_blank" href="/book/2014/01/02/appendix-e-visualizing-cervical-fluid-changes/">Appendix E</a>. Each woman will find that she has a different fluid pattern, but these images will give you an idea of how cervical fluid changes throughout the course of a cycle. 
 
 
 ##Cervical Position
