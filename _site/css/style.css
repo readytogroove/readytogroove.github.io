@@ -618,6 +618,71 @@ div.book-image-container p.small-text {
   margin-bottom: 15px;
 }
 
+/* mobile navigatron */
+.mobile-nav-button {
+  display: none;
+  background: transparent;
+  border: none;
+  padding: 0;
+  position: absolute;
+  height: 23px;
+  right: 20px;
+  top: 18px;
+}
+  .mobile-nav-button span,
+  .mobile-nav-button span:before,
+  .mobile-nav-button span:after {
+    display: inline-block;
+    background-color: #3FC2A5;
+    width: 25px;
+    height: 5px;
+  }
+
+  .mobile-nav-button span:before,
+  .mobile-nav-button span:after {
+    display: inline-block;
+    content: ' ';
+    position: absolute;
+    left: 0;
+  }
+
+  .mobile-nav-button span:before {
+    top: 0;
+  }
+
+  .mobile-nav-button span:after {
+    bottom: 0;
+  }
+#mobile-nav {
+  z-index: 9999999;
+  display: none;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow-y: scroll;
+  background: white;
+  padding-top: 30px;
+}
+  #mobile-nav li {
+    display: block;
+    text-align: center;
+    margin: 0;
+  }
+  #mobile-nav li.nav-button-link {
+    margin-top: 35px;
+  }
+    #mobile-nav li a {
+      font-size: 24px;
+      line-height: 45px;
+    }
+body.mobile-nav-open #mobile-nav {
+  display: block;
+}
+
+/* responsive, y'all */
+
 @media screen and (max-width:1000px) {
   .footer-float-left, .footer-float-right, .signature {
     float: none;
@@ -631,10 +696,23 @@ div.book-image-container p.small-text {
   }
 }
 
+
 @media screen and (max-width:901px) {
+
+  /* mobile nav */
+  .mobile-nav-button {
+    display: inline-block;
+  }
 
   div.nav {
     display: none;
+  }
+
+  #footer-container {
+    position: static;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .logo-container {
@@ -643,7 +721,11 @@ div.book-image-container p.small-text {
   }
 
   .logo-img {
-    width: 125px;
+    width: 75px;
+  }
+
+  .content-container {
+    padding-top: 59px;
   }
 
   h1.page-header, h1.the-cycle-header, .the-cycle-sub-header {
@@ -762,6 +844,22 @@ div.book-image-container p.small-text {
 }
 
 @media screen and (max-width: 751px) {
+
+  #header-container {
+    /*border-bottom: none;*/
+  }
+
+  .mantle .iphone {
+    width: 116.5px;
+    height: 246px;
+    background-size: 100%;
+    float: none;
+    margin: 0 auto;
+  }
+    .mantle .iphone img {
+      width: 116.5px;
+      height: 246px;
+    }
 
   h1 {
     font-size: 30px;
