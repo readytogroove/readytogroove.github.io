@@ -5,4 +5,4 @@ url: "http://localhost:4000"
 
 encoding: "utf-8"
 markdown: rdiscount
-permalink: none
+permalink: pretty
