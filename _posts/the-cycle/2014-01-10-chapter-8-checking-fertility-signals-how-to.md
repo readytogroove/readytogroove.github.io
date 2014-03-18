@@ -73,7 +73,7 @@ However, if Leslie acknowledges and is okay with the extra risk, she would exclu
 <h2><a class="notes" name="check-cervical-fluid">Cervical Fluid</a></h2>
 
 
-Whether you're a man or a woman, the thought of inspecting cervical fluid might make you a bit uncomfortable. Trust me, I can completely empathize with those feelings! My first reaction upon learning about tracking cervical fluid changes was: "I have to check my _what_?!" But trust me when I say that the wealth of knowledge gained by learning this stuff far outweighs any initial "ew" factor. 
+Whether you're a man or a woman, the thought of inspecting cervical fluid might make you a bit uncomfortable. I can completely empathize with those feelings! My first reaction upon learning about tracking cervical fluid changes was: "I have to check my _what_?!" But trust me when I say that the wealth of knowledge gained by learning this stuff far outweighs any initial "ew" factor. 
 
 Consider this example: if you blow your nose and look down only to see that it's green, how do you react? You probably think that you might be sick. And what about when you have a fever? How do you know? How can we tell that multi-colored boogers or a fever indicate that we might want to see a doctor? Because we have a _baseline_ to compare to and we know what _normal_ looks like! 
 
@@ -91,15 +91,19 @@ I've mentioned previously that for most women, there will not be any noticeable 
 
 Once you've gathered fluid on your finger, wait a few seconds to give vaginal fluid a chance to evaporate (or pull a sample using your other hand) and then rub the cervical fluid between your finger and your thumb. Pay attention to what it feels like. Is it smooth? Is it sticky? Is it pasty or crumbly? Is it slippery? Or maybe there's nothing there except vaginal fluid! Next, take a look at it. Is it white? Yellow? Clear? Finally, slowly pull your finger and thumb apart. Is it very strecthy? Does it form small peaks?
 
+Other great ways to get a good idea of cervical fluid type is to pay close attention to the way things *feel* throughout the day: *Do I feel wet or leaky?* *Are things down there feeling humid?* Another great indication is to pay attention to how easily toilet paper glides when you wipe after using the bathroom: *Do things feel like a slip-n-slide down there?* *Is there fluid on the toilet paper after wiping?*
+
+Many women prefer checking fluid by swiping fingers across the vaginal opening rather than checking internally. Regardless of your personal preferences, checking multiple times per day is very important to get an accurate representation. The *way* you check is all a matter of personal preference!
+
 
 ###Identifying Your Peak Day of Cervical Fluid
 
 
 Identifying peak day may sound like a challenging undertaking if you're just starting off with charting. For those who are new to charting, it's always a good idea to simply observe fertility signs for at least a full cycle (or longer for those in special circumstances like perimenopause or recent cessation of hormone use) to allow individual patterns to emerge. 
 
-Peak day, as I have mentioned, is defined as the _last day_ of slippery cervical fluid or wet vaginal sensation. It is not necessarily the day with the largest quantity of cervical fluid, which is a common cause for confusion. The day after peak day, a drying pattern will begin. This is why peak day can _only_ be identified on the following day. As with basal body temperature, it's imperative to look at the overall cervical fluid pattern rather than honing in on the individual day. Focusing on _changes_ in fluid from day to day will eliminate a great deal of confusion and uncertainty.
+Peak day, as I have mentioned, is defined as the _last day_ of slippery cervical fluid or wet vaginal sensation. It is not necessarily the day with the largest quantity of cervical fluid, which is a common cause for confusion. The day after peak day, a drying pattern will begin. The peak day can _only_ be identified on the following day. I want to mention that not all women will experience a "dry" luteal phase. During the luteal phase, some women have a thicker, *drier* fluid than they experienced during the fertile window, but it may not necessarily be completely "dry". As with basal body temperature, it's imperative to look at the overall cervical fluid pattern rather than honing in on the individual day. Focusing on _changes_ in fluid from day to day will eliminate a great deal of confusion and uncertainty.
 
-During daily checks, it may even be helpful to snap a picture of your fingers with your phone after gathering some fluid. Some will find that this will make it easier to spot changes. As a learning tool, I have provided a full cycle of cervical fluid images in <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes">Appendix E</a>. Each woman will find that she has a different fluid pattern, but these images will give you an idea of how cervical fluid changes throughout the course of a cycle. 
+During daily checks, it may even be helpful to snap a picture of your fingers with your phone after gathering some fluid. Some will find that this will make it easier to spot changes. As a learning tool, I have provided a full cycle of cervical fluid images in <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes">Appendix E</a>. Each woman will find that she has a different fluid pattern, but these images will give you an idea of how cervical fluid can change throughout the course of a cycle. 
 
 
 ##Cervical Position
