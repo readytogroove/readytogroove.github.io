@@ -7,7 +7,7 @@ category: blog
 excerpt: "Creating great products at Groove is more than writing code, whipping up designs, and knowing our stuff..."
 ---
 
->*"Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works."*
+>*Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.*
 
 >-Steve Jobs
 
