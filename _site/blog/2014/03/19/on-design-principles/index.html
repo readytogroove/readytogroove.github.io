@@ -1,14 +1,13 @@
-<!-- ANYTHING ALTERED IN THIS DOCUMENT MUST ALSO BE ALTERED IN "book-content.html" AND "blog-post.html" LAYOUT TEMPLATES -->
+<!-- ANYTHING ALTERED IN THE HEADER OR FOOTER OF THIS DOCUMENT MUST ALSO BE ALTERED IN "book-content.html" AND "main.html" LAYOUT TEMPLATES -->
 
 
+<!-- Header text was Copy & Pasted from "main.html" layout template-->
 <html lang="en">
-
-<!-- Website Header -->
 	<head>
 		<meta charset="utf-8">
-	    <title>{{page.title}}</title>
+	    <title>On Design Principles</title>
 	    <meta property="og:site_name" content="Groove"/>
-	    <meta property="og:title" content="{{page.title}}"/>
+	    <meta property="og:title" content="On Design Principles"/>
 	    <meta property="og:image" content="http://www.readytogroove.com/img/groove-icon.jpg"/>
       <meta property="og:image:type" content="image/jpeg">
 	    <meta property="og:description" content="Smarter fertility. A better you." />
@@ -19,7 +18,7 @@
 	    <link rel="shortcut icon" href="/img/favicon.png" type="image/png">
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
       <script type="text/javascript" src="/js/bootstrap.js"></script>
-      
+
 <!--Google Analytics-->
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -29,9 +28,9 @@
 
         ga('create', 'UA-37451363-1', 'readytogroove.com');
         ga('send', 'pageview');
-      </script>   
+      </script>
 <!--/Google Analytics-->
-
+      
 	</head>
 
 	<body>
@@ -41,77 +40,97 @@
         <span></span>
       </button>
       <ul>
-        {% if page.url == "/" %}
-        <li class="nav-link"><a class="active-nav" href="#">home</a></li>
-        {% else %}
+        
         <li class="nav-link"><a class="text-link" href="/">home</a></li>
-        {% endif %}
-        {% if page.url contains "/app" %}
-        <li class="nav-link"><a class="active-nav" href="#">app</a></li>
-        {% else %}
+        
+        
         <li class="nav-link"><a class="text-link" href="/app">app</a></li>
-        {% endif %}
-        {% if page.url contains "/the-cycle" %}
-        <li class="nav-link"><a class="active-nav" href="/the-cycle">book</a></li>
-        {% else %}
+        
+        
         <li class="nav-link"><a class="text-link" href="/the-cycle">book</a></li>
-        {% endif %}
-        {% if page.url contains "/blog" %}
+        
+        
         <li class="nav-link"><a class="active-nav" href="/blog">blog</a></li>
-        {% else %}
-        <li class="nav-link"><a class="text-link" href="/blog">blog</a></li>
-        {% endif %}
-        {% if page.url contains "/about" %}
-        <li class="nav-link"><a class="active-nav" href="#">about</a></li>
-        {% else %}
+        
+        
         <li class="nav-link"><a class="text-link" href="/about">about</a></li>
-        {% endif %}
+        
         <li class="nav-button-link"><a class="nav-button" target="_blank" href="https://itunes.apple.com/us/app/groove-period-fertility-tracker/id831795151?ls=1&mt=8">get the iPhone app</a></li>
       </ul>
     </div>
-
+    
 		<div id="header-container">
       <div class="logo-container">
         <a href="/"><img class="logo-img" src="/img/logo.png" alt="Groove" /></a>
       </div>
         <div class="nav">
           <ul>
-            {% if page.url contains "/app" %}
-            <li class="nav-link"><a class="active-nav" href="#">app</a></li>
-            {% else %}
+            
             <li class="nav-link"><a class="text-link" href="/app">app</a></li>
-            {% endif %}
-            {% if page.url contains "/the-cycle" %}
-            <li class="nav-link"><a class="active-nav" href="/the-cycle">book</a></li>
-            {% else %}
+            
+            
             <li class="nav-link"><a class="text-link" href="/the-cycle">book</a></li>
-            {% endif %}
-            {% if page.url contains "/blog" %}
+            
+            
             <li class="nav-link"><a class="active-nav" href="/blog">blog</a></li>
-            {% else %}
-            <li class="nav-link"><a class="text-link" href="/blog">blog</a></li>
-            {% endif %}
-            {% if page.url contains "/about" %}
-            <li class="nav-link"><a class="active-nav" href="#">about</a></li>
-            {% else %}
+            
+            
             <li class="nav-link"><a class="text-link" href="/about">about</a></li>
-            {% endif %}
+            
             <li class="nav-button-link"><a class="nav-button" target="_blank" href="https://itunes.apple.com/us/app/groove-period-fertility-tracker/id831795151?ls=1&mt=8">get the iPhone app</a></li>
           </ul>
         </div>
-        <button class="mobile-nav-button">
-          <span></span>
-        </button>
-      </div><!--#header-container--> 
+      </div><!--#header-container-->
 
-    <!-- Insert Content into Layout Below -->
+  	<div class="content-container">
+<!-- End Copy & Pasted Header Code -->
 
- 		<div class="content-container">
- 			{{content}}
- 		</div><!--.content-container-->
+<!-- This is the "blog-post.html" content code -->
+			<div class="gray-background">
+				<div class="container">
+					<div class="blog-container">
+						<h1 class="gray-dark blog-title">On Design Principles</h1>
+						<div class="blog-info">
+							<div class="author-img">
+								
+								<img class="blog-author-img" src="/img/JA.jpg" />
+								
+							</div><!--.author-img-->
+							<div class="blog-info-text">
+								<p class="gray-very-light small-text">Jennifer Aldoretta wrote this on March 19, 2014</p>
+							</div><!--.blog-info-text-->
+						</div><!--.blog-info-->
+						<div class="blog-body">
+							<p><blockquote><p><em>Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.</em></p>
 
+<p>-Steve Jobs</p></blockquote>
 
-<!-- Website Footer -->
+<p>When Brian and I started Groove, we knew we wanted it to be great. But what does that mean, really? Does making a great product mean making it look good? Does it mean having kick-ass software? Is a "great" product one that's easy to use?</p>
+
+<p>Creating great products at Groove is more than writing code, whipping up designs, and knowing our stuff. For us, it means never compromising our standards of quality (and they're pretty darned high). It means never making decisions haphazardly, and having you, our customer, in mind with every single thing we do.</p>
+
+<p>Truly great products are hard to find&mdash;especially great products made specifically for women. We want to help change that. We want to help set a new standard of quality for other companies like us, because women deserve amazing products.</p>
+
+<p>We want you to feel a connection when you use our app&mdash;the type of connection that can only be produced when a product is crafted by a ridiculously passionate team of individuals.</p>
+
+<p>We love what we do, and we hope that it shows everytime you use our products. Groove's app is just the tip of the iceberg for us, and we're thrilled to have you along for the ride.</p>
+</p>
+						</div><!--.blog-body-->
+						<!-- AddThis Button BEGIN -->
+						<div class="addthis_toolbox addthis_default_style ">
+						<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+						<a class="addthis_button_tweet"></a>
+						</div>
+						<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+						<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52ceee943bc45eff"></script>
+						<!-- AddThis Button END -->
+					</div><!--.blog-container-->
+				</div><!--.container-->
+			</div><!--.gray-background-->
+<!-- End "blog-post.html" content code -->
+
+<!-- Footer text was Copy & Pasted from "main.html" layout -->
+		</div><!--.content-container-->
    	<div id="footer-container">
    		<div class="footer-center">
         <div class="social">
@@ -126,11 +145,11 @@
           </div>
         </div><!--.social-->
         <p class="footer-text">
-          <a class="text-link" href="/press">press</a>
+          <a class="text-link" href="/press.html">press</a>
           |
-          <a class="text-link" href="/privacy">privacy policy</a>
+          <a class="text-link" href="/privacy.html">privacy policy</a>
           |
-   				<a class="text-link" href="/terms">terms of use</a>
+   				<a class="text-link" href="/terms.html">terms of use</a>
           |
           <a class="text-link" href="mailto:howdy@readytogroove.com">howdy@readytogroove.com</a>
         </p>
@@ -138,13 +157,7 @@
         <p class="footer-text">Crafted with <span class="bold pink">love</span> in Austin, Texas.</p>
    		</div><!--.footer-center-->
    	</div><!--#footer-container-->
-    <script>
-      var $body = $('body');
-      $('.mobile-nav-button').click(function(evt) {
-        console.log('click!');
-        $body.toggleClass('mobile-nav-open');
-      });
-    </script>
    </body><!--.body-container-->
 
 </html>
+<!-- End Copy & Pasted Header Code -->

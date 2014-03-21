@@ -167,6 +167,13 @@ blockquote {
   float: right;
 }
 
+.active-nav {
+  color: #3FC2A5;
+  text-decoration: none;
+  border-bottom: #3FC2A5 solid 1px;
+  font-weight: 200;
+}
+
 .content-container {
 /*  width: 80%;*/
 /*  padding: 0 10% 0 10%;*/
