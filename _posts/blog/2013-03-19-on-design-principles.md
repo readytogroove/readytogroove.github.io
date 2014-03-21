@@ -4,7 +4,7 @@ title:  "On Design Principles"
 date:   2014-03-19
 author: "Jennifer Aldoretta"
 category: blog
-excerpt: "Creating great products is more than writing code, whipping up designs, and knowing our stuff..."
+excerpt: "Creating great products at Groove is more than writing code, whipping up designs, and knowing our stuff..."
 ---
 
 >*"Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works."*
@@ -12,7 +12,7 @@ excerpt: "Creating great products is more than writing code, whipping up designs
 >-Steve Jobs
 
 
-When Brian and I started Groove, we knew we wanted it to be great. But what does that mean, really? Does making a great product mean making it look good? Does it mean having kick-ass software?
+When Brian and I started Groove, we knew we wanted it to be great. But what does that mean, really? Does making a great product mean making it look good? Does it mean having kick-ass software? Is a "great" product one that's easy to use?
 
 Creating great products at Groove is more than writing code, whipping up designs, and knowing our stuff. For us, it means never compromising our standards of quality (and they're pretty darned high). It means never making decisions haphazardly, and having you, our customer, in mind with every single thing we do. 
 
