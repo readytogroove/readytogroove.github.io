@@ -184,6 +184,7 @@ input {
   -moz-transition: border-color .1s ease-out;
   -o-transition: border-color .1s ease-out;
   transition: border-color .1s ease-out;
+  -webkit-appearance: none;
 }
   input:focus {
     outline: none;
