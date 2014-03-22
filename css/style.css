@@ -953,6 +953,9 @@ body.mobile-nav-open #mobile-nav {
 
   #newsletter-form input {
     margin: 0 0 10px 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
   }
 }
 
