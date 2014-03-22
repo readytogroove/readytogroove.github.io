@@ -134,29 +134,59 @@ blockquote {
   }
 
 .button {
+  display: inline-block;
+  font-family: 'helvetica neue', helvetica, arial;
   font-size: 26px;
   background-color: #3FC2A5;
   border-radius: 0;
   color: #FFFFFF;
   text-decoration: none;
   padding: 25px 30px;
+  border: none;
 }
 
   .button:hover {
     background-color: #39AA91;
+    cursor: pointer;
   }
 
 .button-small {
+  font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
   background-color: #3FC2A5;
   border-radius: 0;
   color: #FFFFFF;
   text-decoration: none;
   padding: 20px 22px;
+  border: none;
 }
 
   .button-small:hover {
     background-color: #39AA91;
+    cursor: pointer;
+  }
+
+  #newsletter-form .button-small {
+    min-width: 150px;
+  }
+
+input {
+  font-family: 'helvetica neue', helvetica, arial;
+  font-size: 18px;
+  padding: 19px 21px;
+  text-align: center;
+  color: #6C6C6C;
+  border: 1px #ccc solid;
+  margin-right: 10px;
+  width: 300px;
+  -webkit-transition: border-color .1s ease-out;
+  -moz-transition: border-color .1s ease-out;
+  -o-transition: border-color .1s ease-out;
+  transition: border-color .1s ease-out;
+}
+  input:focus {
+    outline: none;
+    border-color: #3FC2A5;
   }
 
 .logo-container {
@@ -191,12 +221,10 @@ blockquote {
 
 .call-to-action {
   text-align: center;
-  /*border-top: 1px solid #CCCCCC;*/
-  padding-bottom: 30px;
 }
 
 .call-to-action h2 {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
 /*Global Header & Footer Styles*/
@@ -910,6 +938,21 @@ body.mobile-nav-open #mobile-nav {
     height: 290px;
     width: auto;
     padding: 0 20px;
+  }
+
+  .container {
+    width: auto;
+    padding: 0 20px;
+  }
+
+  #newsletter-form input,
+  #newsletter-form button {
+    display: block;
+    width: 100%;
+  }
+
+  #newsletter-form input {
+    margin: 0 0 10px 0;
   }
 }
 
