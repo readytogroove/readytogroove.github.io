@@ -34,6 +34,9 @@
 
 	<body>
 
+    {% if page.url contains "/404" %}
+    {% else %}
+
     <div id="mobile-nav">
       <button class="mobile-nav-button">
         <span></span>
@@ -67,6 +70,10 @@
         <li class="nav-button-link"><a class="nav-button" target="_blank" href="https://itunes.apple.com/us/app/groove-period-fertility-tracker/id831795151?ls=1&mt=8">get the iPhone app</a></li>
       </ul>
     </div>
+    {% endif %}
+
+    {% if page.url contains "/404" %}
+    {% else %}
 
     <div id="header-container">
       <a href="/"><span id="groove">Groove</span></a>
@@ -96,8 +103,10 @@
           </ul>
         </div>
         <button class="mobile-nav-button">
-          <span></span>
+            <span></span>
         </button>
-      </div><!--#header-container-->
+    </div><!--#header-container-->
 
-      <div class="content-container">
+    {% endif %}
+
+    <div class="content-container">
