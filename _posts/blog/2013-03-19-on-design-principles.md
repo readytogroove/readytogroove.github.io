@@ -18,6 +18,6 @@ Creating great products at Groove is more than writing code, whipping up designs
 
 Truly great products are hard to find&mdash;especially great products made specifically for women. We want to help change that. We want to help set a new standard of quality for other companies like us, because women deserve amazing products. 
 
-We want you to feel a connection when you use our app&mdash;the type of connection that can only be produced when a product is crafted by a ridiculously passionate team of individuals. 
+We want you to feel a connection when you use our app&mdash;the type of connection that can only be created when a product is crafted by a ridiculously passionate team of individuals. 
 
-We love what we do, and we hope that it shows everytime you use our products. Groove's app is just the tip of the iceberg for us, and we're thrilled to have you along for the ride.
+We love what we do, and we hope that it shows every time you use our products. Groove's app is just the tip of the iceberg for us, and we're thrilled to have you along for the ride.
