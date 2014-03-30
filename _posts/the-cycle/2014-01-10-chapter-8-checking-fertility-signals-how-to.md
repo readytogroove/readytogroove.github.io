@@ -50,6 +50,8 @@ Since BBT is the body's resting temperature, taking it after at least three hour
 
 >_I'm one of those lucky people who wakes up every night to use the bathroom thanks to my laughably tiny bladder. Some nights I wake up at 2 a.m., get up to pee, go back to sleep for three hours, and then take my BBT at my usual 5 a.m. But on mornings when I happen to wake up at 3 a.m. or 4 a.m., I'll simply take my BBT a little early that day before getting up to use the bathroom...no big deal. I've personally had much better results taking it a couple of hours early rather than taking it a couple of hours late, since my temperature tends to rise when I sleep in._
 
+Minor fluctuations in BBT are expected, but it's the _pattern_ that we're interested in. Once a woman becomes familiar with her unique cycle, handling small BBT variations will become second-nature.
+
 
 ###4. Be consistent taking temperature either orally or vaginally
 
@@ -83,9 +85,11 @@ So why are so few women able to distinguish healthy cervical fluid? Like an elev
 ###How to Check Cervical Fluid
 
 
-The cervix, as we well know by this point, produces cervical fluid. Since the type of fluid present determines whether sperm are able to survive in the female body, it's important to get an accurate representation of the type of fluid produced on any given day. The best way to do this is to check fluid at its source. Yep, that's right. And it's not even that scary. I urge male partners to partake in the fluid-checking...make it fun! Educating men about the ins and outs of practicing STM will make for a more confident and supportive male partner when the method is being used to avoid or achieve a pregnancy. 
+The cervix, as we well know by this point, produces cervical fluid. Since the type of fluid present determines whether sperm are able to survive in the female body, it's important to get an accurate representation of the type of fluid produced on any given day. The best way to do this is to check fluid at its source. Yep, that's right. And it's not even that scary. I urge partners (male or female) to partake in the fluid-checking...make it fun! Educating both men and women about the ins and outs of practicing STM will make for a more confident and supportive partner when the method is being used to avoid or achieve a pregnancy. 
 
-One of the most convenient times to check fluid is after using the bathroom, as the proper position has already been "assumed". Using a (recently cleaned) middle finger, gather some cervical fluid by running the fingertip along the inner wall of the vagina as close to the cervix as possible (or even across the surface of the cervix). Gathering fluid from the cervix itself will provide the best representation of that day's fluid type. The cervix is easily recognized because it feels like a protruding nub with a small dimple or opening (called the os) in the middle. You can't miss it...unless the cervix is particularly high that day, in which case it may be more of a struggle. 
+One of the most convenient times to check fluid is just before using the bathroom, as the proper position has already been "assumed." Checking after using the bathroom is an option, though there is the possibility of cervical fluid getting "washed" away by urine or being pushed out due to muscle contractions. 
+
+Using a (recently cleaned) middle finger, gather some cervical fluid by running the fingertip along the inner wall of the vagina as close to the cervix as possible (or even across the surface of the cervix). Gathering fluid from the cervix itself will provide the best representation of that day's fluid type. The cervix is easily recognized because it feels like a protruding nub with a small dimple or opening (called the os) in the middle. You can't miss it...unless the cervix is particularly high that day, in which case it may be more of a struggle. 
 
 I've mentioned previously that for most women, there will not be any noticeable fluid for a majority of the cycle; however, a dampness will be observed due to the vaginal fluid that the female body continually produces. This fluid will feel similar to touching the inside of your mouth. After a couple minutes, vaginal fluid (like saliva) will evaporate from your finger; cervical fluid will not, which is an easy way to distinguish the two.
 

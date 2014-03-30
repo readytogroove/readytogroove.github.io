@@ -36,13 +36,11 @@ _Anna offers classes and private chart reviews to help women gain a deeper under
 <a class="text-link" target="_blank" href="http://www.acfertilityawareness.com">acfertilityawareness.com</a>
 
 
-###Nicole Jardim, Certified Women's Health Coach
+###Colleen Flowers, Justisse HRHP and Certified Fertility Awareness Educator
 
-_Nicole is a Women's Health Coach and Chief Period Fixer-Upper at The Healthy Elements, the business she founded in 2010 to help women reclaim their hormonal health and feminine vitality naturally. She is the creator of Fix Your Period, a series of programs that empower women to heal their menstrual conditions in a fun and sassy way._ 
+_Colleen loves teaching women and girls about their bodies! She can help you confidently and effectively avoid pregnancy, or maximize your chances of conceiving, or better understand your body and reproductive health. Whether you use alternative and holistic therapies or prefer Western and mainstream medicine, Colleen wants you to feel educated, encouraged and empowered because there is no right way or wrong way... only the best way for you!_ 
 
-<a class="text-link" href="mailto:support@thehealthyelements.com">Email Nicole</a>
-
-<a class="text-link" target="_blank" href="http://www.thehealthyelements.com">thehealthyelements.com</a>
+<a class="text-link" target="_blank" href="http://www.FlowersFertility.com">flowersfertility.com</a>
 
 
 ###Amy Sedgwick, HRHP, Co-Founder, Red Tent Sisters &amp; Ecosex.ca
@@ -56,9 +54,20 @@ _Red Tent Sisters specializes in helping women return to healthy reproductive fu
 
 ###Krystina Friedlander, Fertility Awareness Coach and Professional Childbirth Doula
 
-_Krystina is committed to supporting women as they make the empowered decisions necessary for their health and well-being. She is passionate about encouraging women's body-literacy, and sweeping away old myths and misconceptions like the cobwebs they are._
+_Krystina is committed to supporting women as they make empowered decisions for their health and well-being, working together to sweep away myths and misconceptions like the cobwebs they are. Combining Fertility Awareness and a holistic approach to women's health, she is is passionate about body literacy and culturally-sensitive care._
+
+<a class="text-link" href="mailto:barakdoula@gmail.com">Email Krystina</a>
 
 <a class="text-link" target="_blank" href="http://www.barakabirth.com">barakabirth.com</a>
+
+
+###Nicole Jardim, Certified Women's Health Coach
+
+_Nicole is a Women's Health Coach and Chief Period Fixer-Upper at The Healthy Elements, the business she founded in 2010 to help women reclaim their hormonal health and feminine vitality naturally. She is the creator of Fix Your Period, a series of programs that empower women to heal their menstrual conditions in a fun and sassy way._ 
+
+<a class="text-link" href="mailto:support@thehealthyelements.com">Email Nicole</a>
+
+<a class="text-link" target="_blank" href="http://www.thehealthyelements.com">thehealthyelements.com</a>
 
 
 ###Franchesca Duval, Billings Method Educator
@@ -77,10 +86,3 @@ _Jane is passionate about offering girls and women the means to understand and h
 <a class="text-link" href="mailto:jane@janebennett.com.au">Email Jane</a>
 
 <a class="text-link" target="_blank" href="http://www.janebennett.com.au">janebennett.com.au</a>
-
-
-###Colleen Flowers, Justisse HRHP and Certified Fertility Awareness Educator
-
-_Colleen loves teaching women and girls about their bodies! She can help you confidently and effectively avoid pregnancy, or maximize your chances of conceiving, or better understand your body and reproductive health. Whether you use alternative and holistic therapies or prefer Western and mainstream medicine, Colleen wants you to feel educated, encouraged and empowered because there is no right way or wrong way... only the best way for you!_ 
-
-<a class="text-link" target="_blank" href="http://www.FlowersFertility.com">flowersfertility.com</a>
