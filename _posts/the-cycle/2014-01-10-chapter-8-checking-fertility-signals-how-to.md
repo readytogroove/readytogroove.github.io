@@ -59,7 +59,7 @@ Minor fluctuations in BBT are expected, but it's the _pattern_ that we're intere
 The most accurate ways for a woman to measure her core body temperature are orally, vaginally, and rectally. Oral and vaginal temping will do just fine, since I'm pretty sure most of us aren't terribly excited about the thought of taking our temperature in the bum. Taking BBT vaginally is often a better representation of a woman's _true_ core temperature, especially for those who sleep with their mouths gaping open, but taking it orally works perfectly well for most women. Switching between oral and vaginal temping in the middle of a cycle may skew BBT readings, so it's not recommended. However, switching from vaginal to oral temping _in between_ cycles is okay.
 
 
-###5. Be mindful of events that can skew temperature readings
+<h3><a class="notes" name="events-that-can-skew-bbt">5. Be mindful of events that can skew temperature readings</a></h3>
 
 
 Decreased sleep quality tends to artificially increase BBT. The biggest offenders of this are illness (fever, flu, cold, etc.), lack of sleep or frequent waking, and alcohol consumption the previous night. 
@@ -100,12 +100,12 @@ Other great ways to get a good idea of cervical fluid type is to pay close atten
 Many women prefer checking fluid by swiping fingers across the vaginal opening rather than checking internally. Regardless of your personal preferences, checking multiple times per day is very important to get an accurate representation. The *way* you check is all a matter of personal preference!
 
 
-###Identifying Your Peak Day of Cervical Fluid
+<h3><a class="notes" name="identifying-your-peak-day">Identifying Your Peak Day of Cervical Fluid</a></h3>
 
 
 Identifying peak day may sound like a challenging undertaking if you're just starting off with charting. For those who are new to charting, it's always a good idea to simply observe fertility signs for at least a full cycle (or longer for those in special circumstances like perimenopause or recent cessation of hormone use) to allow individual patterns to emerge. 
 
-Peak day, as I have mentioned, is defined as the _last day_ of slippery cervical fluid or wet vaginal sensation. It is not necessarily the day with the largest quantity of cervical fluid, which is a common cause for confusion. The day after peak day, a drying pattern will begin. The peak day can _only_ be identified on the following day. I want to mention that not all women will experience a "dry" luteal phase. During the luteal phase, some women have a thicker, *drier* fluid than they experienced during the fertile window, but it may not necessarily be completely "dry". As with basal body temperature, it's imperative to look at the overall cervical fluid pattern rather than honing in on the individual day. Focusing on _changes_ in fluid from day to day will eliminate a great deal of confusion and uncertainty.
+Peak day, as I have mentioned, is defined as the _last day_ of slippery cervical fluid or wet vaginal sensation. It is not necessarily the day with the largest quantity of cervical fluid, which is a common cause for confusion. The day after peak day, a drying pattern will begin. The peak day can _only_ be identified on the following day. I want to mention that not all women will experience a "dry" luteal phase. During the luteal phase, some women have a thicker, *drier* fluid than they experienced during the fertile window, but it may not necessarily be completely "dry." As with basal body temperature, it's imperative to look at the overall cervical fluid pattern rather than honing in on the individual day. Focusing on _changes_ in fluid from day to day will eliminate a great deal of confusion and uncertainty.
 
 During daily checks, it may even be helpful to snap a picture of your fingers with your phone after gathering some fluid. Some will find that this will make it easier to spot changes. As a learning tool, I have provided a full cycle of cervical fluid images in <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes">Appendix E</a>. Each woman will find that she has a different fluid pattern, but these images will give you an idea of how cervical fluid can change throughout the course of a cycle. 
 

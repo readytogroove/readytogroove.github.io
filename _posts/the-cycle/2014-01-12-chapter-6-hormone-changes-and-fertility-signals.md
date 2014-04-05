@@ -61,7 +61,7 @@ A woman trying to _avoid_ a pregnancy will look to her BBT rise to determine whe
 It's important to point out that there are certain events&mdash;such as a fever, alcohol consumption the previous night, or restless sleep&mdash;that can cause an artificially high BBT. There are simple ways to pick out these "outlier" temperatures that I'll discuss in <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">Chapter 8</a>.
 
 
-##Cervical Position
+<h2><a class="notes" name="what-is-cervical-position">Cervical Position</a></h2>
 
 
 While observing cervical position is not _necessary_ to practice STM, it can provide great insight, as well as a way to double-check fertility signs, for women who feel they need a little something extra. The cervix undergoes physical changes in the presence of fluctuating estrogen and progesterone levels. Since the cervix itself produces cervical fluid, it certainly makes sense that changes in cervical fluid also mean changes in the cervix itself. For most of the menstrual cycle, the cervix sits low in the vagina and is very firm, like the tip of your nose. The opening in the cervix, or the os, is tightly closed at this time, indicating that the woman is not yet fertile. As ovulation grows closer, the cervix becomes soft like your lips; its position in the vagina becomes high, and it opens up to allow easier passage of sperm into the uterus. After ovulation, it returns back to its low, firm, and closed position rather quickly and remains in this position until the next cycle. I'll discuss how to check cervical position in <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">Chapter 8</a>. 
