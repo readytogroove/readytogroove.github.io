@@ -6,7 +6,7 @@ permalink: /the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resour
 category: the-cycle
 ---
 
-The following is a list of amazing people who are happy to provide you with more information about FA, STM, hormones, the menstrual cycle, and many other women's health related topics! If you are planning to use STM to avoid pregnancy, if you recently or are planning to cease the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks. What I'm trying to say is, these people are awesome and I'm confident they will fulfill all of your menstrual needs!
+The following is a list of amazing people who are happy to provide you with more information about fertility awareness (FA), the sympto-thermal method (STM), hormones, the menstrual cycle, and many other women's health related topics! If you are planning to use STM to avoid pregnancy, if you recently ceased (or are planning to cease) the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks. What I'm trying to say is, these people are awesome and I'm confident they will fulfill all of your menstrual needs!
 
 
 ###Hannah Ransom, Certified Fertility Awareness Educator
