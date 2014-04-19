@@ -362,7 +362,7 @@ li.nav-button-link {
     position: relative;
   }
     .mantle .button:after {
-      content: 'now available in the US';
+      content: 'now available worldwide';
       position: absolute;
       left: 0;
       right: 0;
