@@ -11,6 +11,48 @@
 }
 
 /*Global Styles*/
+/********************Styles related to learn.html*************************/
+#learn-area {
+ display: inline-block;
+ width: 100%;
+ height: 90%;
+
+   
+}
+#learn-picture {
+  width: 75%;
+  float: left;
+  display: inline-block;
+  
+}
+#learn-nav {
+  width: 25%;
+  margin-top: 15%;
+  float: right;
+  display: inline;
+  text-align: center;
+  
+}
+
+
+#learn-nav ul li {
+  font-size: 26px;
+  margin: 30px;
+  height: 30px;
+}
+#hover-text {
+  margin: 20px;
+  height: 100px;
+  background-color: #EDEDED;
+}
+#hover-text p {
+  padding: 10px;
+  display: none;
+}
+
+
+/********************Learn.html styles ends here. **************************/
+
 
 a,
 .social-button {

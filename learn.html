@@ -1,46 +1,129 @@
----
-title: Learn - Groove
----
 
-{% include header.html %}
 
-<script>
-$(document).ready(function(){	 	
-  slider = $('.bxslider').bxSlider({
-	  auto: true,
-	 autoControls: true,
-	captions: true,
-	pause: 5000
-	});
+<head>
+        <meta charset="utf-8">
+        <title>{{page.title}}</title>
+        <meta property="og:site_name" content="Groove"/>
+        <meta property="og:title" content="{{page.title}}"/>
+        <meta property="og:image" content="http://www.readytogroove.com/img/groove-icon.jpg"/>
+      <meta property="og:image:type" content="image/jpeg">
+        <meta property="og:description" content="Smarter fertility. A better you." />
+        <meta name="description" content="Smarter fertility. A better you.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <link rel='stylesheet' type='text/css' href="css/reset.css"/>
+        <link rel='stylesheet' type='text/css' href="css/style.css"/>
+        <link rel="shortcut icon" href="/img/favicon.png" type="image/png">
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <script type="text/javascript" src="js/bootstrap.js"></script>
+      <script type="text/javascript" src="js/learn_hover.js"></script>
+      
+<!--Google Analytics-->
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-   $('.bxslider').hover(
-	function() {
-		slider.stopAuto();
-	},
-	function() {
-		slider.startAuto();
-	}
-	);
+        ga('create', 'UA-37451363-1', 'readytogroove.com');
+        ga('send', 'pageview');
+      </script>   
+<!--/Google Analytics-->
 
-});
-</script>
+    </head>
+
+
+
+
+<!--Shobana started messing up from here.-->
+
 
 <div class="white-background">
 	<div class="container">
-
-		<h1 class="about-header gray-dark">Learn about the female reproductive system</h1>
-		<img class="uterus" src="/img/reproductive-system-bw.png" />
-<ul class="bxslider">
-  <li><img src="/img/menstruation.jpg" title="During menstruation, the lining of the uterus (or endometrium) is shed due to a sudden drop in hormones. At the same time, several ovarian follicles begin developing in hopes of releasing an egg during ovulation." /></li>
-  <li><img src="/img/follicular-phase1.jpg" title="As ovarian follicles develop, they begin releasing a hormone called estrogen. This estrogen causes the cervix to produce a special fluid, called cervical fluid, that aids in sperm survival and motility. During the early stages of follicle development, this cervical fluid has a sticky or tacky consistency. This also causes the uterine lining (or endometrium) to thicken in preparation for a possible pregnancy." /></li>
-  <li><img src="/img/follicular-phase2.jpg" title="As the ovarian follicles continue to develop, their estrogen production increases. One (and sometimes two) of the follicles will be develop much faster than the others, and this is the follicle that will end up ovulating. The increasing estrogen production causes the water content of the cervical fluid to increase, creating a creamy or lotiony consistency. The uterine lining continues to thicken in response to these hormone surges." /></li>
-  <li><img src="/img/ovulation.jpg" title="The ovulated egg (or ovum) will be swept into the nearest fallopian tube for possible fertilization. The follicles that did not ovulate will eventually die and be reabsorbed into the body. The high estrogen levels around this time cause the cervical fluid to become clear, stretchy, and slippery�much like raw egg white. This type of cervical fluid is highly fertile, as it is very conducive to sperm survival. " /></li>
-  <li><img src="/img/luteal-phase.jpg" title="After ovulation, the follicle that ovulated its egg (and is now empty) transforms into a structure called the corpus luteum and begins producing a new hormone called progesterone. This progesterone serves several purposes: it dries up cervical fluid (creating a hostile environment for sperm), tells any remaining follicles not to ovulate, and prepares the uterine lining for possible implantation of a fertilized egg"/></li>
-</ul>			
+		<h1 class="gray-dark">Learn about the female reproductive system</h1>
+		<div>
+            <div id = "learn-area">
+                <img id = "learn-picture" class="uterus" src="img/reproductive-system-bw.png" />
+                <div id = "learn-nav">
+                    <ul>
+                        <li id = "fallop" class = "text-link" > Fallopian Tubes </li>
+                        <li id = "ovaries" class = "text-link"> Ovaries </li>
+                        <li id = "uterus" class = "text-link"> Uterus </li>
+                        <li id = "cervix" class = "text-link"> Cervix </li>
+                        <li id = "vagina" class = "text-link"> Vagina </li>
+                    </ul>
+                </div>
+            </div>
+            <div id = "hover-text">
+               
+                    <p class = "small-text" id = "l1">Fallopian Tubes – These arm-like structures guide the recently ovulated egg (or ovum) towards the uterus (or womb). If fertilization of the ovum occurs, it will take place inside the fallopian tubes. The fertilized egg (or embryo), is then guided to the uterus for implantation.</p>
+                    
+                    <p class = "small-text" id = "l2"> Ovaries – The ovaries are small, almond-sized structures that each house around half a million ovarian follicles.</p>
+                    
+                    <p class = "small-text" id = "l3"> Uterus – The uterus (or womb) houses a developing fetus during pregnancy. Each cycle, in response to hormone surges, the lining of the uterus thickens to prepare for the possible implantation of a fertilized egg (or embryo). </p>
+                    
+                    <p class = "small-text" id = "l4"> Cervix – The cervix is the pathway between the uterus and the vagina. As ovulation approaches mid-cycle, the cervix produces a special fluid that helps with sperm survival and motility in an otherwise hostile vaginal environment.</p>
+                    
+                    <p class = "small-text" id = "l5"> Vagina – The vagina (or birth canal) is the pathway between the cervix and the external female genitalia (or vulva). It maintains a very acidic environment to protect against infection, and this environment is hostile to sperm without the presence of cervical fluid.</p>
+                
+            </div>
+        </div>    
 
 	</div><!--.container-->
 </div><!--.white-background-->
 
-{% include call-to-action.html %}
 
-{% include footer.html %}
+
+<!-- Till this area messed up by Shobana.-->
+
+
+
+
+
+
+
+<div class="gray-background">
+    <div class="container">
+        <div class="call-to-action">
+            <h2 class="gray-dark">Like what you see?</h2>
+            <a target="_blank" class="button" href="https://itunes.apple.com/app/id831795151">Get the iPhone app now</a>
+        </div><!--.call-to-action-->
+    </div><!--.container-->
+</div><!--.gray-background-->
+
+
+    </div><!--.content-container-->
+    
+<!-- Website Footer -->
+    <div id="footer-container">
+        <div class="footer-center">
+        <div class="social">
+          <div class="social-button">
+                     <a target="_blank" id="twitter" href="http://www.twitter.com/readytogroove" title="Twitter"></a>
+          </div>
+          <div class="social-button">
+                     <a target="_blank" id="facebook" href="http://www.facebook.com/readytogroove" title="Facebook"></a>
+          </div>
+          <div class="social-button">
+                     <a target="_blank" id="pinterest" href="http://www.pinterest.com/readytogroove" title="Pinterest"></a>
+          </div>
+        </div><!--.social-->
+        <p class="footer-text">
+          <a class="text-link" href="/press">press</a>
+          |
+          <a class="text-link" href="/privacy">privacy policy</a>
+          |
+                <a class="text-link" href="/terms">terms of use</a>
+          |
+          <a class="text-link" href="mailto:howdy@readytogroove.com">howdy@readytogroove.com</a>
+        </p>
+            <p class="footer-text">&#169; 2014 Groove, LLC. All rights reserved.</p>
+        <p class="footer-text">Crafted with <span class="bold pink">love</span> in Austin, Texas.</p>
+        </div><!--.footer-center-->
+    </div><!--#footer-container-->
+    <script>
+      var $body = $('body');
+      $('.mobile-nav-button').click(function(evt) {
+        console.log('click!');
+        $body.toggleClass('mobile-nav-open');
+      });
+    </script>
