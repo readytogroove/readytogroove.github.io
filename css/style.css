@@ -170,6 +170,20 @@ blockquote {
     min-width: 150px;
   }
 
+.bx-wrapper .bx-caption {
+	position: relative;
+        background: #EDEDED;
+	width: 100%;
+}
+
+.bx-wrapper .bx-caption span {
+        color: #000;
+	font-family: Arial;
+	display: block;
+	font-size: .85em;
+	padding: 10px;
+}
+
 input {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
@@ -330,15 +344,15 @@ li.nav-button-link {
   }
 
   #twitter {
-    background: url('/img/32x32-twitter.png') 0 0 no-repeat;
+    background: url('../img/32x32-twitter.png') 0 0 no-repeat;
   }
 
   #facebook {
-    background: url('/img/32x32-facebook.png') 0 0 no-repeat;
+    background: url('../img/32x32-facebook.png') 0 0 no-repeat;
   }
 
   #pinterest {
-    background: url('/img/32x32-pinterest.png') 0 0 no-repeat;
+    background: url('../img/32x32-pinterest.png') 0 0 no-repeat;
   }
 
   .footer-center {

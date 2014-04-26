@@ -4,10 +4,37 @@ title: Learn - Groove
 
 {% include header.html %}
 
+<script>
+$(document).ready(function(){	 	
+  slider = $('.bxslider').bxSlider({
+	  auto: true,
+	 autoControls: true,
+	captions: true,
+	pause: 5000
+	});
+
+   $('.bxslider').hover(
+	function() {
+		slider.stopAuto();
+	},
+	function() {
+		slider.startAuto();
+	}
+	);
+
+});
+</script>
+
 <div class="white-background">
 	<div class="container">
 		<h1 class="about-header gray-dark">Learn about the female reproductive system</h1>
-		
+<ul class="bxslider">
+  <li><img src="img/menstruation.jpg" title="During menstruation, the lining of the uterus (or endometrium) is shed due to a sudden drop in hormones. At the same time, several ovarian follicles begin developing in hopes of releasing an egg during ovulation." /></li>
+  <li><img src="img/follicular-phase1.jpg" title="As ovarian follicles develop, they begin releasing a hormone called estrogen. This estrogen causes the cervix to produce a special fluid, called cervical fluid, that aids in sperm survival and motility. During the early stages of follicle development, this cervical fluid has a sticky or tacky consistency. This also causes the uterine lining (or endometrium) to thicken in preparation for a possible pregnancy." /></li>
+  <li><img src="img/follicular-phase2.jpg" title="As the ovarian follicles continue to develop, their estrogen production increases. One (and sometimes two) of the follicles will be develop much faster than the others, and this is the follicle that will end up ovulating. The increasing estrogen production causes the water content of the cervical fluid to increase, creating a creamy or lotiony consistency. The uterine lining continues to thicken in response to these hormone surges." /></li>
+  <li><img src="img/ovulation.jpg" title="The ovulated egg (or ovum) will be swept into the nearest fallopian tube for possible fertilization. The follicles that did not ovulate will eventually die and be reabsorbed into the body. The high estrogen levels around this time cause the cervical fluid to become clear, stretchy, and slippery–much like raw egg white. This type of cervical fluid is highly fertile, as it is very conducive to sperm survival. " /></li>
+  <li><img src="img/luteal-phase.jpg" title="After ovulation, the follicle that ovulated its egg (and is now empty) transforms into a structure called the corpus luteum and begins producing a new hormone called progesterone. This progesterone serves several purposes: it dries up cervical fluid (creating a hostile environment for sperm), tells any remaining follicles not to ovulate, and prepares the uterine lining for possible implantation of a fertilized egg"/></li>
+</ul>			
 
 	</div><!--.container-->
 </div><!--.white-background-->
