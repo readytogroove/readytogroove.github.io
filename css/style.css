@@ -677,6 +677,12 @@ div.book-image-container p.small-text {
   margin-bottom: 15px;
 }
 
+/* learn.html styles */
+.uterus {
+  margin-top: 10px;
+}
+
+
 /* mobile navigatron */
 .mobile-nav-button {
   display: none;
