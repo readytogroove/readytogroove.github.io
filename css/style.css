@@ -41,7 +41,7 @@
   height: 30px;
 }
 #hover-text {
-  margin: 20px;
+  margin-bottom: 40px;
   height: 100px;
   background-color: #EDEDED;
 }
@@ -717,11 +717,6 @@ div.book-image-container p.small-text {
 
 .legal {
   margin-bottom: 15px;
-}
-
-/* learn.html styles */
-.uterus {
-  margin-top: 10px;
 }
 
 
