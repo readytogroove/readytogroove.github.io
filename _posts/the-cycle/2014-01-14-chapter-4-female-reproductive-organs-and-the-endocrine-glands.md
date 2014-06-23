@@ -14,7 +14,7 @@ In <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">Par
 
 While looking at a diagram of the female reproductive system might be interesting, it tells us nothing about the _purpose_ of each of these organs. We can't simply glance at a car's engine and immediately know how each part contributes to the functioning of the engine as a whole. The same concept applies here, so I'll give a simple description of each of the parts labeled in the diagram to give you an idea of just how amazing that female engine really is!
 
-{% include image.html url="/img/book/image1.jpg" description="Female Reproductive Organs" %}
+{% include image.html url="/img/book/female-reproductive-system.jpg" description="Female Reproductive Organs" %}
 
 
 ###The Ovaries
