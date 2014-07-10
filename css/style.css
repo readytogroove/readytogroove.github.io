@@ -564,16 +564,23 @@ img.groover {
 
 /* blog.html styles */
 
-.blog-container {
+.blog-list-container {
   border-bottom: 1px solid #CCCCCC;
   margin-bottom: 50px;
   padding-bottom: 50px;
 }
 
-  .blog-container:last-child {
+  .blog-list-container:last-child {
     border-bottom: none;
     padding-bottom: 0;
   }
+
+.blog-container {
+  width: 700px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .blog-info {
   overflow: hidden;
@@ -690,7 +697,7 @@ a.notes {
 }
 
 img.image {
-  width: 70%;
+  width: 90%;
   text-align: center;
   border: 1px solid #ccc;
   margin-bottom: 15px;
@@ -885,6 +892,12 @@ body.mobile-nav-open #mobile-nav {
 
   .blog-title {
     text-align: center;
+  }
+
+  .blog-container {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .app-info {
