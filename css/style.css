@@ -50,8 +50,14 @@
   display: none;
 }
 
-
 /********************Learn.html styles ends here. **************************/
+
+
+/*Hide List Builder Badge*/
+
+#sumotest-badge {
+  z-index: -1000000 !important;
+}
 
 
 a,
