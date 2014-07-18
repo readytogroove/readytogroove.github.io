@@ -703,7 +703,7 @@ a.notes {
 }
 
 img.image {
-  width: 90%;
+  max-width: 600px;
   text-align: center;
   border: 1px solid #ccc;
   margin-bottom: 15px;

@@ -9,7 +9,7 @@ excerpt: "Because of this overwhelming response, we decided to push our global a
 
 Ever since the U.S. launch of our app last month, we've been getting a ton of emails from folks asking when the app will be available in other countries. I just _love_ that others are so excited about what we're building.
 
-The people have spoken! Because of this overwhelming response, we decided to push our global app launch up the priority list. We're super excited to announce that our <a class="text-link" href="https://itunes.apple.com/app/id831795151">Period &amp; Fertility Tracker</a> will be available outside of the United States starting this Saturday (April 19)...that's 2 days away!
+The people have spoken! Because of this overwhelming response, we decided to push our global app launch up the priority list. We're super excited to announce that our <a class="text-link" target="_blank" href="https://itunes.apple.com/app/id831795151">Period &amp; Fertility Tracker</a> will be available outside of the United States starting this Saturday (April 19)...that's 2 days away!
 
 We're really excited to share our product with so many amazing people. We've made some improvements to the app for the big day, and we really hope you like it as much as we do.
 
