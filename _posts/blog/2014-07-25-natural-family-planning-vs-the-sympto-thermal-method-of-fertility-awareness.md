@@ -4,7 +4,7 @@ title:  "Natural Family Planning vs. the Sympto-thermal Method of Fertility Awar
 date:   2014-07-25
 author: "Jennifer Aldoretta"
 category: blog
-excerpt: "NFP and a method like the sympto&dash;thermal method of fertility awareness (STM) have a lot in common, but there are several key differences..."
+excerpt: "Natural Family Planning and a method like the sympto&dash;thermal method of fertility awareness (STM) have a lot in common, but there are several key differences..."
 ---
 
 Natural Family Planning (NFP), much like the commonly&dash;mocked <a class="text-link" href="/blog/2014/06/23/standard-days-method-rhythm-method-sympto-thermal-method-whats-the-difference/#.U9Jup4BdVW0">rhythm method</a>, has been confused with just about every natural method of pregnancy prevention, even though it&rsquo;s not an all&dash;inclusive term. NFP and a method like the <a class="text-link" href="/the-cycle/">sympto&dash;thermal method of fertility awareness</a> (STM) have a lot in common, but there are several key differences that I&rsquo;m going to discuss in this blog post.
