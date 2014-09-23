@@ -4,6 +4,7 @@ title:  "Chapter 9: Sympto-thermal Method Effectiveness"
 date:   2014-01-09
 permalink: /the-cycle/chapter-9-sympto-thermal-method-effectiveness
 category: the-cycle
+excerpt: "The sympto-thermal method is highly effective at preventing pregnancy when practiced correctly and consistently. Learn about just how effective it is and why high failure rates that are commonly reported are extremely misleading."
 ---
 
 I know what you're thinking: "I totally love that this super awesome method is natural...but is it _effective_?" How well a method works is often one of the first questions we ask about birth control, and for good reason! So why didn't I get into all this right at the beginning? We tend to be especially skeptical of natural birth control&mdash;especially since the most commonly discussed natural method is the rhythm method, which has a high failure rate&mdash;so explaining _why_ the sympto-thermal method (STM) is so effective is an important part of the conversation. Now that we got the _why_ out of the way, we can finally get started on the _how_. 
@@ -26,4 +27,9 @@ Keep in mind that _anyone_ has the ability to use a method of birth control perf
 
 If you find yourself pining for more STM information after reading this part of the book, I highly recommend adding Toni Weschler's book <a class="text-link" target="_blank" href="http://www.amazon.com/gp/product/0060881909/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060881909&linkCode=as2&tag=groove038-20"><em>Taking Charge of Your Fertility</em></a> to your reading list. She does a fantastic job presenting fertility awareness information in an informative and engaging way. Much of what I first learned about STM was learned using her text, and I cannot recommend it enough for women (or men) just starting out. 
 
-Or, if you find yourself utterly lost and confused (or simply wanting a bit of guidance) after reading this book, <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">Appendix D</a> contains several wonderful people who can help guide you on your journey! 
+Or, if you find that you&rsquo;d like a bit more help after reading this book, there are lots of <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">wonderful experts</a> who can guide you on your journey! 
+
+
+<div class="arrows">
+	<h3><a class="text-link previous" href="/the-cycle/chapter-8-checking-fertility-signs-how-to/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Next Excerpt">Next &raquo;</a></h3>
+</div>

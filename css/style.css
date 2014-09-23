@@ -624,32 +624,43 @@ img.blog-author-img {
 
 .app-info {
   overflow: hidden;
-  margin-bottom: 75px;
-  border-bottom: 1px solid #CCCCCC;
-  padding-bottom: 75px;
+  margin-bottom: 25px;
 }
 
-  .app-info:last-child {
-    border-bottom: none;
-    margin-bottom: 0;
-  }
 
 .app-img-container {
-  float: left;
-  width: 55%;
+  text-align: center;
+  margin-top: 40px;
 }
 
 .app-img {
-  width: 90%;
+  width: 40%;
 }
 
-.app-info-text {
-  float: right;
-  width: 45%;
+.column-img-container {
+  margin-top: 50px;
+  width: 30%;
+  margin-right: 4%;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.column-img-container:last-child {
+  margin-right: 0;
+}
+
+.goal-img {
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+.app-info-text h3 {
+  margin-top: 5px;
 }
 
 .app-info-header {
-  margin-bottom: 20px;
+  text-align: center;
 }
 
 .app-page-book-button {
@@ -658,6 +669,10 @@ img.blog-author-img {
 
 .margin-bottom {
   margin-bottom: 35px;
+}
+
+.no-bottom-padding {
+  padding-bottom: 0;
 }
 
 .faq {
@@ -684,12 +699,26 @@ img.the-cycle {
 }
 
 .the-cycle-header {
-  margin-bottom: 7px;
+  margin-bottom: 10px;
 }
 
 .the-cycle-info-text {
   margin-top: 30px;
   margin-bottom: 10px;
+}
+
+.arrows {
+  margin-top: 20px;
+}
+
+.previous {
+  display: inline-block;
+  float: left;
+}
+
+.next {
+  display: inline-block;
+  float: right;
 }
 
 a.notes {
@@ -920,9 +949,23 @@ body.mobile-nav-open #mobile-nav {
   }
 
   .app-info-text {
-    float: none;
-    display: block;
     width: 100%;
+  }
+
+  .column-img-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+    .column-img-container:last-child {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+  .goal-img {
+    width: 150px;
   }
 
   .app-info-header {
@@ -1052,6 +1095,10 @@ body.mobile-nav-open #mobile-nav {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
   }
+
+  .column-img-container {
+    width: 70%;
+  }
 }
 
 @media screen and (max-width: 475px) {
@@ -1076,6 +1123,10 @@ body.mobile-nav-open #mobile-nav {
 
   img.image, img.book-image-cf {
     width: 100%;
+  }
+
+  .column-img-container {
+    width: 95%;
   }
 }
 

@@ -4,9 +4,10 @@ title:  "Chapter 4: Female Reproductive Organs &amp; the Endocrine Glands that M
 permalink: /the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands
 date:   2014-01-14
 category: the-cycle
+excerpt: "Explore the female reproductive system and all of its amazingness. Learn about how lady parts actually work, along with the endocrine glands that make all the magic happen."
 ---
 
-In <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">Part 1</a> of this text, I discussed the stigmatization of menstruation and why, even today, discussion and social acceptance of menstruation are of the utmost importance. Because the female reproductive organs are oh-so-neatly tucked away, revealing their awesomeness requires taking a closer look. The battle to liberate women begins with an improvement in menstrual education, and achieving this goal starts with knowledge of female reproductive anatomy. The purpose of this chapter is to do a little exploring to learn all about lady parts! 
+In <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">Part 1</a> of this text, I discussed the stigmatization of menstruation and why, even today, discussion and social acceptance of menstruation are of the utmost importance. Because the female reproductive organs are oh-so-neatly tucked away, revealing their awesomeness requires taking a closer look. The battle to liberate women begins with an improvement in menstrual education, and achieving this goal starts with knowledge of female reproductive anatomy. The purpose of this section is to do a little exploring to learn all about lady parts! 
 
 
 ##The Female Reproductive Organs
@@ -32,7 +33,7 @@ The uterus is the female reproductive organ you're probably the most familiar wi
 ###The Vagina
 
 
-The vagina is the pathway between the uterus and the vaginal opening (which is part of the external female genitalia, or the vulva). During menstruation, the endometrium (or menstrual fluid) flows through the opening of the cervix (or the os), through the vagina, and out the vaginal opening. Aside from its more obvious purposes, the vagina maintains an acidic environment to prevent harmful bacteria from causing an infection. This prevents vaginal and yeast infections and also helps prevent potentially harmful bacteria from reaching a developing fetus during pregnancy. I mentioned in <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">Chapter 1</a> that this acidic environment keeps the vagina clean...no lady-part-irrigation necessary!
+The vagina is the pathway between the uterus and the vaginal opening (which is part of the external female genitalia, or the vulva). During menstruation, the endometrium (or menstrual fluid) flows through the opening of the cervix (or the os), through the vagina, and out the vaginal opening. Aside from its more obvious purposes, the vagina maintains an acidic environment to prevent harmful bacteria from causing an infection. This prevents vaginal and yeast infections and also helps prevent potentially harmful bacteria from reaching a developing fetus during pregnancy. I mention in Chapter 1 of the book&mdash;which you can <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">read for free</a>&mdash;that this acidic environment keeps the vagina clean...no lady-part-irrigation necessary!
 
 
 ###The Cervix
@@ -40,7 +41,7 @@ The vagina is the pathway between the uterus and the vaginal opening (which is p
 
 The cervix is often overlooked as a vital part of the female anatomy. Many people&mdash;and I used to be one of them&mdash;only know the cervix as that thing that dilates during childbirth. But, oh, how misguided this is! The cervix (which connects the uterus and the vagina) arguably plays the most important role of all in the process of conception, and, conversely, in the process of _avoiding_ pregnancy using the sympto-thermal method (STM). 
 
-The cervix produces fluid, very similar in makeup to seminal fluid, which aids sperm survival and motility. The acidic environment maintained by the vagina helps prevent infection by keeping bad bacteria at bay, but it also happens to be extremely inhospitable to sperm. Without cervical fluid, it would be highly unlikely (and perhaps impossible) for a pregnancy to naturally occur! Luckily, for those of us wanting to naturally avoid a pregnancy, cervical fluid is typically only produced around the time of ovulation. So monitoring this fluid on a daily basis tells us, with a high degree of accuracy, when we need not worry about unprotected intercourse resulting in an unwanted pregnancy. Knowing what to look for is key, so don't even _think_ about trying to prevent or achieve a pregnancy using the sympto-thermal method without first reading <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method">Chapter 7</a>, <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">Chapter 8</a>, and <a class="text-link" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness">Chapter 9</a>!
+The cervix produces fluid, very similar in makeup to seminal fluid, which aids sperm survival and motility. The acidic environment maintained by the vagina helps prevent infection by keeping bad bacteria at bay, but it also happens to be extremely inhospitable to sperm. Without cervical fluid, it would be highly unlikely (and perhaps impossible) for a pregnancy to naturally occur! Luckily, for those of us wanting to naturally avoid a pregnancy, cervical fluid is typically only produced around the time of ovulation. So monitoring this fluid on a daily basis tells us, with a high degree of accuracy, when we need not worry about unprotected intercourse resulting in an unwanted pregnancy. Knowing what to look for is key, so don't even _think_ about trying to prevent or achieve a pregnancy using the sympto-thermal method without first learning <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method">the rules of STM</a>, how to <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">monitor and check your fertility</a>, and <a class="text-link" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness">the method's effectiveness</a>!
 
 
 ###The Fallopian Tubes
@@ -60,7 +61,7 @@ The hypothalamus gland and its sidekick, the pituitary gland, are continuously c
 
 ###The Pituitary Gland
 
-The pea-sized pituitary gland is located at the base of the brain just above the brain stem. It helps control processes such as growth, thyroid function, body temperature regulation, and sex organ function. Under the direction of the hypothalamus gland, the pituitary releases two of the hormones directly responsible for the menstrual cycle: luteinizing hormone (LH) and follicle stimulating hormone (FSH). I'll discuss the role both LH and FSH play in the menstrual cycle in <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle">Chapter 5</a>.
+The pea-sized pituitary gland is located at the base of the brain just above the brain stem. It helps control processes such as growth, thyroid function, body temperature regulation, and sex organ function. Under the direction of the hypothalamus gland, the pituitary releases two of the hormones directly responsible for the menstrual cycle: luteinizing hormone (LH) and follicle stimulating hormone (FSH). I'll discuss <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle"></a>the role of LH and FSH in the menstrual cycle.
 
 ###The Hypothalamus Gland
 
@@ -68,4 +69,9 @@ The hypothalamus is an almond-sized gland that sits at the base of the brain dir
 
 The hypothalamus produces a hormone called gonadotropin-releasing hormone (GnRH) in response to hormonal signals it receives from the ovaries. This GnRH triggers the pituitary to produce LH and FSH, and lets it know how much of each to release into the bloodstream. So you might say that the hypothalamus and GnRH are the pilot and copilot of the menstrual cycle plane: they keep operations running smoothly, but when the ovaries (or air traffic controllers in this awesomely bad analogy) chime in, the hypothalamus and GnRH adjust to keep the menstrual cycle (or the plane) on course.
 
-Not so bad, right? The <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle">next chapter</a> will focus on how the female hormones work together to produce what we know to be the menstrual cycle. I personally did not have an understanding of the information presented in the <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle">next chapter</a> until I was well into adulthood. Unfortunately, this isn't uncommon; many men and women find they have a huge knowledge gap when it comes to specifics regarding female hormones and reproduction. Now is the perfect time to change that.
+Not so bad, right? Next, we&rsquo;ll discuss how the <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle">female hormones work together</a> to produce what we know to be the menstrual cycle. I personally did not have an understanding of this information until I was well into adulthood. Unfortunately, this isn't uncommon; many men and women find they have a huge knowledge gap when it comes to specifics regarding female hormones and reproduction. Now is the perfect time to change that.
+
+
+<div class="arrows">
+	<h3><a class="text-link previous" href="/the-cycle/introduction/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Next Excerpt">Next &raquo;</a></h3>
+</div>

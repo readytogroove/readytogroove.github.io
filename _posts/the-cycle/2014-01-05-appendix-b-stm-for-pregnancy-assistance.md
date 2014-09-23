@@ -1,10 +1,13 @@
 ---
 layout: book-content
-title:  "Appendix B: The Sympto-thermal Method for Pregnancy Assistance"
+title:  "Appendix B: Getting Pregnant with the Sympto-thermal Method"
 date:   2014-01-05
 permalink: /the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance
 category: the-cycle
+excerpt: "Learn how to maximize your chances of getting pregnant quickly, and some of the additional benefits of charting your fertility while trying to conceive."
 ---
+
+It's very important to understand the <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/">rules of the sympto-thermal method</a> before diving into this section!
 
 Using the sympto-thermal method (STM) to achieve a pregnancy, in theory, is simply the opposite of using it for pregnancy prevention. If a woman knows when she's in her fertile window and she wants to avoid a pregnancy, all she has to do is avoid sex; if she wants to achieve a pregnancy, she simply has to have sex during her fertile window, right? Well, yes and no. Though there is about an 85% chance that a couple will get pregnant over the course of a year when using no method of contraception, there are days during the fertile window when sex is _more_ likely to result in a pregnancy. Namely, any day during the fertile window when cervical fluid is clear, very stretchy, or slippery will be extremely fertile. If spotting is present, even better! The trick is to try to time intercourse as close to the day of ovulation as possible, which can feel like somewhat of a guessing game. However, if you compare the stress of using STM to the stress of having no knowledge of STM and trying to time sex based on an "average" woman's cycle, it's far less of a shot in the dark. One must also take into account that a man's sperm count will not be as high if he ejaculated the previous day. So for pregnancy achievement, timing sex for days when cervical fluid has the highest water content will result in the greatest chances of conception. 
 
@@ -28,4 +31,9 @@ Unfortunately, a pregnancy resulting in a miscarriage is sometimes a fact of lif
 {% include image.html url="/img/book/fertility-awareness-basal-body-temperature-chart-miscarriage.jpg" description="After a confirmed pregnancy on cycle day 25 using a pregnancy test, this woman's BBT begins to fall significantly starting on cycle day 31. She, unfortunately, experiences a miscarriage after 20 days of a high BBT and a confirmed pregnancy." %}
 
 
-I would also recommend reading through <a class="text-link" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health">Appendix C</a> for information on reproductive disorders that can lead to difficulty achieving a pregnancy or carrying a pregnancy to term.
+I would also recommend reading about how the sympto-thermal method can <a class="text-link" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health">detect reproductive disorders</a> that can lead to difficulty achieving a pregnancy or carrying a pregnancy to term.
+
+
+<div class="arrows">
+	<h3><a class="text-link previous" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Next Excerpt">Next &raquo;</a></h3>
+</div>

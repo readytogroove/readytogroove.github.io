@@ -6,15 +6,36 @@ title: The Cycle - Groove
 
 <div class="white-background">
   <div class="container">
-    <h1 class="gray-dark the-cycle-header">The Cycle:</h1>
-    <h3 class="gray-dark the-cycle-sub-header italics">Breaking Stigmas & Unlocking the Benefits of the Female Reproductive System with the Sympto-thermal Method of Fertility Awareness</h3>
-    <p class="gray-light the-cycle-info-text"><span class="italics">The Cycle</span> is a free book written and illustrated by Groove's CEO, <a class="text-link" href="/about">Jennifer Aldoretta</a>. The following excerpts from the book will teach you all about the female reproductive system and will explain the basics of something called the sympto-thermal method of fertility awareness (STM). STM is a powerful tool that can help you naturally and effectively prevent pregnancy, help you get pregnant, and help you improve or maintain your reproductive health. We believe everyone should have access to free, high-quality information about reproductive health, and our mission is to educate and empower women. That's why the entire book can be <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">downloaded for free here</a>.</p>
-    <!-- <img class="the-cycle" src="/img/the-cycle.jpg" /> -->
-    <div class="the-cycle-chapters">
+    <div class="blog-list-container">
+      <h1 class="gray-dark the-cycle-header">The Cycle</h1>
+      <h2 class="gray-dark the-cycle-header">Breaking Stigmas & Unlocking the Benefits of the Female Reproductive System with the Sympto-thermal Method of Fertility Awareness</h2>
+      <!-- <h3 class="gray-dark the-cycle-sub-header italics">Breaking Stigmas & Unlocking the Benefits of the Female Reproductive System with the Sympto-thermal Method of Fertility Awareness</h3> -->
+      <h3 class="gray-light" id="book-info"><span class="italics">The Cycle</span> is a free book written and illustrated by Groove&rsquo;s CEO, <a class="text-link" href="/about">Jennifer Aldoretta</a>. The following excerpts from the book will teach you how to figure out exactly when you're fertile to naturally and effectively prevent pregnancy, to help you maximize your chances of getting pregnant quickly, or to help you keep tabs on your reproductive health. Our mission at Groove is to educate and empower women. That's why the entire book can be <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">downloaded for free</a>.</p>
+    </div>
+
+{% for post in site.categories['the-cycle'] %}
+    <div class="blog-list-container">
+      <h1 class="gray-dark blog-title"><a class="text-link" href="{{site.base-url}}{{post.url}}">{{ post.title }}</a></h1>
+      <h3 class="gray-light blog-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</h3>
+<!--       <div class="blog-info">
+        <div class="author-img">
+          {% if post.author == "Brian Smith" %}
+          <img class="blog-author-img" src="../img/BS.jpg" />
+          {% else %}
+          <img class="blog-author-img" src="../img/JA.jpg" />
+          {% endif %}
+        </div>
+        <div class="blog-info-text">
+          <p class="gray-very-light small-text">{{ post.author }} wrote this on {{ post.date | date: '%B %-d, %Y' }}</p>
+        </div>
+      </div> -->
+    </div><!--.blog-list-container-->
+{% endfor %}
+<!--     <div class="the-cycle-chapters">
       {% for post in site.categories['the-cycle'] %}
       <h3><a class="text-link" href="{{site.base-url}}{{post.url}}">{{ post.title }}</a></h3>
       {% endfor %}
-    </div>
+    </div> -->
 
   </div><!--.container-->
 </div><!--.white-background-->
