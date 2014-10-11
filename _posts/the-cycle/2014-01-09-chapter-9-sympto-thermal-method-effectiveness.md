@@ -4,7 +4,7 @@ title:  "Chapter 9: Sympto-thermal Method Effectiveness"
 date:   2014-01-09
 permalink: /the-cycle/chapter-9-sympto-thermal-method-effectiveness
 category: the-cycle
-excerpt: "The sympto-thermal method is highly effective at preventing pregnancy when practiced correctly and consistently. Learn about just how effective it is and why high failure rates that are commonly reported are extremely misleading."
+excerpt: "Fertility Charting Effectiveness"
 ---
 
 I know what you're thinking: "I totally love that this super awesome method is natural...but is it _effective_?" How well a method works is often one of the first questions we ask about birth control, and for good reason! So why didn't I get into all this right at the beginning? We tend to be especially skeptical of natural birth control&mdash;especially since the most commonly discussed natural method is the rhythm method, which has a high failure rate&mdash;so explaining _why_ the sympto-thermal method (STM) is so effective is an important part of the conversation. Now that we got the _why_ out of the way, we can finally get started on the _how_. 
@@ -31,5 +31,5 @@ Or, if you find that you&rsquo;d like a bit more help after reading this book, t
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/chapter-8-checking-fertility-signs-how-to/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/chapter-8-checking-fertility-signs-how-to/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

@@ -4,7 +4,7 @@ title:  "Appendix C: The Sympto-thermal Method for Reproductive Health"
 date:   2014-01-04
 permalink: /the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health
 category: the-cycle
-excerpt: "Learn how practicing the sympto-thermal method can help you detect potential reproductive orders, and can even help you take steps to improve the health of your reproductive system."
+excerpt: "Charting for Reproductive Health"
 ---
 
 When a woman knows what is normal and healthy for her cycle, it's easy to detect when reproductive health might be on the decline. Things like stress, lack of sleep, too much exercise, illness, diet, and major life events can all delay ovulation and interfere with the menstrual cycle, so it comes as no surprise that taking a deeper look at a woman's cycle reveals a great deal about the state of her health. Charting fertility signs can assist in the diagnosis of many reproductive (and non-reproductive) health disorders such as polycystic ovarian syndrome (PCOS), luteal phase defect, and low thyroid function, to name a few. I would highly recommend getting in touch with <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">fertility awareness educator or menstrual health resource</a> if you (or your partner) struggle with any of these disorders.
@@ -32,5 +32,5 @@ It's not immediately obvious that an underactive thyroid (hypothyroidism) can ma
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

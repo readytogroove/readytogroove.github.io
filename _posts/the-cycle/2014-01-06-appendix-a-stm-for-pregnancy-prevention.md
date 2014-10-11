@@ -4,7 +4,7 @@ title:  "Appendix A: Preventing Pregnancy with the Sympto-thermal Method"
 date:   2014-01-06
 permalink: /the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention
 category: the-cycle
-excerpt: "Learn how to get the most from using the sympto-thermal method to prevent pregnancy, along with some of the things you can expect if you&rsquo;re making the switch from hormonal contraceptives."
+excerpt: "Charting to Prevent Pregnancy"
 ---
 
 If you haven't yet learned about <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals">how female hormones affect fertility</a>, <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method">how to practice the sympto-thermal method</a> (STM), and <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">how to check fertility signs</a>, woah there! You're getting a little ahead of yourself. Make sure you have a thorough understanding of the rules of STM _before_ reading through this extra info. For those who have read and understand those chapters of the book, you may pass. This section will cover information regarding coming off the pill or other hormonal contraceptives, education recommendations, and a few sample pregnancy prevention charts. Before we get started, I'd like to mention once again that _STM as a way to prevent pregnancy does not protect against STIs or HIV, so condom use is recommended for those who are concerned about the possible spread of STIs or HIV._ It's also very important to remember that the effectiveness of STM is directly correlated to how strictly and consistently the rules are adhered to.
@@ -51,5 +51,5 @@ There are a couple sample birth control charts shown below. For assistance with 
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

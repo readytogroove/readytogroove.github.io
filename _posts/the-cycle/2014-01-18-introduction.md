@@ -4,7 +4,7 @@ title:  "Introduction"
 date:   2014-01-18
 permalink: /the-cycle/introduction
 category: the-cycle
-excerpt: "Jennifer Aldoretta, Groove&rsquo;s CEO, wrote <em>The Cycle</em> because she wants to help empower women everywhere with information we&rsquo;re rarely taught about our bodies. Learn about why she wrote this free book and what led her to start Groove."
+excerpt: "Introduction"
 ---
 
 Birth control options are not created equal. Hormonal methods and I were friends for many years. After all, they're easy to use and incredibly effective. My tumultuous relationship with the pill lasted nearly 10 years, and breaking up wasn't easy. By the time I started experiencing the recurring heart palpitations, lightheadedness, and shortness of breath, I had already been on the pill for eight years. It was only after numerous doctor visits, countless tests, and being told by my doctors that the pill couldn't possibly be at the root of my problems that I decided to take matters into my own hands. When I finally gathered the courage to stop taking the pill despite warnings and pressure from my gynecologist, my symptoms completely disappeared and I embarked on a quest to find something that worked for _me_. That something turned out to be the sympto-thermal method of fertility awareness. 

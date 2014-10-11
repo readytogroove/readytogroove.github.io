@@ -4,7 +4,7 @@ title:  "Chapter 6: Hormone Changes &amp; Fertility Signals"
 date:   2014-01-12
 permalink: /the-cycle/chapter-6-hormone-changes-and-fertility-signals
 category: the-cycle
-excerpt: "Learn about the observable changes that occur as a result of menstrual cycle hormone fluctuations. These changes help you determine exactly when you are and aren&rsquo;t able to get pregnant."
+excerpt: "Hormones &amp; Fertility Signs"
 ---
 
 In order to understand the <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/">rules of the sympto-thermal method</a> (STM) and to properly and effectively practice them, it is absolutely essential that you first gain a thorough understanding of the information presented in this chapter. Previously, I discussed the <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle">hormonal changes</a> that work together to produce the menstrual cycle. These hormonal fluctuations have both an unseen and an observable effect on the female body, and this section will focus on how those changes manifest in an obvious and useful way. A woman's fertility signs are plain as day; we simply must know where&mdash;and how&mdash;to look. 
@@ -69,5 +69,5 @@ While observing cervical position is not _necessary_ to practice the sympto-ther
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

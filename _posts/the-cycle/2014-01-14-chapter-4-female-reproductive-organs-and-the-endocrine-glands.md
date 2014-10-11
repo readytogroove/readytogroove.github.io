@@ -4,7 +4,7 @@ title:  "Chapter 4: Female Reproductive Organs &amp; the Endocrine Glands that M
 permalink: /the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands
 date:   2014-01-14
 category: the-cycle
-excerpt: "Explore the female reproductive system and all of its amazingness. Learn about how lady parts actually work, along with the endocrine glands that make all the magic happen."
+excerpt: "Reproductive System Basics"
 ---
 
 In <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">Part 1</a> of this text, I discussed the stigmatization of menstruation and why, even today, discussion and social acceptance of menstruation are of the utmost importance. Because the female reproductive organs are oh-so-neatly tucked away, revealing their awesomeness requires taking a closer look. The battle to liberate women begins with an improvement in menstrual education, and achieving this goal starts with knowledge of female reproductive anatomy. The purpose of this section is to do a little exploring to learn all about lady parts! 
@@ -73,5 +73,5 @@ Not so bad, right? Next, we&rsquo;ll discuss how the <a class="text-link" href="
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/introduction/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link next" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

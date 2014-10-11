@@ -4,7 +4,7 @@ title:  "Appendix B: Getting Pregnant with the Sympto-thermal Method"
 date:   2014-01-05
 permalink: /the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance
 category: the-cycle
-excerpt: "Learn how to maximize your chances of getting pregnant quickly, and some of the additional benefits of charting your fertility while trying to conceive."
+excerpt: "Charting to Get Pregnant"
 ---
 
 It's very important to understand the <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/">rules of the sympto-thermal method</a> before diving into this section!
@@ -35,5 +35,5 @@ I would also recommend reading about how the sympto-thermal method can <a class=
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

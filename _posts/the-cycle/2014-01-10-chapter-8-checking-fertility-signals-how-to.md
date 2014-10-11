@@ -4,7 +4,7 @@ title:  "Chapter 8: Checking Fertility Signals How-To"
 date:   2014-01-10
 permalink: /the-cycle/chapter-8-checking-fertility-signs-how-to
 category: the-cycle
-excerpt: "Practicing the sympto-thermal means you&rsquo;ll need to watch for certain changes in your body on a daily basis. It&rsquo;s super easy to do and learn, and it will help you get the most out of this method. Learn about how to check and what to look for."
+excerpt: "How to Check Fertility Signs"
 ---
 
 Using <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method">the rules of the sympto-thermal method</a>, we can determine when a woman is no longer at risk of an unintended pregnancy or when her baby-making window has passed! Not just this, but monitoring these fertility signs on a daily basis allows for faster detection of many reproductive health disorders, including polycystic ovarian syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances. While this book is not meant to diagnose or help a woman self-diagnose any reproductive disorders, practicing STM can help physicians work with women to reach a timelier, more cost-effective, and less invasive diagnosis. This section will discuss _how_ to check all of the fertility signs we've learned about up to this point.
@@ -124,5 +124,5 @@ Becoming a professional cervix-checker isn't something that happens right away; 
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

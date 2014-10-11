@@ -4,7 +4,7 @@ title:  "Appendix D: Fertility Awareness &amp; Menstrual Health Resources"
 date:   2014-01-03
 permalink: /the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources
 category: the-cycle
-excerpt: "There are TONS of amazing people out there who can help you improve the health of your reproductive system and clear up any confusion about practicing the sympto-thermal method. Here are just a few..."
+excerpt: "Resources"
 ---
 
 The following is a list of amazing people who are happy to provide you with more information about fertility awareness (FA), the sympto-thermal method (STM), hormones, the menstrual cycle, and many other women's health related topics! If you are planning to use STM to avoid pregnancy, if you recently ceased (or are planning to cease) the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks. What I'm trying to say is, these people are awesome and I'm confident they will fulfill all of your menstrual needs!
@@ -90,5 +90,5 @@ _Jane is passionate about offering girls and women the means to understand and h
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

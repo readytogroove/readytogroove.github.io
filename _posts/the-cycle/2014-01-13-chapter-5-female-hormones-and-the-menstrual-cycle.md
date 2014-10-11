@@ -4,7 +4,7 @@ title:  "Chapter 5: Female Hormones &amp; the Menstrual Cycle"
 date:   2014-01-13
 permalink: /the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle
 category: the-cycle
-excerpt: "Hormones govern all of the incredible things that happen inside the female reproductive system. Learn about the major female sex hormones and how they work in harmony to create the menstrual cycle."
+excerpt: "Hormones &amp; the Menstrual Cycle"
 ---
 
 The information in this section is at the top of my list of "Important Sympto-thermal Method Stuff". As a matter of fact, I'd also put it at the top of the "Things Everyone Should Know" list. Understanding _how_ to practice the sympto-thermal method (STM) of fertility awareness (FA) is an awesome thing, but a lack of understanding about _why_ STM is so effective as a natural method of pregnancy prevention or as a conception tool makes you much more likely to slip up. The information in this section is something everyone should be taught from a young age. Not only would it make young women who are experiencing menstruation for the first time more comfortable with the changes occurring in their bodies, but it would better prepare them to make informed decisions about their health. 
@@ -94,5 +94,5 @@ I know that was a lot to take in, but I hope you agree that this information is 
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

@@ -4,7 +4,7 @@ title:  "Appendix E: Visualizing Cervical Fluid Changes"
 date:   2014-01-02
 permalink: /the-cycle/appendix-e-visualizing-cervical-fluid-changes
 category: the-cycle
-excerpt: "Cervical fluid is pretty amazing stuff, but many of us are never taught that it&rsquo;s completely healthy and natural. This section contains some images that show changes in cervical fluid you might experience during your cycle."
+excerpt: "Cervical Fluid Images"
 ---
 
 I could talk all day long about cervical fluid, but being able to visualize the changes that occur is a powerful teaching tool. Shown below is one example of changes in cervical fluid that occurred during a single menstrual cycle. Each woman is unique, and so is her cervical fluid! The images shown below cannot possibly represent all of the many variations in cervical fluid, but hopefully it will make it easier to determine the different fluid types.
@@ -35,5 +35,5 @@ I could talk all day long about cervical fluid, but being able to visualize the 
 
 
 <div class="arrows">
-	<h3><a class="text-link previous" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/notes/" title="Next Excerpt">Next &raquo;</a></h3>
+	<p><a class="text-link previous" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/notes/" title="Next Excerpt">Next &raquo;</a></p>
 </div>
