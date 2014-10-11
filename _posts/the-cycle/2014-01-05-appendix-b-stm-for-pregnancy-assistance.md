@@ -13,10 +13,10 @@ Not only is STM great at taking much the guesswork out of becoming pregnant, it 
 A couple sample pregnancy charts are shown below. 
 
 
-{% include image.html url="/img/book/fertility-awareness-basal-body-temperature-chart-confirming-pregnancy-1.jpg" description="This woman experienced a slow-rise temperature shift on cycle day nine. After 18 days of a consecutively high BBT, she can assume that she is pregnant. A triphasic pattern&mdash;or a BBT that increases a second time, as seen starting on cycle day 20&mdash;is often typical of a woman who is, in fact, pregnant." %}
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-confirm-pregnancy-chart-1.jpg" description="This woman experienced a slow-rise temperature shift on cycle day nine. After 18 days of a consecutively high BBT, she can safely assume that she is pregnant. A triphasic pattern&mdash;or a BBT that increases a second time, as seen starting on cycle day 20&mdash;is often typical of a woman who is, in fact, pregnant." %}
 
 
-{% include image.html url="/img/book/fertility-awareness-basal-body-temperature-chart-confirming-pregnancy-2.jpg" description="This woman experienced a sudden temperature shift on cycle day 18. On cycle day 23, her temperature fell to the coverline, which is known to happen from time to time during the luteal phase. She also experienced a triphasic pattern, since her BBT rose for a second time on cycle day 32. After 18 days of an elevated temperature, she can assume that she is almost certainly pregnant." %}
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-confirm-pregnancy-chart-2.jpg" description="This woman experienced a sudden temperature shift on cycle day 18. On cycle day 23, her temperature fell to the coverline, which can happen from time to time during the luteal phase. She also experienced a triphasic pattern, since her BBT rose for a second time on cycle day 32. After 18 days of an elevated temperature, she can safely assume that she is pregnant." %}
 
 
 ##Miscarriage
@@ -25,7 +25,7 @@ A couple sample pregnancy charts are shown below.
 Unfortunately, a pregnancy resulting in a miscarriage is sometimes a fact of life. It's never an easy situation to encounter, especially when that pregnancy is wanted. Although I so hope that anyone reading this book never suffers through such an event, it is good to understand the warning signs. If a pregnancy has been confirmed (or indirectly confirmed by 18 days of an elevated post-ovulatory BBT) and BBT begins to fall after that point, it may be an indication of an impending miscarriage [<a class="text-link" href="/the-cycle/notes/#note63">63</a>]. See the sample chart on the next page.
 
 
-{% include image.html url="/img/book/fertility-awareness-basal-body-temperature-chart-miscarriage.jpg" description="After a confirmed pregnancy on cycle day 25 using a pregnancy test, this woman's BBT begins to fall significantly starting on cycle day 31. She, unfortunately, experiences a miscarriage after 20 days of a high BBT and a confirmed pregnancy." %}
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-miscarriage-chart.jpg" description="After 18 days of a sustained temperature rise, this woman's BBT begins to fall significantly starting on cycle day 31. She, unfortunately, experiences an early-stage miscarriage after a confirmed pregnancy." %}
 
 
 I would also recommend reading through <a class="text-link" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health">Appendix C</a> for information on reproductive disorders that can lead to difficulty achieving a pregnancy or carrying a pregnancy to term.
