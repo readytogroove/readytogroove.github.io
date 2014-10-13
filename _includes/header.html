@@ -9,20 +9,22 @@
         <meta property="og:title" content="{{page.title}}">
         <meta property="og:image" content="http://www.readytogroove.com/img/groove-icon.jpg">
         <meta property="og:image:type" content="image/jpeg">
+        <meta name="twitter:site" content="Groove">
+        <meta name="twitter:card" content="summary">
         <meta name="twitter:title" content="{{page.title}}">
         <meta name="twitter:image" content="http://www.readytogroove.com/img/groove-icon.jpg">
         {% if page.description %}
             <meta name="description" content="{{page.description}}">
             <meta property="og:description" content="{{page.description}}">
-            <meta name="twitter:card" content="{{page.description}}">
+            <meta name="twitter:description" content="{{page.description}}">
         {% else if post.excerpt %}  
               <meta name="description" content="{{post.excerpt}}">
             <meta property="og:description" content="{{post.excerpt}}">
-            <meta name="twitter:card" content="{{post.excerpt}}">
+            <meta name="twitter:description" content="{{post.excerpt}}">
         {% else %}
             <meta name="description" content="We provide information and tools, like the Groove app, to help you learn about your body and practice the sympto-thermal method of fertility awareness.">
             <meta property="og:description" content="We provide information and tools, like the Groove app, to help you learn about your body and practice the sympto-thermal method of fertility awareness.">
-            <meta name="twitter:card" content="We provide information and tools, like the Groove app, to help you learn about your body and practice the sympto-thermal method of fertility awareness.">
+            <meta name="twitter:description" content="We provide information and tools, like the Groove app, to help you learn about your body and practice the sympto-thermal method of fertility awareness.">
         {% endif %}
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 
