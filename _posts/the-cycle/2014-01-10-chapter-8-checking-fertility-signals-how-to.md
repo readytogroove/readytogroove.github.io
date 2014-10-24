@@ -1,12 +1,13 @@
 ---
 layout: book-content
-title:  "Chapter 8: Checking Fertility Signals How-To"
+title:  "How to Check Your Fertility Signs"
 date:   2014-01-10
 permalink: /the-cycle/chapter-8-checking-fertility-signs-how-to
 category: the-cycle
+excerpt: "Using the rules of the sympto-thermal method (STM), we can determine when a woman is no longer at risk of an unintended pregnancy or when her baby-making window has passed! Not just this, but monitoring fertility signs on a daily basis allows for faster detection of many reproductive disorders, including polycystic ovarian syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances."
 ---
 
-Using the rules of the sympto-thermal method (STM) that I discussed in the <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method">previous chapter</a>, we can determine when a woman is no longer at risk of an unintended pregnancy or when her baby-making window has passed! Not just this, but monitoring these fertility signs on a daily basis allows for faster detection of many reproductive health disorders, including polycystic ovarian syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances. While this book is not meant to diagnose or help a woman self-diagnose any reproductive disorders, practicing STM can help physicians work with women to reach a timelier, more cost-effective, and less invasive diagnosis. This chapter will discuss _how_ to check all of the fertility signs we've learned about up to this point.
+Using <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method">the rules of the sympto-thermal method of fertility awareness (STM)</a>, we can determine when a woman is no longer at risk of an unintended pregnancy or when her baby-making window has passed! Not just this, but monitoring these fertility signs on a daily basis allows for faster detection of many reproductive disorders, including polycystic ovarian syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances. While this book is not meant to diagnose or help a woman self-diagnose any reproductive disorders, practicing STM can help physicians work with women to reach a timelier, more cost-effective, and less invasive diagnosis. This section will discuss _how_ to check all of the fertility signs we've learned about up to this point.
 
 
 ##Basal Body Temperature
@@ -120,3 +121,8 @@ The first thing to note about cervical position is the softness or firmness of t
 When the cervix feels especially firm, it will also generally be low in the vagina and tightly closed (unless you have given birth vaginally). A low, firm, and closed cervix will usually be coupled with "dry" cervical fluid&mdash;or sticky fluid, in cases where a woman does not have a "dry" basic infertile pattern (BIP). As estrogen levels rise, the cervix will begin to soften, rise, and open; at this point it will begin to produce sticky or creamy fluid. At its softest, highest, and most open position, it will produce mostly slippery, fertile fluid (which, remember, can mean slippery, clear, and stretchy fluid or slippery, thin, and watery fluid); these are the most fertile days and generally indicate that ovulation isn't far off. The only time the cervix may be _both_ firm and open (if you have not had a vaginal birth) will be during menstruation, as the os opens to allow menstrual flow pass through. However, this does _not_ indicate fertility.
 
 Becoming a professional cervix-checker isn't something that happens right away; it takes some time for a woman to become familiar with her body's individual patterns. This fertility sign may not be necessary to determine fertility, but it can help uncover possible health problems. For example, if a woman suddenly notices bumps or swelling of the cervix that does not go away on its own, it might be time to see a doctor. But if you don't take the plunge (pun intended), then you'll never reap the benefits.
+
+
+<div class="arrows">
+	<p><a class="text-link previous" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Next Excerpt">Next &raquo;</a></p>
+</div>

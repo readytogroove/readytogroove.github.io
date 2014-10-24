@@ -1,12 +1,13 @@
 ---
 layout: book-content
-title:  "Appendix C: The Sympto-thermal Method for Reproductive Health"
-date:   2014-01-04
+title:  "Using the Sympto-thermal Method of Fertility Awareness to Improve or Maintain Reproductive Health"
+date: 2014-01-04
 permalink: /the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health
 category: the-cycle
+excerpt: "When a woman knows what is normal and healthy for her cycle, it's easy to detect when reproductive health might be on the decline. Things like stress, lack of sleep, too much exercise, illness, diet, and major life events can all delay ovulation and interfere with the menstrual cycle, so it comes as no surprise that taking a deeper look at a woman's cycle reveals a great deal about the state of her health. Charting your fertility signs using the sympto-thermal method of fertility awareness can assist in the diagnosis of many reproductive (and non-reproductive) health disorders such as polycystic ovarian syndrome (PCOS), luteal phase defect, and low thyroid function, to name a few."
 ---
 
-When a woman knows what is normal and healthy for her cycle, it's easy to detect when reproductive health might be on the decline. Things like stress, lack of sleep, too much exercise, illness, diet, and major life events can all delay ovulation and interfere with the menstrual cycle, so it comes as no surprise that taking a deeper look at a woman's cycle reveals a great deal about the state of her health. Charting fertility signs can assist in the diagnosis of many reproductive (and non-reproductive) health disorders such as polycystic ovarian syndrome (PCOS), luteal phase defect, and low thyroid function, to name a few. I would highly recommend getting in touch with one of the individuals listed in <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">Appendix D</a> if you (or your partner) struggle with any of these disorders.
+When a woman knows what is normal and healthy for her cycle, it's easy to detect when reproductive health might be on the decline. Things like stress, lack of sleep, too much exercise, illness, diet, and major life events can all delay ovulation and interfere with the menstrual cycle, so it comes as no surprise that taking a deeper look at a woman's cycle reveals a great deal about the state of her health. Charting fertility signs can assist in the diagnosis of many reproductive (and non-reproductive) health disorders such as polycystic ovarian syndrome (PCOS), luteal phase defect, and low thyroid function, to name a few. I would highly recommend getting in touch with a <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">fertility awareness educator or menstrual health expert</a> if you (or your partner) struggle with any of these disorders.
 
 
 ##PCOS
@@ -21,10 +22,16 @@ Polycystic ovarian syndrome, commonly known as PCOS, is an endocrine disorder th
 ##Luteal Phase Defect
 
 
-Luteal phase defect, or LPD, is marked by unusually low luteal phase progesterone levels or an unusually short luteal phase length&mdash;typically 10 days or less&mdash;and can result in difficulty conceiving. This difficulty with conception is possibly caused by an interference of the implantation of the embryo. LPD can be medically treated, so don't fret! Contact your physician or someone in <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">Appendix D</a> if LPD is a potential concern. 
+Luteal phase defect, or LPD, is marked by unusually low luteal phase progesterone levels or an unusually short luteal phase length&mdash;typically 10 days or less&mdash;and can result in difficulty conceiving. This difficulty with conception is possibly caused by an interference of the implantation of the embryo. LPD can be medically treated, so don't fret! Contact your physician or a <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">fertility awareness educator or menstrual health expert</a> if LPD is a potential concern. 
 
 
 ##Underactive Thyroid (or Hypothyroidism)
 
 
-It's not immediately obvious that an underactive thyroid (hypothyroidism) can manifest in the menstrual cycle. This may not be the case for every woman, but BBT is often a good measure of thyroid function. Low thyroid function is defined by an insufficient production of thyroid hormones, leading to symptoms like weight gain, fatigue, constipation, irritability, menstrual irregularities, and low basal body temperature. Although this fact is disputed, many believe that a pre-ovulatory BBT that is consistently lower than 97.0 °F (36.11 ºC) is a sign of sub-clinical hypothyroidism, which may not show up in tests. Contact your physician or someone in <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">Appendix D</a> if hypothyroidism is a concern.  
+It's not immediately obvious that an underactive thyroid (hypothyroidism) can manifest in the menstrual cycle. This may not be the case for every woman, but BBT is often a good measure of thyroid function. Low thyroid function is defined by an insufficient production of thyroid hormones, leading to symptoms like weight gain, fatigue, constipation, irritability, menstrual irregularities, and low basal body temperature. Although this fact is disputed, many believe that a pre-ovulatory BBT that is consistently lower than 97.0 °F (36.11 ºC) is a sign of sub-clinical hypothyroidism, which may not show up in tests. Contact your physician or <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">fertility awareness educator or menstrual health expert</a> if hypothyroidism is a concern.
+
+
+<div class="arrows">
+	<p><a class="text-link previous" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Next Excerpt">Next &raquo;</a></p>
+</div>
+

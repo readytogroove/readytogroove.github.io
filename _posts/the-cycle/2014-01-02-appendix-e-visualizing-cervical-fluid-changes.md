@@ -1,9 +1,10 @@
 ---
 layout: book-content
-title:  "Appendix E: Visualizing Cervical Fluid Changes"
+title:  "Visualizing Changes in Your Cervical Fluid (Cervical Mucus)"
 date:   2014-01-02
 permalink: /the-cycle/appendix-e-visualizing-cervical-fluid-changes
 category: the-cycle
+excerpt: "Being able to visualize the changes that occur in your cervical fluid (or cervical mucus) is a powerful teaching tool. Each woman is unique, and so is her cervical fluid! Learn how to categorize your unique cervical fluid with these images."
 ---
 
 I could talk all day long about cervical fluid, but being able to visualize the changes that occur is a powerful teaching tool. Shown below is one example of changes in cervical fluid that occurred during a single menstrual cycle. Each woman is unique, and so is her cervical fluid! The images shown below cannot possibly represent all of the many variations in cervical fluid, but hopefully it will make it easier to determine the different fluid types.
@@ -31,3 +32,8 @@ I could talk all day long about cervical fluid, but being able to visualize the 
 
 
 {% include cf-image.html url="/img/book/sticky-cervical-fluid-2.jpg" description="Sticky cervical fluid - (above) The cervical fluid has now begun a drying pattern and is back to feeling pasty and tacky. Yesterday was the last day of slippery, highly fertile fluid, so it is considered the peak day. Although the peak day may fall on the day with the greatest amount of slippery, fertile fluid, it is defined as the last day of slippery, fertile-quality fluid." %}
+
+
+<div class="arrows">
+	<p><a class="text-link previous" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/notes/" title="Next Excerpt">Next &raquo;</a></p>
+</div>

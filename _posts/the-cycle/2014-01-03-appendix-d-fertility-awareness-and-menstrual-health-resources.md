@@ -1,12 +1,13 @@
 ---
 layout: book-content
-title:  "Appendix D: Fertility Awareness and Menstrual Health Resources"
+title:  "Fertility Awareness and Menstrual Health Resources"
 date:   2014-01-03
 permalink: /the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources
 category: the-cycle
+excerpt: "The following is a list of amazing people who are happy to provide you with more information about fertility awareness methods (FAMs), the sympto-thermal method (STM), hormones, the menstrual cycle, and many other women's health-related topics! If you are planning to use STM to avoid pregnancy, if you recently ceased (or are planning to cease) the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks."
 ---
 
-The following is a list of amazing people who are happy to provide you with more information about fertility awareness (FA), the sympto-thermal method (STM), hormones, the menstrual cycle, and many other women's health related topics! If you are planning to use STM to avoid pregnancy, if you recently ceased (or are planning to cease) the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks. What I'm trying to say is, these people are awesome and I'm confident they will fulfill all of your menstrual needs!
+The following is a list of amazing people who are happy to provide you with more information about fertility awareness methods (FAMs), the sympto-thermal method (STM), hormones, the menstrual cycle, and many other women's health-related topics! If you are planning to use STM to avoid pregnancy, if you recently ceased (or are planning to cease) the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks. What I'm trying to say is, these people are awesome and I'm confident they will fulfill all of your menstrual needs!
 
 
 ###Hannah Ransom, Certified Fertility Awareness Educator
@@ -79,10 +80,6 @@ _Blue Lotus Holistic Fertility and Contraception was born out of a desire to emp
 <a class="text-link" target="_blank" href="http://www.bluelotusfertility.com">bluelotusfertility.com</a>
 
 
-###Jane Bennett, Natural Fertility Management
-
-_Jane is passionate about offering girls and women the means to understand and have a positive and empowered relationship with their bodies, their fertility, and their cycles. She offers both training and seminars in the areas of menstrual wellbeing, celebrating menarche, and holistic contraception._ 
-
-<a class="text-link" href="mailto:jane@janebennett.com.au">Email Jane</a>
-
-<a class="text-link" target="_blank" href="http://www.janebennett.com.au">janebennett.com.au</a>
+<div class="arrows">
+	<p><a class="text-link previous" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/" title="Next Excerpt">Next &raquo;</a></p>
+</div>
