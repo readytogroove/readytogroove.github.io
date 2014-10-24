@@ -268,7 +268,7 @@ input {
 #groove {
   display: inline-block;
   text-indent: -9999px;
-  width: 160px;
+  width: 140px;
   height: 44px;
   background: url('/img/groove.png') center center no-repeat;
   background-size: 100%;
