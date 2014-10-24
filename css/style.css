@@ -668,11 +668,6 @@ img.blog-author-img {
   margin-bottom: 35px;
 }
 
-.faq {
-  overflow: hidden;
-  margin-top: 75px;
-}
-
 /* book.html styles */
 
 img.the-cycle {
@@ -932,7 +927,7 @@ body.mobile-nav-open #mobile-nav {
     text-align: center;
   }
 
-  h3.panel-title {
+  p.panel-title {
     font-size: 22px;
   }
 
@@ -1161,7 +1156,7 @@ body.mobile-nav-open #mobile-nav {
   padding: 15px;
 }*/
 .panel-heading {
-  padding: 10px 0;
+  padding: 0;
   /*border-bottom: 1px solid transparent;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;*/
