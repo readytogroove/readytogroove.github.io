@@ -4,6 +4,13 @@ title: Blog - Groove
 
 {% include header.html %}
 
+{% assign blog_categories = site.categories['blog'] | filter_categories_by_primary_category %}
+
+<h3>Categories:</h3>
+<ol>
+	{% for category in blog_categories %}<li>{{category}}</li>{% endfor %}
+</ol>
+
 <div class="gray-background">
 	<div class="container">
 		{% for post in site.categories['blog'] %}

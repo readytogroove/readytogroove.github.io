@@ -3,7 +3,9 @@ layout: blog-post
 title:  "Finding Fertility Awareness: My Birth Control Story"
 date:   2014-03-15
 author: "Jennifer Aldoretta"
-category: blog
+categories:
+  - blog
+  - other
 excerpt: "I remember very clearly standing in my kitchen and suddenly feeling as though I was being suffocated..."
 ---
 
