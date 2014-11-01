@@ -1,24 +1,37 @@
 ---
 title: The Cycle - Groove
+description: Learn how to practice the sympto-thermal method of fertility awareness to avoid pregnancy, track your cycles, or get pregnant.
 ---
 
 {% include header.html %}
 
 <div class="white-background">
   <div class="container">
-    <h1 class="gray-dark the-cycle-header">The Cycle:</h1>
-    <h3 class="gray-dark the-cycle-sub-header italics">Breaking Stigmas & Unlocking the Benefits of the Female Reproductive System with the Sympto-thermal Method of Fertility Awareness</h3>
-    <p class="gray-light the-cycle-info-text"><span class="italics">The Cycle</span> is a free book written and illustrated by Groove's CEO, <a class="text-link" href="/about">Jennifer Aldoretta</a>. The following excerpts from the book will teach you all about the female reproductive system and will explain the basics of something called the sympto-thermal method of fertility awareness (STM). STM is a powerful tool that can help you naturally and effectively prevent pregnancy, help you get pregnant, and help you improve or maintain your reproductive health. We believe everyone should have access to free, high-quality information about reproductive health, and our mission is to educate and empower women. That's why the entire book can be <a class="text-link" target="_blank" href="https://leanpub.com/the-cycle">downloaded for free here</a>.</p>
-    <!-- <img class="the-cycle" src="/img/the-cycle.jpg" /> -->
-    <div class="the-cycle-chapters">
-      {% for post in site.categories['the-cycle'] %}
-      <h3><a class="text-link" href="{{site.base-url}}{{post.url}}">{{ post.title }}</a></h3>
-      {% endfor %}
+    <div>
+      <h1 class="gray-dark the-cycle-header">Learn</h1>
+      <h2 class="gray-light the-cycle-header">How to chart your fertility</h2>
     </div>
+
+    <div class="top-margin">
+      <div class="left-column">
+
+{% include chapter-list.html %}
+
+      </div><!--.left-column-->
+      <div class="right-column">
+        <div>
+          <h2 class="gray-dark blog-title">Here&rsquo;s why this info is important</h2>
+          <div class="blog-body">
+            <p class="gray-light">Women are only able to get pregnant for a fraction of the menstrual cycle, but, sadly, this isn&rsquo;t common knowledge. It&rsquo;s simple to determine exactly when you&rsquo;re fertile using something called the sympto-thermal method &ndash; sometimes referred to as the fertility awareness method, or FAM.</p> 
+            <p class="gray-light">The links on this page are excerpts from <em>The Cycle</em>, a free book written by our CEO, Jennifer. These excerpts will teach you how to chart your fertility to avoid pregnancy, to maximize your chances of getting pregnant, or to monitor your reproductive health. You can also <a class="text-link" target="_blank" href="http://www.leanpub.com/the-cycle/">download the entire book for free.</a></p>
+          </div><!--.blog-body-->
+        </div>
+      </div><!--.right-column-->
+    </div><!--.top-margin-->
 
   </div><!--.container-->
 </div><!--.white-background-->
 
-{% include call-to-action.html %}
+{% include call-to-action2.html %}
 
 {% include footer.html %}

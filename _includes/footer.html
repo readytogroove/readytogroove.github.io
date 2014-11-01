@@ -2,7 +2,7 @@
     </div><!--.content-container-->
     
 <!-- Website Footer -->
-   	<div id="footer-container">
+   	<div itemprop="brand" itemscope itemtype="http://schema.org/Brand" itemref="_logo7" id="footer-container">
    		<div class="footer-center">
         <div class="social">
           <div class="social-button">
@@ -24,7 +24,11 @@
           |
           <a class="text-link" href="mailto:howdy@readytogroove.com">howdy@readytogroove.com</a>
         </p>
-   			<p class="footer-text">&#169; 2014 Groove, LLC. All rights reserved.</p>
+   			<p class="footer-text">&copy;
+          <script>now = new Date
+          document.write(now.getFullYear());</script>
+          <span itemprop="name">Groove, LLC</span>. All rights reserved
+        </p>
         <p class="footer-text">Crafted with <span class="bold pink">love</span> in Austin, Texas.</p>
    		</div><!--.footer-center-->
    	</div><!--#footer-container-->
