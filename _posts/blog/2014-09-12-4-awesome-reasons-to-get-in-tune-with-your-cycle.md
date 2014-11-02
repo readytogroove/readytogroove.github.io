@@ -3,7 +3,9 @@ layout: blog-post
 title:  "4 Awesome Reasons to Get in Tune with Your Cycle"
 date:   2014-09-12
 author: "Jennifer Aldoretta"
-category: blog
+categories:
+- blog
+- Menstruation
 excerpt: "Getting in tune with your menstrual cycles doesn&rsquo;t mean that you have to profess your love for your period, but there are plenty of great reasons to get to know Aunt Flow..."
 ---
 

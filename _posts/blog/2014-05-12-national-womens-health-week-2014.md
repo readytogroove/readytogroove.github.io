@@ -3,7 +3,9 @@ layout: blog-post
 title:  "National Women's Health Week 2014"
 date:   2014-05-12
 author: "Jennifer Aldoretta"
-category: blog
+categories: 
+- blog
+- Women's Health
 excerpt: "NWHW is a great opportunity to add some healthy habits to your life, and there are so many ways to participate. Here are a few of my personal favorites..."
 ---
 

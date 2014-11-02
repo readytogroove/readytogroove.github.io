@@ -3,7 +3,9 @@ layout: blog-post
 title:  "Groove's Global App Launch"
 date:   2014-04-17
 author: "Jennifer Aldoretta"
-category: blog
+categories:
+- blog
+- The App
 excerpt: "Because of this overwhelming response, we decided to push our global app launch up the priority list..."
 ---
 

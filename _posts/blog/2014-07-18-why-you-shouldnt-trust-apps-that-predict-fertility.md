@@ -3,7 +3,9 @@ layout: blog-post
 title:  "Why You Shouldn&rsquo;t Trust Apps that Predict Fertility"
 date:   2014-07-18
 author: "Jennifer Aldoretta"
-category: blog
+categories: 
+- blog
+- Fertility Charting
 excerpt: "There are SO many internal and external factors that can have an affect on your cycle, so putting your trust in an app that claims to predict when you&rsquo;ll be fertile isn&rsquo;t the wisest choice..."
 ---
 

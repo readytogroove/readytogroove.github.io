@@ -3,7 +3,9 @@ layout: blog-post
 title:  "Natural Family Planning vs. the Sympto-thermal Method of Fertility Awareness"
 date:   2014-07-25
 author: "Jennifer Aldoretta"
-category: blog
+categories: 
+- blog
+- Fertility Awareness Method
 excerpt: "Natural Family Planning and a method like the sympto&dash;thermal method of fertility awareness (STM) have a lot in common, but there are several key differences..."
 ---
 

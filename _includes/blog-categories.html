@@ -1,0 +1,8 @@
+{% assign blog_categories = site.categories['blog'] | filter_categories_by_primary_category %}
+
+<div class="center">
+	<h1 class="gray-dark blog-title">Explore blog categories</h1>
+	<ul>
+		{% for category in blog_categories %}<li class="blog-category"><h3><a class="text-link" href="/categories/{{category}}">{{category}}</a> | </h3></li>{% endfor %}
+	</ul>
+</div>

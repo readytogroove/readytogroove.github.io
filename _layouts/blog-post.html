@@ -17,7 +17,7 @@
 									{% endif %}
 								</div><!--.author-img-->
 								<div class="blog-info-text">
-									<p class="gray-very-light small-text"><span itemprop="author">{{ page.author }}</span> wrote this on {{ page.date | date: '%B %-d, %Y' }}</p>
+									<p class="gray-very-light small-text"><span itemprop="author">{{ page.author }}</span> wrote this on {{ page.date | date: '%B %-d, %Y' }} in {{ page.categories | category_links }}</p>
 								</div><!--.blog-info-text-->
 							</div><!--.blog-info-->
 							<div class="blog-body">

@@ -3,7 +3,9 @@ layout: blog-post
 title:  "The Myth of the Average Menstrual Cycle"
 date:   2014-08-01
 author: "Jennifer Aldoretta"
-category: blog
+categories: 
+- blog
+- Menstruation
 excerpt: "This &ldquo;myth of the average cycle length&rdquo; ends up causing a lot of confusion and often makes women and girls think that they&rsquo;re abnormal for not having 28 day cycles. And many of us end up feeling like our cycles are &ldquo;irregular&rdquo; simply because they&rsquo;re not all the same length..."
 ---
 
