@@ -48,16 +48,16 @@ strong {
   color: #A9ABAB;
 }
 
-.pink {
-  color: #BB2F51;
-}
-
 .bold {
   font-weight: 400;
 }
 
 .italics {
   font-style: italic;
+}
+
+.block {
+  display: block;
 }
 
 .gray-background {
@@ -114,6 +114,10 @@ p.small-text {
   font-size: 18px;
 }
 
+p.extra-small-text {
+  font-size: 16px;
+}
+
 p.footer-text {
   font-size: 12px;
   padding-bottom: 10px;
@@ -121,10 +125,6 @@ p.footer-text {
 
 p.first-child {
   margin-bottom: 20px;
-}
-
-h1.page-header {
-  padding-bottom: 25px;
 }
 
 ol {
@@ -136,6 +136,9 @@ blockquote {
   margin-left: 50px;
 }
 
+.bottom-margin {
+  margin-bottom: 50px;
+}
 
 .text-link {
   color: #3FC2A5;
@@ -502,6 +505,7 @@ li.nav-button-link {
     .mantle .text-container h3 {
       font-weight: lighter;
     }
+
 /* about.html styles */
 
 h1.about-header {
@@ -650,7 +654,7 @@ li.blog-category {
   margin-bottom: 35px;
 }
 
-/* book.html styles */
+/* the-cycle.html styles */
 
 img.the-cycle {
   float: left;
@@ -662,10 +666,6 @@ img.the-cycle {
 
 .chapter-links {
   padding-bottom: 0;
-}
-
-.top-margin {
-  margin-top: 50px;
 }
 
 .left-column {
@@ -727,6 +727,74 @@ div.image-container p.small-text {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+}
+
+/* help.html styles */
+
+h1.help-header {
+  padding-bottom: 75px;
+}
+
+p.panel-title {
+    font-size: 20px;
+  }
+
+/* store.html styles */
+
+.product-container {
+  box-sizing: border-box;
+  padding: 10px;
+  width: 25%;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.product-image {
+  border: 1px solid #CCC;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+#store-tcoyf {
+  width: 168px;
+  height: 212px;
+}
+
+#store-the-cycle {
+  width: 153px;
+  height: 245px;
+}
+
+#store-thermometer {
+  width: 264px;
+  height: 103px;
+}
+
+#store-lunette {
+  width: 210px;
+  height: 168px;
+}
+
+#store-pads {
+  width: 259px;
+  height: 168px;
+}
+
+#store-pregnancy-test {
+  width: 94px;
+  height: 240px;
+}
+
+#store-vitamins {
+  width: 129px;
+  height: 241px;
+}
+
+#store-opk {
+  width: 180px;
+  height: 180px;
 }
 
 /* press.html styles */
@@ -815,6 +883,12 @@ body.mobile-nav-open #mobile-nav {
 
 /* responsive, y'all */
 
+@media screen and (max-width:1382px) {
+  .product-container {
+    width: 33.33%;
+  }
+}
+
 @media screen and (max-width:1100px) {
   .left-column p.small-text {
     font-size: 16px;
@@ -838,6 +912,7 @@ body.mobile-nav-open #mobile-nav {
   .right-column, .left-column {
     display: block;
     width: 100%;
+
   }
 
   .left-column {
@@ -849,12 +924,16 @@ body.mobile-nav-open #mobile-nav {
     display: inline-block;
   }
 
-  .top-margin {
-    margin-top: 30px;
+  .bottom-margin {
+    margin-bottom: 30px;
   }
 
   .chapter-divide {
     display: inline-block;
+  }
+
+  .product-container {
+    width: 50%;
   }
 
 }
@@ -891,11 +970,11 @@ body.mobile-nav-open #mobile-nav {
     padding-top: 47px;
   }
 
-  h1.page-header, .the-cycle-header {
+  .page-header {
     text-align: center;
   }
 
-  h1.about-header {
+  h1.about-header, h1.help-header {
     padding-bottom: 50px;
     text-align: center;
   }
@@ -907,10 +986,6 @@ body.mobile-nav-open #mobile-nav {
 
   .left-column {
     text-align: center;
-  }
-
-  p.panel-title {
-    font-size: 22px;
   }
 
   .groover-text {
@@ -1043,6 +1118,11 @@ body.mobile-nav-open #mobile-nav {
     font-weight: 300;
   }
 
+  .button {
+    width: 90%;
+    min-width: 150px;
+  }
+
   img.groover {
     width: 200px;
   }
@@ -1086,6 +1166,10 @@ body.mobile-nav-open #mobile-nav {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+  }
+
+  .product-container {
+    width: 100%;
   }
 }
 
