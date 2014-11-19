@@ -425,18 +425,9 @@ li.nav-button-link {
     width: 70%;
     padding: 0 15%;
   }
-  .mantle .button {
+  .mantle .button-home {
     position: relative;
   }
-    .mantle .button:after {
-      content: 'now available worldwide';
-      position: absolute;
-      left: 0;
-      right: 0;
-      top: 100%;
-      text-align: center;
-      font-size: 13px;
-    }
 
   .iphone {
     float: left;
