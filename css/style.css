@@ -20,13 +20,13 @@
 }
 
 
-a,
+/*a,
 .social-button {
   -webkit-transition: background-color .1s linear, color .1s linear;
   -moz-transition: background-color .1s linear, color .1s linear;
   -o-transition: background-color .1s linear, color .1s linear;
   transition: background-color .1s linear, color .1s linear;
-}
+}*/
 
 em {
   font-style: italic;
@@ -151,7 +151,7 @@ blockquote {
 }
 
   .text-link:hover {
-    color: #39AA91;
+    color: #359E87;
   }
 
 .active-text-link {
@@ -165,32 +165,52 @@ blockquote {
   display: inline-block;
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 26px;
-  background-color: #3FC2A5;
-  border-radius: 0;
-  color: #FFFFFF;
+  border-radius: 10px;
   text-decoration: none;
-  padding: 25px 30px;
-  border: none;
+  padding: 22px 28px;
+  background-color: transparent;
+  border: 2px solid #3FC2A5;
+  color: #3FC2A5;
 }
 
   .button:hover {
-    background-color: #39AA91;
+    background-color: #3FC2A5;
+    color: white;
+    cursor: pointer;
+  }
+
+.button-home {
+  display: inline-block;
+  font-family: 'helvetica neue', helvetica, arial;
+  font-size: 26px;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 22px 28px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+}
+
+  .button-home:hover {
+    background-color: #3FC2A5;
+    border: 2px solid #3FC2A5;
     cursor: pointer;
   }
 
 .button-small {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
-  background-color: #3FC2A5;
-  border-radius: 0;
-  color: #FFFFFF;
+  border-radius: 7px;
   text-decoration: none;
-  padding: 20px 22px;
-  border: none;
+  padding: 18px 20px;
+  background-color: transparent;
+  border: 2px solid #3FC2A5;
+  color: #3FC2A5;
 }
 
   .button-small:hover {
-    background-color: #39AA91;
+    background-color: #3FC2A5;
+    color: white;
     cursor: pointer;
   }
 
@@ -303,16 +323,19 @@ input {
 
 .nav-button {
   font-size: 16px;
-  background-color: #3FC2A5;
-  border-radius: 0;
-  color: #FFFFFF;
+  border-radius: 7px;
   text-decoration: none;
-  padding: 18px 20px;
+  padding: 16px 18px;
   display: inline-block;
+  background-color: transparent;
+  border: 2px solid #3FC2A5;
+  color: #3FC2A5;
 }
 
   .nav-button:hover {
-    background-color: #39AA91;
+    background-color: #3FC2A5;
+    color: white;
+    cursor: pointer;
   }
 
 li.nav-button-link {
@@ -359,7 +382,7 @@ li.nav-button-link {
   }
 
     .social-button:hover {
-      background-color: #39AA91;
+      background-color: #359E87;
     }
 
   .social-button:last-child {
@@ -402,18 +425,9 @@ li.nav-button-link {
     width: 70%;
     padding: 0 15%;
   }
-  .mantle .button {
+  .mantle .button-home {
     position: relative;
   }
-    .mantle .button:after {
-      content: 'now available worldwide';
-      position: absolute;
-      left: 0;
-      right: 0;
-      top: 100%;
-      text-align: center;
-      font-size: 13px;
-    }
 
   .iphone {
     float: left;
@@ -606,7 +620,7 @@ a.category {
 }
 
   a.category:hover {
-    color: #39AA91;
+    color: #359E87;
   }
 
 li.blog-category {
@@ -814,7 +828,7 @@ p.panel-title {
 /* mobile navigatron */
 .mobile-nav-button {
   display: none;
-  background: transparent;
+  background-color: transparent;
   border: none;
   padding: 0;
   position: absolute;
@@ -853,6 +867,7 @@ p.panel-title {
   .mobile-nav-button span:after {
     bottom: -8px;
   }
+
 #mobile-nav {
   z-index: 9999999;
   display: none;
@@ -1122,8 +1137,11 @@ body.mobile-nav-open #mobile-nav {
   }
 
   .button {
+    display: block;
     width: 90%;
-    min-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    /*min-width: 150px;*/
   }
 
   img.groover {
