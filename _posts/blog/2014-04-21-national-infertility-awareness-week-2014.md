@@ -5,7 +5,7 @@ date:   2014-04-21
 author: "Jennifer Aldoretta"
 categories: 
 - blog
-- Infertility
+# - Infertility
 excerpt: "Infertility is defined as the inability to conceive after 12 months of trying to conceive, and it affects as many as 1 in 8 couples..."
 ---
 

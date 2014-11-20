@@ -5,7 +5,7 @@ date:   2014-04-17
 author: "Jennifer Aldoretta"
 categories:
 - blog
-- The App
+# - The App
 excerpt: "Because of this overwhelming response, we decided to push our global app launch up the priority list..."
 ---
 
