@@ -36,7 +36,7 @@ If your thermometer happens to measure in increments of 0.01 °F but you don&rsq
 
 ###Can I use a fever thermometer?
 
-What&rsquo;s the differences between a basal thermometer and a regular old fever thermometer, anyway? Not a whole lot, as it turns out. Many fever thermometers are accurate to the 1/10th degree Fahrenheit, making them perfect for measuring your basal body temperature. 
+What&rsquo;s the difference between a basal thermometer and a regular old fever thermometer, anyway? Not a whole lot, as it turns out. Many fever thermometers are accurate to the 1/10th degree Fahrenheit, making them perfect for measuring your basal body temperature. 
 
 However, there are some fever thermometers that measure in increments of 0.2 °F (97.6, 97.8, 98.0, etc), which just won&rsquo;t cut it. If you have a fever thermometer laying around at home, make sure it measures in increments of 0.1 °F before using it to measure your basal body temperature.
 
