@@ -28,7 +28,7 @@ The makeup of seminal fluid serves a very specific and important purpose in repr
 
 The natural pH of the vagina is in the ballpark of 3.8&ndash;4.0, making it relatively acidic. **Acidic vagina + alkaline semen = dead sperm!** But, seriously...sperm die extremely quickly when exposed to the acidity of the vagina. If that&rsquo;s the case, then *why on earth* is the vagina so acidic?!
 
-Acidic environments hinder the growth of harmful bacteria, which is why compounds like lactic acid are often added to food as a preservative. In the case of the vagina, its acidity ensures the proper balance of bacterial flora, preventing overgrowth of bad bacteria that can cause issues like vaginal infections. So the pH of your vagina basically helps it keep itself healthy. 
+Acidic environments hinder the growth of harmful bacteria, which is why compounds like lactic acid are often added to food as a preservative. In the case of the vagina, its acidity ensures the proper balance of bacterial flora, preventing overgrowth of bad bacteria that can cause issues like vaginal infections. So the pH of your vagina basically helps it keep itself healthy. It just happens to have the side effect of killing sperm.
 
 ###Cervical Fluid Helps Sperm Stay Alive
 
