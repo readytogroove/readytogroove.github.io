@@ -34,7 +34,7 @@ Acidic environments hinder the growth of harmful bacteria, which is why compound
 
 <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-cervical-fluid">Cervical fluid</a>&mdash;which is secreted by the cervix in response to estrogen that&rsquo;s produced by maturing egg follicles&mdash;helps to bridge this pH gap so that sperm can reach the egg. As egg follicles mature and prepare for ovulation, <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/">cervical fluid becomes increasingly wet and slippery</a>, and its pH rises. 
 
-The pH of cervical fluid in the days just before ovulation creates a sperm-friendly environment, protecting them from the low, hostile pH of the vagina.
+The pH of cervical fluid in the days just before ovulation creates a sperm-friendly environment, protecting them from the low, hostile pH of the vagina. It also helps to weed out any bad or malformed sperm.
 
 ###How Cervical Fluid Helps You Get Pregnant (Or Not)
 
