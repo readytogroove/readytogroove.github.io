@@ -3,8 +3,10 @@ layout: blog-post
 title:  "Avoiding the Dreaded Period Sneak Attack: the Secret to Accurate Period Predictions"
 date:   2014-12-12
 author: "Jennifer Aldoretta"
+permalink: /blog/2014-12-12-avoiding-the-dreaded-period-sneak-attack-the-secret-to-accurate-period-predictions
 categories:
 - blog
+- Menstruation
 excerpt: "I&rsquo;m here to tell you that there IS a better way to predict your periods, and it might just change the way you think about your body (it did for me). What I&rsquo;m about to reveal would put your sex ed class to shame. So what&rsquo;s the big secret? It&rsquo;s actually something you&rsquo;ve been doing for most of your life every time you get sick..."
 ---
 

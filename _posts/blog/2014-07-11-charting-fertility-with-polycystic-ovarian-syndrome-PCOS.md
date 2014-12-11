@@ -6,7 +6,7 @@ author: "Jennifer Aldoretta"
 permalink: /blog/2014-07-11-charting-fertility-with-polycystic-ovarian-syndrome-PCOS
 categories: 
 - blog
-# - Fertility Charting
+- Fertility Charting
 excerpt: "Dealing with highly irregular menstrual cycles is crazy frustrating. Your periods, when they do decide to come, can sneak up on you at the most inopportune times. Not just that, but irregular cycles are often an indication of a reproductive disorder..."
 ---
 

@@ -3,8 +3,11 @@ layout: blog-post
 title:  "What&rsquo;s the Best Thermometer for Measuring Basal Body Temperature?"
 date:   2014-11-25
 author: "Jennifer Aldoretta"
+permalink: /blog/2014-11-25-whats-the-best-thermometer-for-measuring-basal-body-temperature
 categories:
 - blog
+- Fertility Charting
+- Basal Body Temperature
 excerpt: "Even if you&rsquo;re a seasoned user of the sympto-thermal method of fertility awareness, navigating the world of basal thermometers can feel daunting. So, to make your search a bit less stressful, I&rsquo;ve compiled a few things to keep in mind while searching for the perfect fit..."
 ---
 
