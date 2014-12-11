@@ -48,6 +48,10 @@ strong {
   color: #A9ABAB;
 }
 
+.pink {
+  color: #D6426C;
+}
+
 .bold {
   font-weight: 400;
 }
@@ -377,7 +381,9 @@ li.nav-button-link {
   }
 
   .social-button {
-    background-color: #3FC2A5;
+    background-color: transparent;
+    border: 2px solid #3FC2A5;
+    color: #3FC2A5;
     width: 32px;
     height: 32px;
     border-radius: 50%;
@@ -386,7 +392,7 @@ li.nav-button-link {
   }
 
     .social-button:hover {
-      background-color: #359E87;
+      background-color: #3FC2A5;
     }
 
   .social-button:last-child {
@@ -403,14 +409,23 @@ li.nav-button-link {
   #twitter {
     background: url('../img/32x32-twitter.png') 0 0 no-repeat;
   }
+    #twitter:hover {
+      background: url('../img/32x32-twitter-hover.png') 0 0 no-repeat;
+    }
 
   #facebook {
     background: url('../img/32x32-facebook.png') 0 0 no-repeat;
   }
+    #facebook:hover {
+      background: url('../img/32x32-facebook-hover.png') 0 0 no-repeat;
+    }
 
   #pinterest {
-    background: url('../img/32x32-pinterest.png') 0 0 no-repeat;
+      background: url('../img/32x32-pinterest.png') 0 0 no-repeat;
   }
+    #pinterest:hover {
+      background: url('../img/32x32-pinterest-hover.png') 0 0 no-repeat;
+    }
 
   .footer-center {
     text-align: center;
