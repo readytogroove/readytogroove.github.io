@@ -3,6 +3,7 @@ layout: blog-post
 title:  "6 Myths About Your Period, Debunked!"
 date:   2014-08-15
 author: "Jennifer Aldoretta"
+permalink: /blog/2014-08-15-6-myths-about-your-period-debunked
 categories: 
 - blog
 - Menstruation

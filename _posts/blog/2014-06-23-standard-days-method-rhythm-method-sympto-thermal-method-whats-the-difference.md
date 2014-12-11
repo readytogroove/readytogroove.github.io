@@ -3,9 +3,10 @@ layout: blog-post
 title:  "Standard Days Method, Rhythm Method, Sympto-thermal Method...What&rsquo;s the Difference?"
 date:   2014-06-23
 author: "Jennifer Aldoretta"
+permalink: /blog/2014-06-23-standard-days-method-rhythm-method-sympto-thermal-method-whats-the-difference
 categories:
 - blog 
-- Fertility Awareness Method
+- Sympto-thermal Method
 - Pregnancy Prevention
 excerpt: "The sympto-thermal method of fertility awareness (STM) is often confused with methods like the standard days method and the rhythm method, but not all “natural” methods of pregnancy prevention are created equal..."
 ---

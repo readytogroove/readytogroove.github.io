@@ -3,6 +3,7 @@ layout: blog-post
 title:  "Groove's Global App Launch"
 date:   2014-04-17
 author: "Jennifer Aldoretta"
+permalink: /blog/2014-04-17-grooves-global-app-launch
 categories:
 - blog
 - The App

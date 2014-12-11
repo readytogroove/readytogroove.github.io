@@ -3,8 +3,10 @@ layout: blog-post
 title:  "On Design Principles"
 date:   2014-03-19
 author: "Jennifer Aldoretta"
+permalink: /blog/2014-03-19-on-design-principles
 categories: 
 - blog
+- Miscellaneous
 excerpt: "Creating great products at Groove is more than writing code, whipping up designs, and knowing our stuff..."
 ---
 
