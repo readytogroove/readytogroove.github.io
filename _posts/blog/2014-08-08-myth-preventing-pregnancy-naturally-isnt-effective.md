@@ -6,7 +6,7 @@ author: "Jennifer Aldoretta"
 permalink: /blog/2014-08-08-myth-preventing-pregnancy-naturally-isnt-effective
 categories: 
 - blog
-- Pregnancy Prevention
+# - Pregnancy Prevention
 excerpt: "Many of us were brought up to believe that the only responsible and effective way to prevent pregnancy is to use hormonal contraception. I can&rsquo;t say that I&rsquo;m surprised, but this is actually completely untrue..."
 ---
 

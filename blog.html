@@ -20,14 +20,14 @@ title: Blog - Groove
 						{% endif %}
 					</div><!--.author-img-->
 					<div class="blog-info-text">
-						<p class="gray-very-light small-text"><span itemprop="author">{{ post.author }}</span> wrote this on {{ post.date | date: '%B %-d, %Y' }} in {{ post.categories | category_links }}</p>
+						<p class="gray-very-light small-text"><span itemprop="author">{{ post.author }}</span> wrote this on {{ post.date | date: '%B %-d, %Y' }} <!-- in {{ post.categories | category_links }} --></p>
 					</div><!--.blog-info-text-->
 				</div><!--.blog-info-->
 			</div>
 		</div><!--.blog-list-container-->
 		{% endfor %}
 
-		{% include blog-categories.html %}
+		<!-- {% include blog-categories.html %} -->
 
 	</div><!--.container-->
 </div><!--.gray-background-->

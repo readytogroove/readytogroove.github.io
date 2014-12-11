@@ -6,7 +6,7 @@ author: "Jennifer Aldoretta"
 permalink: /blog/2014-04-17-grooves-global-app-launch
 categories:
 - blog
-- The App
+# - The App
 excerpt: "Because of this overwhelming response, we decided to push our global app launch up the priority list..."
 ---
 

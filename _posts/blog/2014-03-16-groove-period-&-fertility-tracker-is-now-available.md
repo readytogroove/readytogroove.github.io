@@ -6,7 +6,7 @@ author: "Jennifer Aldoretta"
 permalink: /blog/2014-03-16-groove-period-&-fertility-tracker-is-now-available
 categories: 
 - blog
-- The App
+# - The App
 excerpt: "After months and months of hard work, I'm so thrilled to announce that Groove's Fertility &amp; Period Tracker app is now available in the iOS App Store..."
 ---
 

@@ -6,7 +6,7 @@ author: "Jennifer Aldoretta"
 permalink: /blog/2014-08-22-does-natural-and-non-hormonal-birth-control-really-count-as-birth-control
 categories: 
 - blog
-- Pregnancy Prevention
+# - Pregnancy Prevention
 excerpt: "Many people are under the impression that non-hormonal users don&rsquo;t use birth control at all, and this is problematic..."
 ---
 
