@@ -5,8 +5,8 @@ date:   2014-07-04
 author: "Jennifer Aldoretta"
 categories: 
 - blog
-- Fertility Charting
-- Trying to Conceive
+# - Fertility Charting
+# - Trying to Conceive
 excerpt: "Charting fertility is an increasingly popular tool used by women who are trying to get pregnant. And for good reason! Fertility charting can help to eliminate a lot of stress and put the fun back into baby-making..."
 ---
 

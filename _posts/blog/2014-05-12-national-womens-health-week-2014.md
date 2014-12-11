@@ -5,7 +5,7 @@ date:   2014-05-12
 author: "Jennifer Aldoretta"
 categories: 
 - blog
-- Women's Health
+# - Women's Health
 excerpt: "NWHW is a great opportunity to add some healthy habits to your life, and there are so many ways to participate. Here are a few of my personal favorites..."
 ---
 

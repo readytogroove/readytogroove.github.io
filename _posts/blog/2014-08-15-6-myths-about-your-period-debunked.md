@@ -5,7 +5,7 @@ date:   2014-08-15
 author: "Jennifer Aldoretta"
 categories: 
 - blog
-- Menstruation
+# - Menstruation
 excerpt: "I can&rsquo;t even tell you how often I hear inaccurate information about periods. There is so much misinformation flying around out there about the female reproductive system..."
 ---
 
