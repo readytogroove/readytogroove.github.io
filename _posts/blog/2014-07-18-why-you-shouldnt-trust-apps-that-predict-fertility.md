@@ -5,7 +5,7 @@ date:   2014-07-18
 author: "Jennifer Aldoretta"
 categories: 
 - blog
-- Fertility Charting
+# - Fertility Charting
 excerpt: "There are SO many internal and external factors that can have an affect on your cycle, so putting your trust in an app that claims to predict when you&rsquo;ll be fertile isn&rsquo;t the wisest choice..."
 ---
 

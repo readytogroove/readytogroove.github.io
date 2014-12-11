@@ -5,7 +5,7 @@ date:   2014-03-15
 author: "Jennifer Aldoretta"
 categories: 
 - blog
-- Pregnancy Prevention
+# - Pregnancy Prevention
 excerpt: "I remember very clearly standing in my kitchen and suddenly feeling as though I was being suffocated..."
 ---
 

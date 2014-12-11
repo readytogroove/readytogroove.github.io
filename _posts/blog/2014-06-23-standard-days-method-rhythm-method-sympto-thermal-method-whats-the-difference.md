@@ -5,8 +5,8 @@ date:   2014-06-23
 author: "Jennifer Aldoretta"
 categories:
 - blog 
-- Fertility Awareness Method
-- Pregnancy Prevention
+# - Fertility Awareness Method
+# - Pregnancy Prevention
 excerpt: "The sympto-thermal method of fertility awareness (STM) is often confused with methods like the standard days method and the rhythm method, but not all “natural” methods of pregnancy prevention are created equal..."
 ---
 
