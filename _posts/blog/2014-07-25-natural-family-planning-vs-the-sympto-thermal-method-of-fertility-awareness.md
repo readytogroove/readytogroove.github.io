@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Natural Family Planning vs. the Sympto-thermal Method of Fertility Awareness"
 date:   2014-07-25
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-07-25-natural-family-planning-vs-the-sympto-thermal-method-of-fertility-awareness
+permalink: /blog/2014/07/25/natural-family-planning-vs-the-sympto-thermal-method-of-fertility-awareness
 categories: 
 - blog
 - Fertility Awareness Method

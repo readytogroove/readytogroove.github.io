@@ -3,7 +3,7 @@ layout: blog-post
 title:  "The Myth of the Average Menstrual Cycle"
 date:   2014-08-01
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-08-01-the-myth-of-the-average-menstrual-cycle
+permalink: /blog/2014/08/01/the-myth-of-the-average-menstrual-cycle
 categories: 
 - blog
 - Menstruation

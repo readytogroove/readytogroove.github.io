@@ -3,7 +3,7 @@ layout: blog-post
 title:  "How to Get Pregnant While Charting Your Fertility"
 date:   2014-07-04
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-07-04-how-to-get-pregnant-while-charting-your-fertility
+permalink: /blog/2014/07/04/how-to-get-pregnant-while-charting-your-fertility
 categories: 
 - blog
 - Fertility Charting

@@ -3,7 +3,7 @@ layout: blog-post
 title:  "How Cervical Fluid Helps You Get Pregnant (Or Not)"
 date:   2014-12-05
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-12-05-how-cervical-fluid-helps-you-get-pregnant-or-not
+permalink: /blog/2014/12/05/how-cervical-fluid-helps-you-get-pregnant-or-not
 categories:
 - blog
 - Pregnancy Prevention

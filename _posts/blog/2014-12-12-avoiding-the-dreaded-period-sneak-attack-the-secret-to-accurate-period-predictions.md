@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Avoiding the Dreaded Period Sneak Attack: the Secret to Accurate Period Predictions"
 date:   2014-12-12
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-12-12-avoiding-the-dreaded-period-sneak-attack-the-secret-to-accurate-period-predictions
+permalink: /blog/2014/12/12/avoiding-the-dreaded-period-sneak-attack-the-secret-to-accurate-period-predictions
 categories:
 - blog
 - Menstruation

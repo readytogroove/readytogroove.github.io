@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Groove's Period &amp; Fertility Tracker is Now Available"
 date:   2014-03-16
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-03-16-groove-period-&-fertility-tracker-is-now-available
+permalink: /blog/2014/03/16/groove-period-&-fertility-tracker-is-now-available
 categories: 
 - blog
 - The App

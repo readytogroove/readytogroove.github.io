@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Standard Days Method, Rhythm Method, Sympto-thermal Method...What&rsquo;s the Difference?"
 date:   2014-06-23
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-06-23-standard-days-method-rhythm-method-sympto-thermal-method-whats-the-difference
+permalink: /blog/2014/06/23/standard-days-method-rhythm-method-sympto-thermal-method-whats-the-difference
 categories:
 - blog 
 - Fertility Awareness Method

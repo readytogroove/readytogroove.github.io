@@ -3,7 +3,7 @@ layout: blog-post
 title:  "4 Awesome Reasons to Get in Tune with Your Cycle"
 date:   2014-09-12
 author: "Jennifer Aldoretta"
-permalink: /blog/2014-09-12-4-awesome-reasons-to-get-in-tune-with-your-cycle
+permalink: /blog/2014/09/12/4-awesome-reasons-to-get-in-tune-with-your-cycle
 categories:
 - blog
 - Menstruation
