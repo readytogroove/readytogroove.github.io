@@ -2,8 +2,9 @@
 
 <div class="center">
 	<h1 class="gray-dark blog-title">Explore blog categories</h1>
-
-	{{ blog_categories | category_links }}
+	<div class="blog-category">
+		{{ blog_categories | category_links }}
+	</div>
 
 	<!--ul>
 		{% for category in blog_categories %}<li class="blog-category"><h3><a class="text-link" href="/categories/{{category}}">{{category}}</a> | </h3></li>{% endfor %}

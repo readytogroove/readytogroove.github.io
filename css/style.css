@@ -638,10 +638,16 @@ a.category {
     color: #359E87;
   }
 
-li.blog-category {
+.blog-category {
+  font-size: 26px;
+  margin-bottom: 15px;
+  line-height: 1.4em;
+}
+
+/*li.blog-category {
   display: inline-block;
   margin-right: 10px;
-}
+}*/
 
 /* app.html styles */
 
@@ -1149,6 +1155,10 @@ body.mobile-nav-open #mobile-nav {
   p {
     font-size: 18px;
     font-weight: 300;
+  }
+
+  .blog-category {
+    font-size: 22px;
   }
 
   .button {
