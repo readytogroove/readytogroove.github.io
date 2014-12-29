@@ -432,9 +432,12 @@ li.nav-button-link {
 
 .mantle {
   overflow: hidden;
-  background: url('/img/mantle.jpg') 50% 100% no-repeat;
-  background-size: cover;
-  padding-top: 100px;
+  background: url('/img/GrooveBackground2.png') no-repeat;
+  background-size: cover !important;
+  background-position: center !important;
+  max-height: 700px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   text-align:center;
 }
 /*  .mantle .container {
@@ -457,101 +460,6 @@ li.nav-button-link {
     margin-left: auto;
     margin-right: auto;
   }
-
-  #subscribe {
-    margin-top: 100px;
-  }
-
-/*  .iphone {
-    float: left;
-    position: relative;
-    width: 233px;
-    height: 492px;
-    background: url('/img/iphone5-img.png') center center no-repeat;
-  }
-    .iphone .screen-container,
-    .iphone .screen-container .screen {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-    }  
-      .iphone .screen-container .screen .img {
-        width: 233px;
-        height: 492px;
-      }
-      .iphone .screen-container .screen {
-        z-index: 1;
-        opacity: 0;
-        -webkit-transition: opacity 1s ease-out;
-        -moz-transition: opacity 1s ease-out;
-        -o-transition: opacity 1s ease-out;
-        transition: opacity 1s ease-out;
-      }
-      .iphone .screen-container .screen.active {
-        opacity: 1;
-        z-index: 2;
-      }
-      .iphone .screen-container .screen.deactivating {
-        opacity: 0;
-        z-index: 2;
-      }
-
-  .mantle .text-container {
-    float: right;
-    position: relative;
-    width: 60%;
-    height: 320px;
-    margin-top: 70px;
-  }
-    .mantle .text-container a {
-      position: absolute;
-      bottom: 0;
-    }
-    .mantle .text-container .text {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      opacity: 0;
-      -webkit-transform: translate3d(50%, 0, 0);
-      -moz-transform: translate3d(50%, 0, 0);
-      -o-transform: translate3d(50%, 0, 0);
-      transform: translate3d(50%, 0, 0);
-
-      -webkit-transition: -webkit-transform 1s ease-out, opacity 1s ease-out;
-      -moz-transition: -moz-transform 1s ease-out, opacity 1s ease-out;
-      -o-transition: -o-transform 1s ease-out, opacity 1s ease-out;
-      transition: transform 1s ease-out, opacity 1s ease-out;
-    }
-      .mantle .text-container .text.active {
-        opacity: 1;
-        -webkit-transform: translate3d(0%, 0, 0);
-        -moz-transform: translate3d(0%, 0, 0);
-        -o-transform: translate3d(0%, 0, 0);
-        transform: translate3d(0%, 0, 0);
-      }
-      .mantle .text-container .text.deactivating {
-        opacity: 0;
-        -webkit-transform: translate3d(0%, 0, 0);
-        -moz-transform: translate3d(0%, 0, 0);
-        -o-transform: translate3d(0%, 0, 0);
-        transform: translate3d(0%, 0, 0);
-      }
-    .mantle .text-container h1,
-    .mantle .text-container h3 {
-      color: white;
-      font-weight: 200;
-    }
-    .mantle .text-container h1 {
-      line-height: 1.3em;
-      margin-bottom: 10px;
-    }
-    .mantle .text-container h3 {
-      font-weight: lighter;
-    }*/
 
 /* about.html styles */
 
@@ -1236,10 +1144,6 @@ body.mobile-nav-open #mobile-nav {
 
   .mantle {
     padding-top: 50px;
-  }
-
-  #subscribe {
-    margin-top: 50px;
   }
 
   #app-video {
