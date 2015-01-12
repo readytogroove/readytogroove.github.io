@@ -10,7 +10,7 @@ excerpt: "Using the rules of the sympto-thermal method (STM), we can determine w
 Using <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method">the rules of the sympto-thermal method of fertility awareness (STM)</a>, we can determine when a woman is no longer at risk of an unintended pregnancy or when her baby-making window has passed! Not just this, but monitoring these fertility signs on a daily basis allows for faster detection of many reproductive disorders, including polycystic ovarian syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances. While this book is not meant to diagnose or help a woman self-diagnose any reproductive disorders, practicing STM can help physicians work with women to reach a timelier, more cost-effective, and less invasive diagnosis. This section will discuss _how_ to check all of the fertility signs we've learned about up to this point.
 
 
-##Basal Body Temperature
+<h2><a class="notes" name="how-to-check-bbt">Basal Body Temperature</a></h2>
 
 
 There are several guidelines to follow in order to get the most accurate daily BBT reading.
@@ -83,7 +83,7 @@ Consider this example: if you blow your nose and look down only to see that it's
 So why are so few women able to distinguish healthy cervical fluid? Like an elevated temperature and rainbow-boogers, regularly monitoring cervical fluid can indicate when something's up, which is why it's an important thing for _every_ woman (and man) to learn. We already encourage women to perform monthly breast self-exams, so shouldn't we also encourage regular cervical fluid self-checks, if for nothing else, to support gynecological health? Uncovering the fertile window should simply be seen as an _added benefit_.
 
 
-###How to Check Cervical Fluid
+<h3><a class="notes" name="how-to-check-cervical-fluid">How to Check Cervical Fluid</a></h2>
 
 
 The cervix, as we well know by this point, produces cervical fluid. Since the type of fluid present determines whether sperm are able to survive in the female body, it's important to get an accurate representation of the type of fluid produced on any given day. The best way to do this is to check fluid at its source. Yep, that's right. And it's not even that scary. I urge partners (male or female) to partake in the fluid-checking...make it fun! Educating both men and women about the ins and outs of practicing STM will make for a more confident and supportive partner when the method is being used to avoid or achieve a pregnancy. 
@@ -111,7 +111,7 @@ Peak day, as I have mentioned, is defined as the _last day_ of slippery cervical
 During daily checks, it may even be helpful to snap a picture of your fingers with your phone after gathering some fluid. Some will find that this will make it easier to spot changes. As a learning tool, I have provided a full cycle of cervical fluid images in <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes">Appendix E</a>. Each woman will find that she has a different fluid pattern, but these images will give you an idea of how cervical fluid can change throughout the course of a cycle. 
 
 
-##Cervical Position
+<h2><a class="notes" name="how-to-check-cervical-position">Cervical Position</a></h2>
 
 
 Even though many women who practice STM don't rely on cervical position to determine fertility, it's a great way to confirm other fertility signs. The first question a woman should ask herself when checking cervical position is _can I even feel my cervix?_ Is it sitting low in the vagina, or does it seem to have retracted up into your stomach? If the cervix is particularly high, it will be easiest to reach in a squatting position or while sitting on the toilet.
