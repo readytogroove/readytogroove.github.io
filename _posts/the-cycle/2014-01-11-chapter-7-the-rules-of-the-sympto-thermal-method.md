@@ -116,7 +116,7 @@ The chart below shows all of the STM rules in action:
 {% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-chart.jpg" description="This woman's fertile window begins on cycle day nine, which is the first day after menstruation that she experiences cervical fluid. Her peak day occurs on cycle day 14 and her thermal shift occurs on cycle day 16. Therefore, the end of her fertile window occurs on cycle day 18 when BOTH the temperature shift rule AND the peak day rule are satisfied. If menstruation had lasted for six days, cycle day six would be considered fertile according to the First Five Days Rule." %}
 
 
-##How to Draw a Coverline
+<h2><a class="notes" name="how-to-draw-a-coverline">How to Draw a Coverline</a></h2>
 
 
 Drawing a coverline isn't totally necessary, but doing so will make it much easier to visualize the temperature shift. I mentioned that some women experience a sudden temperature shift, while others have a slow-rise pattern. The rules for drawing the coverline are different for each of these two scenarios.
