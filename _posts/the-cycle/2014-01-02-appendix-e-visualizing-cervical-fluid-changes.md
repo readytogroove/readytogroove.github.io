@@ -4,10 +4,10 @@ title:  "Visualizing Changes in Your Cervical Fluid (Cervical Mucus)"
 date:   2014-01-02
 permalink: /the-cycle/appendix-e-visualizing-cervical-fluid-changes
 category: the-cycle
-excerpt: "Being able to visualize the changes that occur in your cervical fluid (or cervical mucus) is a powerful teaching tool. Each woman is unique, and so is her cervical fluid! Learn how to categorize your unique cervical fluid with these images."
+excerpt: "Being able to visualize the changes that occur in your cervical fluid (or cervical mucus) is a powerful teaching tool. Each body is unique, and so is each cervical fluid pattern! Learn how to categorize your unique cervical fluid with these images."
 ---
 
-I could talk all day long about cervical fluid, but being able to visualize the changes that occur is a powerful teaching tool. Shown below is one example of changes in cervical fluid that occurred during a single menstrual cycle. Each woman is unique, and so is her cervical fluid! The images shown below cannot possibly represent all of the many variations in cervical fluid, but hopefully it will make it easier to determine the different fluid types.
+I could talk all day long about cervical fluid, but being able to visualize the changes that occur is a powerful teaching tool. Shown below is one example of changes in cervical fluid that occurred during a single menstrual cycle. Each body is unique, and so is each cervical fluid pattern! The images shown below cannot possibly represent all of the many variations in cervical fluid, but hopefully it will make it easier to determine the different fluid types.
 
 
 {% include cf-image.html url="/img/book/dry-cervical-fluid.png" description="No cervical fluid - (above) No cervical fluid is present, but you can see a slight moistness on the middle finger from vaginal fluid." %}
