@@ -5,7 +5,7 @@ date:   2015-02-13
 author: "Jennifer Aldoretta"
 categories:
 - blog
-excerpt: "When I think about what the sympto-thermal method (STM) is, I&rsquo;m reminded of the classic quote: &ldquo;It&rsquo;s a bird! It&rsquo;s a plane! No, it&rsquo;s Superman!&rdquo; ..."
+excerpt: "If you&rsquo;re trying to get pregnant and it&rsquo;s taking a little longer than expected, you&rsquo;ve likely heard your fair share of &ldquo;just be patient and it&rsquo;ll happen&rdquo; and &ldquo;your time will come.&rdquo; And you probably have to fight the urge deliver a swift kick to the shin ..."
 ---
 
 If you&rsquo;re trying to get pregnant and it&rsquo;s taking a little longer than expected, you&rsquo;ve likely heard your fair share of &ldquo;just be patient and it&rsquo;ll happen&rdquo; and &ldquo;your time will come.&rdquo; And you probably have to fight the urge deliver a swift kick to the shin every. damn. time. 
