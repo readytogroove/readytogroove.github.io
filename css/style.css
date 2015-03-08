@@ -19,15 +19,6 @@
   z-index: -1000000 !important;
 }
 
-
-/*a,
-.social-button {
-  -webkit-transition: background-color .1s linear, color .1s linear;
-  -moz-transition: background-color .1s linear, color .1s linear;
-  -o-transition: background-color .1s linear, color .1s linear;
-  transition: background-color .1s linear, color .1s linear;
-}*/
-
 em {
   font-style: italic;
 }
@@ -440,9 +431,6 @@ li.nav-button-link {
   padding-bottom: 50px;
   text-align:center;
 }
-/*  .mantle .container {
-    text-align:center;
-  }*/
   .mantle .button-home {
     position: relative;
   }
@@ -453,7 +441,7 @@ li.nav-button-link {
     height: 100%;
   }
 
-  #app-video {
+  .video {
     max-width: 853px;
     max-height: 480px;
     position: relative;
@@ -850,7 +838,7 @@ body.mobile-nav-open #mobile-nav {
     font-size: 16px;
   }
 
-  #app-video {
+  .video {
     max-width: 720px;
     max-height: 405px;
   }
@@ -942,6 +930,11 @@ body.mobile-nav-open #mobile-nav {
   h1.about-header, h1.help-header {
     padding-bottom: 50px;
     text-align: center;
+  }
+
+  .video {
+      max-width: 540px;
+      max-height: 304px;
   }
 
   .the-cycle-chapters h3 {
@@ -1052,6 +1045,13 @@ body.mobile-nav-open #mobile-nav {
 
 }
 
+@media screen and (max-width: 761px) {
+
+  .mantle {
+    padding-top: 50px;
+  }
+}
+
 @media screen and (max-width: 751px) {
 
   .mantle .iphone {
@@ -1139,22 +1139,9 @@ body.mobile-nav-open #mobile-nav {
   }
 }
 
-@media screen and (max-width: 761px) {
-
-  .mantle {
-    padding-top: 50px;
-  }
-
-  #app-video {
-      max-width: 540px;
-      max-height: 304px;
-  }
-
-}
-
 @media screen and (max-width: 576px) {
 
-#app-video {
+.video {
     max-width: 300px;
     max-height: 150px;
   }
