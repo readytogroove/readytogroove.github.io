@@ -659,6 +659,13 @@ li.blog-category {
   .app-mantle .container {
     width: 70%;
     padding: 0 15%;
+    text-align: center;
+  }
+
+#app-video {
+    max-width: 853px;
+    max-height: 480px;
+    position: relative;
   }
 
 .app-info-text {
