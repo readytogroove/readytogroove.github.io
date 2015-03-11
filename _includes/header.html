@@ -28,14 +28,21 @@
         {% endif %}
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 
-<!-- App Sumo Code -->
-      <!--<script src="//load.sumome.com/" data-sumo-site-id="fb296ef6b0b6f1d5b4fd3ef4f0229a7f9d58f19a494c0f5005abd01aa73b034d" async></script> -->
+    	<link rel='stylesheet' type='text/css' href="/css/reset.css"/>
+    	<link rel='stylesheet' type='text/css' href="/css/style.css"/>
 
-	    <link rel='stylesheet' type='text/css' href="/css/reset.css"/>
-	    <link rel='stylesheet' type='text/css' href="/css/style.css"/>
-	    <link rel="shortcut icon" href="/img/favicon.png" type="image/png" />
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-      <script type="text/javascript" src="/js/bootstrap.js"></script>
+    	<link rel="shortcut icon" href="/img/favicon.png" type="image/png" />
+        <!-- Bootstrap v3.3.2 -->
+        <!-- <link rel="stylesheet" href="/css/bootstrap.css"/> -->
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <!-- Bootstrap v3.3.2 -->
+        <script src="/js/bootstrap.min.js"></script>
+        <script>
+            //  $(document).ready(function(){
+            //     $('.dropdown-toggle').dropdown()
+            // });
+        </script> 
       
 <!--Google Analytics-->
       <script>
@@ -106,7 +113,7 @@
 
     <div id="header-container">
       <a href="/"><span id="groove"><meta id="_logo7" itemprop="logo" content="http://www.readytogroove.com/img/groove.png">Groove</span></a>
-        <div class="nav">
+        <div class="header-nav">
           <ul>
             {% if page.url == "/app/" %}
             <li class="nav-link"><a class="active-nav" href="/app">APP</a></li>

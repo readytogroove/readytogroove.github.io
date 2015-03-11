@@ -1,6 +1,6 @@
 ---
 layout: book-content
-title:  "Chapter 6: Hormone Changes &amp; Fertility Signals"
+title:  "Hormone Changes &amp; Fertility Signs"
 date:   2014-01-12
 permalink: /the-cycle/chapter-6-hormone-changes-and-fertility-signals
 category: the-cycle
