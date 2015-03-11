@@ -1,0 +1,35 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>
+      http://www.readytogroove.com/app/
+    </loc>
+    <video:video>
+      <video:thumbnail_loc>
+        http://i.ytimg.com/vi/BY4ghaza79o/0.jpg
+      </video:thumbnail_loc>
+      <video:title>
+        Meet Groove
+      </video:title>
+      <video:description>
+        Groove is the period tracker you've been waiting for. This stunning app automatically
+        customizes and adapts based on YOUR unique data. Learn about YOUR body and achieve
+        YOUR goals with the help of Groove. It gets more accurate over time and uses advanced
+        algorithms to predict your next period. Take control of YOUR body and YOUR cycles
+        with Groove! Download Groove for iPhone: https://itunes.apple.com/app/id831795151
+        Visit Groove's website: http://www.readytogroove.com
+      </video:description>
+      <video:content_loc>
+        http://www.youtube.com/v/BY4ghaza79o?version=3&amp;f=videos&amp;app=youtube_gdata
+      </video:content_loc>
+      <video:player_loc allow_embed="yes">
+        http://www.youtube.com/watch?v=BY4ghaza79o&amp;feature=youtube_gdata_player
+      </video:player_loc>
+      <video:duration>
+        91
+      </video:duration>
+      <video:category>
+        People
+      </video:category>
+    </video:video>
+  </url>
+</urlset>
