@@ -1,0 +1,23 @@
+<div class="dropdown">
+  <select>
+    <option value="/the-cycle/"{% if page.url == "/the-cycle/" %} selected{% endif %}>Introduction</option>
+    <option value="/the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands/"{% if page.url contains "/chapter-4" %} selected{% endif %}>Reproductive System Basics</option>
+    <option value="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/"{% if page.url contains "/chapter-5" %} selected{% endif %}>Hormones &amp; the Menstrual Cycle</option>
+    <option value="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/"{% if page.url contains "/chapter-6" %} selected{% endif %}>Hormones &amp; Fertility Signs</option>
+    <option value="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/"{% if page.url contains "/chapter-7" %} selected{% endif %}>Rules of Fertility Charting</option>
+    <option value="/the-cycle/chapter-8-checking-fertility-signs-how-to/"{% if page.url contains "/chapter-8" %} selected{% endif %}>How to Check Fertility Signs</option>
+    <option value="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/"{% if page.url contains "/chapter-9" %} selected{% endif %}>Fertility Charting Effectiveness</option>
+    <option value="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/"{% if page.url contains "/appendix-a" %} selected{% endif %}>Charting to Prevent Pregnancy</option>
+    <option value="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/"{% if page.url contains "/appendix-b" %} selected{% endif %}>Charting to Get Pregnant</option>
+    <option value="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/"{% if page.url contains "/appendix-c" %} selected{% endif %}>Charting for Reproductive Health</option>
+    <option value="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/"{% if page.url contains "/appendix-d" %} selected{% endif %}>Resources</option>
+    <option value="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/"{% if page.url contains "/appendix-e" %} selected{% endif %}>Cervical Fluid Images</option>
+    <option value="/the-cycle/notes/"{% if page.url contains "/the-cycle/notes" %} selected{% endif %}>Notes</option>
+  </select>
+</div>
+
+<script>
+  $('.dropdown select').on('change', function() {
+    window.location.href = $('.dropdown select').val();
+  });
+</script>

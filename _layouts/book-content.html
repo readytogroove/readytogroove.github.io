@@ -1,17 +1,22 @@
-
-
 {% include header.html %}
 
 <div class="white-background">
   <div class="container">
-    <div>
-      <h1 class="gray-dark the-cycle-header">Learn</h1>
-      <h2 class="gray-light the-cycle-header">How to chart your fertility</h2>
+    <div class="bottom-margin">
+      <h1 class="gray-dark page-header">Learn</h1>
+      <h2 class="gray-light page-header">How to chart your fertility</h2>
     </div>
-    <div class="top-margin">
-	    <div class="left-column">
 
+    <div>
+      <div class="left-column">
+
+<div class="chapter-list-dropdown">
+{% include chapter-list-dropdown.html %}
+</div>        
+
+<div class="chapter-list">
 {% include chapter-list.html %}
+</div>
 
 	    </div><!--.left-column-->
 	    <div class="right-column">
