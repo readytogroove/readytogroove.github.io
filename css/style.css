@@ -132,8 +132,9 @@ blockquote {
   padding: 0px;
 }
 
-.bottom-margin {
+.header-box {
   margin-bottom: 50px;
+  margin-top: 50px;
 }
 
 .text-link {
@@ -872,10 +873,6 @@ div.image-container p.small-text {
 
 /* help.html styles */
 
-h1.help-header {
-  padding-bottom: 75px;
-}
-
 p.panel-title {
     font-size: 20px;
   }
@@ -1112,8 +1109,9 @@ body.mobile-nav-open #mobile-nav {
     display: inline-block;
   }
 
-  .bottom-margin {
+  .header-box {
     margin-bottom: 30px;
+    margin-top: 30px;
   }
 
   .chapter-divide {
