@@ -132,8 +132,9 @@ blockquote {
   padding: 0px;
 }
 
-.bottom-margin {
+.header-box {
   margin-bottom: 50px;
+  margin-top: 50px;
 }
 
 .text-link {
@@ -392,23 +393,29 @@ li.nav-button-link {
 
   #twitter {
     background: url('../img/32x32-twitter.png') 0 0 no-repeat;
+    background-size: 32px 32px;
   }
     #twitter:hover {
       background: url('../img/32x32-twitter-hover.png') 0 0 no-repeat;
+      background-size: 32px 32px;
     }
 
   #facebook {
     background: url('../img/32x32-facebook.png') 0 0 no-repeat;
+    background-size: 32px 32px;
   }
     #facebook:hover {
       background: url('../img/32x32-facebook-hover.png') 0 0 no-repeat;
+      background-size: 32px 32px;
     }
 
   #pinterest {
       background: url('../img/32x32-pinterest.png') 0 0 no-repeat;
+      background-size: 32px 32px;
   }
     #pinterest:hover {
       background: url('../img/32x32-pinterest-hover.png') 0 0 no-repeat;
+      background-size: 32px 32px;
     }
 
   .footer-center {
@@ -462,15 +469,50 @@ h1.about-header {
   }
 
 .groover-img {
-  width: 35%;
+  width: 300px;
+  height: 300px;
+  background-color: transparent;
+  border: 10px solid #6C6C6C;
+  border-radius: 50%;
   float: left;
 }
+
+#JA-twitter-transparency {
+    background: url('../img/Jennifer-Aldoretta.jpg') 0 0 no-repeat;
+    background-size: 300px 300px;
+    border-radius: 50%;
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+    #JA-twitter-transparency:hover {
+      background: url('../img/twitter-transparency-JA.jpg') 0 0 no-repeat;
+      background-size: 300px 300px;
+    }
+
+#BS-twitter-transparency {
+    background: url('../img/Brian-Smith.jpg') 0 0 no-repeat;
+    background-size: 300px 300px;
+    border-radius: 50%;
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+    #BS-twitter-transparency:hover {
+      background: url('../img/twitter-transparency-BS.jpg') 0 0 no-repeat;
+      background-size: 300px 300px;
+    }
 
 img.groover {
   width: 85%;
   border-radius: 50%;
   border: 10px solid #6C6C6C;
 }
+
+img.groover:hover {
+      background-color: #6C6C6C;
+      /*opacity: 0.9;*/
+    }
 
 .groover-text {
   width: 65%;
@@ -795,10 +837,6 @@ div.image-container p.small-text {
 
 /* help.html styles */
 
-h1.help-header {
-  padding-bottom: 75px;
-}
-
 p.panel-title {
     font-size: 20px;
   }
@@ -954,6 +992,22 @@ body.mobile-nav-open #mobile-nav {
   }
 }
 
+@media screen and (max-width:1201px) {
+  #JA-twitter-transparency, #BS-twitter-transparency {
+    background-size: 220px 220px;
+  }
+
+    #JA-twitter-transparency:hover, #BS-twitter-transparency:hover {
+    background-size: 220px 220px;
+    }
+
+  .groover-img {
+    width: 220px;
+    height: 220px;
+  }
+
+}
+
 @media screen and (max-width:1100px) {
   .left-column p.small-text {
     font-size: 16px;
@@ -1035,8 +1089,9 @@ body.mobile-nav-open #mobile-nav {
     display: inline-block;
   }
 
-  .bottom-margin {
+  .header-box {
     margin-bottom: 30px;
+    margin-top: 30px;
   }
 
   .chapter-divide {
@@ -1238,10 +1293,6 @@ body.mobile-nav-open #mobile-nav {
 
   img.groover {
     width: 200px;
-  }
-
-  .groover-img {
-    width: 220px;
   }
 
   div.image-container p.small-text {
