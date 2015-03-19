@@ -15,9 +15,9 @@
       {% endif %}
       <meta content="website" property="og:type">
       {% if page.url %}
-        <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+        <meta content="http://readytogroove.com{{ page.url }}" property="og:url">
       {% else %}
-        <meta content="{{ site.url }}{{ post.url }}" property="og:url">
+        <meta content="http://readytogroove.com{{page.url}}{{ post.url }}" property="og:url">
       {% endif %}
       {% if page.image %}
         <meta content="/img/{{ page.image }}" property="og:image">
