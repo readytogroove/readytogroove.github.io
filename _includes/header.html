@@ -13,11 +13,15 @@
       {% else %}
         <meta content="{{ site.title }}" property="og:title">
       {% endif %}
-      <meta content="website" property="og:type">
-      {% if page.url %}
-        <meta content="http://readytogroove.com{{ page.url }}" property="og:url">
+      {% if page.title %}
+        <meta content="article" property="og:type">
       {% else %}
-        <meta content="http://readytogroove.com{{page.url}}{{ post.url }}" property="og:url">
+        <meta content="website" property="og:type">
+      {% endif %}
+      {% if page.url %}
+        <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+      {% else %}
+        <meta content="{{ site.url }}{{ post.url }}" property="og:url">
       {% endif %}
       {% if page.image %}
         <meta content="/img/{{ page.image }}" property="og:image">
