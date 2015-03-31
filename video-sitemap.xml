@@ -1,7 +1,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>
-      http://www.readytogroove.com/app/
+      http://readytogroove.com/
+    </loc>
+    <video:video>
+      <video:thumbnail_loc>
+        http://i.ytimg.com/vi/3PzfJ4caalY/0.jpg
+      </video:thumbnail_loc>
+      <video:title>
+        Groove #KnowYou
+      </video:title>
+      <video:description>
+        Most women grow up thinking that their bodies are mysterious and unpredictable.
+        But what if we told you that it doesn't have to be that way? Groove is on a mission
+        to help build confidence, raise self-esteem, and reduce the prevalence of body image
+        issues by providing education and tools to help women get to know how their bodies
+        work. Your body helps you do so many things. Your body is amazing. We want to help
+        you get to know it better. So tell us, how well do YOU #KnowYou? Download the app:
+        https://itunes.apple.com/app/id831795151 Twitter: http://twitter.com/readytogroove
+        Facebook: https://www.facebook.com/readytogroove Learn about Groove: http://readytogroove.com
+      </video:description>
+      <video:content_loc>
+        http://www.youtube.com/v/3PzfJ4caalY?version=3&amp;f=videos&amp;app=youtube_gdata
+      </video:content_loc>
+      <video:player_loc allow_embed="yes">
+        http://www.youtube.com/watch?v=3PzfJ4caalY&amp;feature=youtube_gdata_player
+      </video:player_loc>
+      <video:duration>
+        146
+      </video:duration>
+      <video:category>
+        Nonprofit
+      </video:category>
+    </video:video>
+  </url>
+  <url>
+    <loc>
+      http://readytogroove.com/app/
     </loc>
     <video:video>
       <video:thumbnail_loc>
@@ -15,8 +50,9 @@
         customizes and adapts based on YOUR unique data. Learn about YOUR body and achieve
         YOUR goals with the help of Groove. It gets more accurate over time and uses advanced
         algorithms to predict your next period. Take control of YOUR body and YOUR cycles
-        with Groove! Download Groove for iPhone: https://itunes.apple.com/app/id831795151
-        Visit Groove's website: http://www.readytogroove.com
+        with Groove! Download the app: https://itunes.apple.com/app/id831795151 Twitter:
+        http://twitter.com/readytogroove Facebook: https://www.facebook.com/readytogroove
+        Learn about Groove: http://readytogroove.com
       </video:description>
       <video:content_loc>
         http://www.youtube.com/v/BY4ghaza79o?version=3&amp;f=videos&amp;app=youtube_gdata
