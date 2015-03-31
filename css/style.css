@@ -259,10 +259,10 @@ input {
   display: inline-block;
   text-indent: -9999px;
   width: 140px;
-  height: 44px;
+  height: 34px;
   background: url('/img/groove.png') center center no-repeat;
   background-size: 100%;
-  margin-top: 8px;
+  margin-top: 13px;
 }
 
 .header-nav {
