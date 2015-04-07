@@ -5,7 +5,7 @@ date:   2015-03-23
 author: "Jennifer Aldoretta"
 categories:
 - blog
-excerpt: "Here at Groove, we love a good project. So when we decided that we wanted to pull of an awesome marketing campaign during SXSW, we knew we had to do it guerilla style..."
+excerpt: "Here at Groove, we love a good project. So when we decided that we wanted to pull off an awesome marketing campaign during SXSW, we knew we had to do it guerilla style..."
 ---
 
 <a class="text-link" target="_blank" href="http://sxsw.com/">SXSW</a> has officially come and gone from our home base in Austin, TX, and it was a blast! 
