@@ -884,9 +884,14 @@ p.panel-title {
   height: 245px;
 }
 
-#store-thermometer {
+#store-mabis {
   width: 264px;
   height: 103px;
+}
+
+#store-geratherm {
+  width: 49px;
+  height: 250px;
 }
 
 #store-lunette {
@@ -894,9 +899,19 @@ p.panel-title {
   height: 168px;
 }
 
+#store-diva-cup {
+  width: 200px;
+  height: 200px;
+}
+
 #store-pads {
   width: 259px;
   height: 168px;
+}
+
+#store-natracare {
+  width: 251px;
+  height: 150px;
 }
 
 #store-pregnancy-test {
