@@ -1,0 +1,79 @@
+#groove {
+	background: transparent;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/groove.png',
+    sizingMethod='scale');
+
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/groove.png',
+    sizingMethod='scale')";
+}
+
+#header-container {
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#d9ffffff', endColorstr='#d9ffffff'); /* IE */
+}
+
+#twitter, #facebook, #pinterest {
+	background: none;
+}
+
+#twitter {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/32x32-twitter.png',
+    sizingMethod='scale');
+}
+#twitter:hover {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/32x32-twitter-hover.png',
+    sizingMethod='scale');
+}
+
+#facebook {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/32x32-facebook.png',
+    sizingMethod='scale');
+}
+#facebook:hover {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/32x32-facebook-hover.png',
+    sizingMethod='scale');
+}
+
+#pinterest {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/32x32-pinterest.png',
+    sizingMethod='scale');
+}
+#pinterest:hover {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/32x32-pinterest-hover.png',
+    sizingMethod='scale');
+}
+
+.goal-img-container {
+	width: 29%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#JA-twitter-transparency {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/Jennifer-Aldoretta.jpg',
+    sizingMethod='scale');
+}
+#JA-twitter-transparency:hover {
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/twitter-transparency-JA.jpg',
+    sizingMethod='scale');
+}
+
+#BS-twitter-transparency {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/Brian-Smith.jpg',
+    sizingMethod='scale');
+}
+#BS-twitter-transparency:hover {
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+    src='/img/twitter-transparency-BS.jpg',
+    sizingMethod='scale');
+}
