@@ -72,6 +72,10 @@ strong {
   padding-top: 50px;
 }
 
+.remove-padding {
+  padding-bottom: 0px;
+}
+
 .center {
   text-align: center;
   margin-left: auto;
@@ -215,7 +219,43 @@ blockquote {
     min-width: 150px;
   }
 
-.bx-wrapper .bx-caption {
+input[type=checkbox]:not(old) + label > span {
+  display          : inline-block;
+  width            : 0.875em;
+  height           : 0.875em;
+  margin           : 0.25em 0.5em 0.25em 0.25em;
+  border           : 0.0625em solid rgb(192,192,192);
+  border-radius    : 0.25em;
+  background       : rgb(224,224,224);
+  background-image :    -moz-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image :     -ms-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image :      -o-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image : -webkit-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image :         linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  vertical-align   : bottom;
+}
+
+  input[type=checkbox]:not(old):checked + label > span {
+    background-image :    -moz-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+    background-image :     -ms-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+    background-image :      -o-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+    background-image : -webkit-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+    background-image :         linear-gradient(rgb(224,224,224),rgb(240,240,240));
+  }
+
+  input[type=checkbox]:not(old):checked + label > span:before{
+    content     : '✓';
+    display     : block;
+    width       : 1em;
+    color       : rgb(153,204,102);
+    font-size   : 0.875em;
+    line-height : 1em;
+    text-align  : center;
+    text-shadow : 0 0 0.0714em rgb(115,153,77);
+    font-weight : bold;
+  }
+
+/*.bx-wrapper .bx-caption {
 	position: relative;
   background: #EDEDED;
 	width: 100%;
@@ -232,7 +272,7 @@ blockquote {
 	display: block;
 	font-size: .85em;
 	padding: 10px;
-}
+}*/
 
 input {
   font-family: 'helvetica neue', helvetica, arial;
