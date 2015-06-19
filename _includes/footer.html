@@ -50,6 +50,15 @@
      if (element.addEventListener) element.addEventListener(type, callback);
      else if (element.attachEvent) element.attachEvent('on' + type, callback);
     } 
+
+    setTimeout(function show() {
+      document.getElementById('popup').style.opacity = '1';
+    }, 500);
+
+    function closePopup() {
+      var hidePopup = document.getElementById('popup');
+      hidePopup.style.display = 'none';
+    }
     </script>
 
     <!--<script>
