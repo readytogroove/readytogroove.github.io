@@ -62,6 +62,7 @@ label {
 	color: white;
 	font-weight: 100;
   letter-spacing: .08ch;
+  cursor: pointer;
 }
 
 input[type="checkbox"] {
@@ -70,8 +71,15 @@ input[type="checkbox"] {
 
 	input[type="checkbox"] + label span {
 		display: inline-block;
-		width: 20px;
-		height: 20px;
-		border: 3px solid #4C4C4C;
+		width: 18px;
+		height: 18px;
+		border: 2px solid white;
+		background: #3FC2A5;
 		cursor: pointer;
+		margin-right: 15px;
+		vertical-align: bottom;
+	}
+
+	input[type="checkbox"]:checked + label span {
+		background:url();
 	}
