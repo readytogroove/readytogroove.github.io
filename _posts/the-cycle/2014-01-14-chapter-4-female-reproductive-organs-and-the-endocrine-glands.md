@@ -61,7 +61,7 @@ The hypothalamus and its sidekick, the pituitary gland, are continuously communi
 
 ###The Pituitary Gland
 
-The pea-sized pituitary gland is located at the base of the brain just above the brain stem. It helps control processes such as growth, thyroid function, body temperature regulation, and sex organ function. Under the direction of the hypothalamus gland, the pituitary releases two of the hormones directly responsible for the menstrual cycle: luteinizing hormone (LH) and follicle stimulating hormone (FSH). In another section, I'll discuss <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle">the roles of LH and FSH in the menstrual cycle</a>.
+The pea-sized pituitary gland is located at the base of the brain just above the brain stem. It helps control processes such as growth, thyroid function, body temperature regulation, and sex organ function. Under the direction of the hypothalamus, the pituitary gland releases two of the hormones directly responsible for the menstrual cycle: luteinizing hormone (LH) and follicle stimulating hormone (FSH). In another section, I'll discuss <a class="text-link" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle">the roles of LH and FSH in the menstrual cycle</a>.
 
 ###The Hypothalamus
 
