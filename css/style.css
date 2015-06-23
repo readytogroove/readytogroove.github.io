@@ -167,7 +167,6 @@ blockquote {
 .white-link {
   color: white;
   text-decoration: none;
-  font-weight: 200;
 }
 
   .white-link:hover {
@@ -1073,6 +1072,7 @@ body.mobile-nav-open #mobile-nav {
   .app-info-text {
     width: 75%;
   }
+
 }
 
 @media screen and (max-width:961px) {
@@ -1321,13 +1321,13 @@ body.mobile-nav-open #mobile-nav {
     padding: 0 20px;
   }
 
-  #newsletter-form input,
+  #newsletter-form input[type=text], input[type=email],
   #newsletter-form button {
     display: block;
     width: 100%;
   }
 
-  #newsletter-form input {
+  #newsletter-form input[type=text], input[type=email] {
     margin: 0 0 10px 0;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
