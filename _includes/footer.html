@@ -33,88 +33,87 @@
    		</div><!--.footer-center-->
    	</div><!--#footer-container-->
     <script>
+    //mobile nav
       var $body = $('body');
       $('.mobile-nav-button').click(function(evt) {
         console.log('click!');
         $body.toggleClass('mobile-nav-open');
       });
-    </script>
 
-    <script>
-    var appLink = document.getElementById('app-button');
-    addListener(appLink, 'click', function() {
-      ga('send', 'event', 'button', 'click', 'app-store-buttons');
-    });
+      // Google Analytics event listener
+      var appLink = document.getElementById('app-button');
+      addListener(appLink, 'click', function() {
+        ga('send', 'event', 'button', 'click', 'app-store-buttons');
+      });
 
-    function addListener(element, type, callback) {
-     if (element.addEventListener) element.addEventListener(type, callback);
-     else if (element.attachEvent) element.attachEvent('on' + type, callback);
-    } 
-    </script>
+      function addListener(element, type, callback) {
+       if (element.addEventListener) element.addEventListener(type, callback);
+       else if (element.attachEvent) element.attachEvent('on' + type, callback);
+      } 
 
-    <script>
-    window.onload = function () {
-      // check for localStorage support
-      if (localStorage) {
+      // newsletter popup window
+      window.onload = function () {
+        // check for localStorage support
+        if (localStorage) {
 
-        //add an event listener to the newsletter form submission
-        document.getElementById('newsletter-form').addEventListener('submit', function () {
-          // Save variable to localStorage
-          localStorage.setItem('newNewsletterSubmission', 'signedUp');
-        }); // end event listener
+          //add an event listener to the newsletter form submission
+          document.getElementById('newsletter-form').addEventListener('submit', function () {
+            // Save variable to localStorage
+            localStorage.setItem('newNewsletterSubmission', 'signedUp');
+          }); // end event listener
 
-      } // end if statement
+        } // end if statement
 
-      // retrieve localStorage variable
-      var signedUp = localStorage.getItem('newNewsletterSubmission');
+        // retrieve localStorage variable
+        var signedUp = localStorage.getItem('newNewsletterSubmission');
 
-      // check if visitor has signed up for newsletter
-      if (signedUp != 'signedUp') {
+        // check if visitor has signed up for newsletter
+        if (signedUp != 'signedUp') {
 
-        // check if this is the visitor's first visit
-        var initialPopupTime = localStorage.getItem('initialPopupTime');
+          // check if this is the visitor's first visit
+          var initialPopupTime = localStorage.getItem('initialPopupTime');
 
-        // if it's the visitor's first visit, set the initial visit time
-        if (initialPopupTime == null || initialPopupTime == 'undefined') {
-          localStorage.setItem('initialPopupTime', Date.now());
-          // and show the popup after 45 seconds
-          setTimeout(function showPopup() {
-          document.getElementById('popup').style.opacity = '1';
-        }, 4500);
-
-        // if it's not the visitor's first visit
-        } else {
-          var popupTime = localStorage.getItem('initialPopupTime');
-          console.log(popupTime);
-          var timeElapsed = Date.now() - popupTime;
-          console.log(timeElapsed);
-
-          // if it's been > 15 minutes since the popup, show it again in 45 sec
-          if (timeElapsed > 900000) {
+          // if it's the visitor's first visit, set the initial visit time
+          if (initialPopupTime == null || initialPopupTime == 'undefined') {
+            localStorage.setItem('initialPopupTime', Date.now());
+            // and show the popup after 45 seconds
             setTimeout(function showPopup() {
-              document.getElementById('popup').style.opacity = '1';
-            }, 4500);
+              document.getElementById('popup').style.display = 'inline';
+              setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
+            }, 45000);
 
+          // if it's not the visitor's first visit
           } else {
-            // if it's been < 15 min, show it again after 15 min
-            setTimeout(function showPopup() {
-              document.getElementById('popup').style.opacity = '1';
-            }, timeElapsed = 9000);
-          }
+            var popupTime = localStorage.getItem('initialPopupTime');
+            var timeElapsed = Date.now() - popupTime;
 
-        } // end of else
+            // if it's been > 15 minutes since the popup, show it again in 45 sec
+            if (timeElapsed > 900000) {
+              setTimeout(function showPopup() {
+                document.getElementById('popup').style.display = 'inline';
+                setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
+              }, 45000);
 
-      } // end if statement
+            } else {
+              // if it's been < 15 min, show it again after 15 min
+              setTimeout(function showPopup() {
+                document.getElementById('popup').style.display = 'inline';
+                setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
+              }, timeElapsed = 900000);
+            }
 
-    } // end window.onload
+          } // end of else
 
-    // close popup when (X) is clicked
-    function closePopup() {
-      var hidePopup = document.getElementById('popup');
-      hidePopup.style.display = 'none';
-    }
-    
-        
+        } // end if statement
+
+      } // end window.onload
+
+      // close popup when (X) is clicked
+      function closePopup() {
+        var hidePopup = document.getElementById('popup');
+        hidePopup.style.display = 'none';
+      }
+           
     </script>
    </body><!--.body-container-->
 
