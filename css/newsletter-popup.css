@@ -61,7 +61,7 @@
 	-o-transition: all 1s ease;
 	-ms-transition: all 1s ease;
 	transition: all 1s ease;
-	padding: 50px;;
+	padding: 50px;
 }
 
 	#popup:after {
@@ -77,7 +77,6 @@
 		border-right: 60px solid transparent;
 		border-bottom: 60px solid transparent;
 		border-left: 60px solid #3FC2A5;
-		
 	}
 
 .topics {
@@ -94,8 +93,6 @@ label {
 	font-family: 'helvetica neue', helvetica, arial;
 	font-size: 20px;
 	color: white;
-	font-weight: 100;
-  letter-spacing: .08ch;
   cursor: pointer;
 }
 
@@ -172,7 +169,7 @@ input[type="checkbox"] {
 	/*** newsletter popup ***/
 
   #popup {
-    width: 100%;
+    width: 90%;
     height: 100%;
     padding: 10px;
   }
@@ -180,6 +177,26 @@ input[type="checkbox"] {
   	#popup:after {
   		display: none;
   	}
+
+  input[type="checkbox"] + span {
+		width: 14px;
+		height: 14px;
+	}
+
+		input[type="checkbox"]:checked + span:after {
+			right: -1px;
+			top: -6px;
+			width: 5px;
+			height: 15px;
+		}
+
+	input[type=email].popupInput {
+		font-size: 16px;
+	}
+
+	.button-white {
+		font-size: 16px;
+  }
 
   #newsletter-form {
   	padding: 0px;
@@ -212,8 +229,13 @@ input[type="checkbox"] {
   	margin-bottom: 15px;
   }
 
+  .topics {
+  	margin-top: 5px;
+  	margin-bottom: 5px;
+  }
+
   .closePopup {
-  	left: 85%;
+  	left: 94%;
   }
 
 }

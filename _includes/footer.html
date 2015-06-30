@@ -50,20 +50,72 @@
      if (element.addEventListener) element.addEventListener(type, callback);
      else if (element.attachEvent) element.attachEvent('on' + type, callback);
     } 
+    </script>
 
-    setTimeout(function show() {
-      document.getElementById('popup').style.opacity = '1';
-    }, 500);
+    <script>
+    window.onload = function () {
+      // check for localStorage support
+      if (localStorage) {
 
+        //add an event listener to the newsletter form submission
+        document.getElementById('newsletter-form').addEventListener('submit', function () {
+          // Save variable to localStorage
+          localStorage.setItem('newNewsletterSubmission', 'signedUp');
+        }); // end event listener
+
+      } // end if statement
+
+      // retrieve localStorage variable
+      var signedUp = localStorage.getItem('newNewsletterSubmission');
+
+      // check if visitor has signed up for newsletter
+      if (signedUp != 'signedUp') {
+
+        // check if this is the visitor's first visit
+        var initialPopupTime = localStorage.getItem('initialPopupTime');
+
+        // if it's the visitor's first visit, set the initial visit time
+        if (initialPopupTime == null || initialPopupTime == 'undefined') {
+          localStorage.setItem('initialPopupTime', Date.now());
+          // and show the popup after 45 seconds
+          setTimeout(function showPopup() {
+          document.getElementById('popup').style.opacity = '1';
+        }, 4500);
+
+        // if it's not the visitor's first visit
+        } else {
+          var popupTime = localStorage.getItem('initialPopupTime');
+          console.log(popupTime);
+          var timeElapsed = Date.now() - popupTime;
+          console.log(timeElapsed);
+
+          // if it's been > 15 minutes since the popup, show it again in 45 sec
+          if (timeElapsed > 900000) {
+            setTimeout(function showPopup() {
+              document.getElementById('popup').style.opacity = '1';
+            }, 4500);
+
+          } else {
+            // if it's been < 15 min, show it again after 15 min
+            setTimeout(function showPopup() {
+              document.getElementById('popup').style.opacity = '1';
+            }, timeElapsed = 9000);
+          }
+
+        } // end of else
+
+      } // end if statement
+
+    } // end window.onload
+
+    // close popup when (X) is clicked
     function closePopup() {
       var hidePopup = document.getElementById('popup');
       hidePopup.style.display = 'none';
     }
+    
+        
     </script>
-
-    <!--<script>
-      $('.dropdown-toggle').dropdown()
-    </script>-->
    </body><!--.body-container-->
 
 </html>
