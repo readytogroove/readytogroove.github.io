@@ -1291,6 +1291,7 @@ body.mobile-nav-open #mobile-nav {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
   }
 
   img.groover {
