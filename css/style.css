@@ -32,6 +32,10 @@ strong {
   color: #A9ABAB;
 }
 
+.white {
+  color: white;
+}
+
 .pink {
   color: #D6426C;
 }
@@ -42,6 +46,7 @@ strong {
 
 .thin {
   font-weight: 100;
+  letter-spacing: .08ch;
 }
 
 .italics {
@@ -70,6 +75,10 @@ strong {
   overflow: hidden;
   padding-bottom: 50px;
   padding-top: 50px;
+}
+
+.remove-padding {
+  padding-bottom: 0px;
 }
 
 .center {
@@ -143,6 +152,8 @@ blockquote {
   margin-top: 50px;
 }
 
+/***** buttons and links *****/
+
 .text-link {
   color: #3FC2A5;
   text-decoration: none;
@@ -151,6 +162,15 @@ blockquote {
 
   .text-link:hover {
     color: #359E87;
+  }
+
+.white-link {
+  color: white;
+  text-decoration: none;
+}
+
+  .white-link:hover {
+    text-decoration: underline;
   }
 
 .active-text-link {
@@ -213,30 +233,30 @@ blockquote {
     cursor: pointer;
   }
 
+.button-white {
+  font-family: 'helvetica neue', helvetica, arial;
+  font-size: 18px;
+  border-radius: 7px;
+  text-decoration: none;
+  padding: 18px 20px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+}
+
+  .button-white:hover {
+    background-color: white;
+    color: #3FC2A5;
+    cursor: pointer;
+  }
+
   #newsletter-form .button-small {
     min-width: 150px;
   }
 
-.bx-wrapper .bx-caption {
-	position: relative;
-  background: #EDEDED;
-	width: 100%;
-}
+/***** forms *****/
 
-.slider-img {
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.bx-wrapper .bx-caption span {
-  color: #000;
-	font-family: Arial;
-	display: block;
-	font-size: .85em;
-	padding: 10px;
-}
-
-input {
+input[type=text], input[type=email] {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
   padding: 19px 21px;
@@ -256,6 +276,8 @@ input {
     outline: none;
     border-color: #3FC2A5;
   }
+
+/***** navigation rules *****/
 
 #groove {
   display: inline-block;
@@ -1050,6 +1072,7 @@ body.mobile-nav-open #mobile-nav {
   .app-info-text {
     width: 75%;
   }
+
 }
 
 @media screen and (max-width:961px) {
@@ -1268,6 +1291,7 @@ body.mobile-nav-open #mobile-nav {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
   }
 
   img.groover {
@@ -1298,13 +1322,13 @@ body.mobile-nav-open #mobile-nav {
     padding: 0 20px;
   }
 
-  #newsletter-form input,
+  #newsletter-form input[type=text], input[type=email],
   #newsletter-form button {
     display: block;
     width: 100%;
   }
 
-  #newsletter-form input {
+  #newsletter-form input[type=text], input[type=email] {
     margin: 0 0 10px 0;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;

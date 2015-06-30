@@ -1,0 +1,253 @@
+.closePopup {
+	position: relative;
+	display: inline-block;
+	left: 96%;
+	width: 14px;
+	height: 14px;
+	background: transparent;
+	border: 2px solid white;
+	border-radius: 50%;
+	text-align: center;
+	padding: 2px;
+}
+
+	.closePopup:before {
+		position: absolute;
+		content: "";
+		top: 3px;
+		left: 8px;
+		width: 2px;
+		height: 12px;
+		background: white;
+		-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+		-o-transform: rotate(45deg);
+	}
+
+	.closePopup:after {
+		position: absolute;
+		content: "";
+		width: 2px;
+		height: 12px;
+		top: 3px;
+		left: 8px;
+		background: white;
+		-webkit-transform: rotate(-45deg);
+		-moz-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		-o-transform: rotate(-45deg);
+	}
+
+	.closePopup:hover {
+		cursor: pointer;
+	}
+
+#popup {
+	display: none;
+	opacity: 0;
+	height: 100%;
+	width: 600px;
+	position: fixed;
+	top: 0px;
+	left: 0;
+	z-index: 9999;
+	background: #3FC2A5;
+	-webkit-background-clip: padding-box;
+	-moz-background-clip: padding-box;
+	background-clip: padding-box;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+	padding: 50px;
+}
+
+	#popup:after {
+		content: "";
+		display: block;
+		position: absolute;
+		top: 50%;
+		margin-top: -60px;
+		left: 100%;
+		width: 0px;
+		height: 0px;
+		border-top: 60px solid transparent;
+		border-right: 60px solid transparent;
+		border-bottom: 60px solid transparent;
+		border-left: 60px solid #3FC2A5;
+	}
+
+.topics {
+	display: block;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.topicList {
+	margin-bottom: 50px;
+}
+
+label {
+	font-family: 'helvetica neue', helvetica, arial;
+	font-size: 20px;
+	color: white;
+  cursor: pointer;
+}
+
+input[type="checkbox"] {
+	display: none;
+}
+
+	input[type="checkbox"] + span {
+		display: inline-block;
+		width: 18px;
+		height: 18px;
+		border: 2px solid white;
+		background: #3FC2A5;
+		cursor: pointer;
+		margin-right: 15px;
+		vertical-align: bottom;
+		position: relative;
+	}
+
+	input[type="checkbox"]:checked + span:after {
+		content: "";
+		position: absolute;
+		right: -1px;
+		top: -8px;
+		width: 6px;
+		height: 19px;
+		border-top: 0px solid transparent;
+		border-right: 3px solid white;
+		border-bottom: 3px solid white;
+		border-left: 0px solid transparent;
+		-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+		-o-transform: rotate(45deg);
+	}
+
+.newsletterShow {
+	display: none;
+}
+
+
+@media screen and (max-width:1000px) {
+
+	/*** newsletter popup ***/
+
+  #popup {
+    width: 70%;
+    height: 100%;
+  }
+
+}
+
+@media screen and (max-width:751px) {
+
+	/*** newsletter popup ***/
+
+  label {
+  	font-size: 18px;
+  }
+
+  .topics {
+  	margin-top: 10px;
+  	margin-bottom: 10px;
+  }
+
+  .topicList {
+  	margin-bottom: 30px;
+  }
+
+}
+
+@media screen and (max-width:501px) {
+
+	/*** newsletter popup ***/
+
+  #popup {
+  	width: auto;
+  	height: auto;
+    padding: 10px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+  }
+
+  	#popup:after {
+  		display: none;
+  	}
+
+  input[type="checkbox"] + span {
+		width: 14px;
+		height: 14px;
+	}
+
+		input[type="checkbox"]:checked + span:after {
+			right: -1px;
+			top: -6px;
+			width: 5px;
+			height: 15px;
+		}
+
+	input[type=email].popupInput {
+		font-size: 16px;
+	}
+
+	button.button-white {
+		font-size: 16px;
+  }
+
+  	button.button-white:focus {
+  		outline: none;
+  	}
+
+  	button.button-white:active {
+  		outline: none;
+  	}
+
+  #newsletter-form {
+  	padding: 0px;
+  }
+
+  .newsletterHide {
+  	display: none;
+  }
+
+  .newsletterShow {
+  	display: inline-block;
+  }
+
+  .newsletterHeader {
+  	font-size: 24px;
+  	margin-bottom: 10px;
+  }
+
+  span.italics:after {
+  	content: " ";
+  }
+
+  .thin, label {
+  	font-size: 16px;
+  	font-weight: 300;
+  	padding-bottom: 10px;
+  }
+
+  .topicList {
+  	margin-bottom: 15px;
+  }
+
+  .topics {
+  	margin-top: 5px;
+  	margin-bottom: 5px;
+  }
+
+  .closePopup {
+  	left: 94%;
+  }
+
+}
