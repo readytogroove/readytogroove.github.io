@@ -4,6 +4,7 @@ title:  "How Sex Hormones Create the Menstrual Cycle"
 date:   2014-01-13
 permalink: /the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle
 category: the-cycle
+img: female-reproductive-system.jpg
 excerpt: "Understanding how sex hormones create the menstrual cycle is extremely important if you want to correctly practice the sympto-thermal method of fertility awareness. This information is something everyone should be taught from a young age. Not only would it make young people who are experiencing menstruation for the first time more comfortable with the changes occurring in their bodies, but it would better prepare them to make informed decisions about their health."
 ---
 

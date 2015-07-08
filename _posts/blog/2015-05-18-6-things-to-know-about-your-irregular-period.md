@@ -3,6 +3,7 @@ layout: blog-post
 title:  "6 Things to Know About Your Irregular Period"
 date:   2015-05-18
 author: "Dr Lara Briden ND"
+img: clock-closeup.jpg
 categories:
 - blog
 excerpt: "You may have an irregular period now, but it won&rsquo;t always be like that. Your body wants to ovulate regularly ..."

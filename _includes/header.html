@@ -23,8 +23,8 @@
       {% else %}
         <meta content="{{ site.url }}{{ post.url }}" property="og:url">
       {% endif %}
-      {% if page.image %}
-        <meta content="/img/{{ page.image }}" property="og:image">
+      {% if page.img %}
+        <meta content="/img/{{ page.img }}" property="og:image">
       {% else %}
         <meta content="/img/groove-icon.jpg" property="og:image">
       {% endif %}
@@ -33,10 +33,14 @@
       <meta name="twitter:card" content="summary">
       <meta name="twitter:site" content="@readytogroove">
       <meta name="twitter:creator" content="@readytogroove">
-      {% if page.image %}
-        <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.image }}">
-      {% else if post.image %}
-        <meta name="twitter:image:src" content="{{ site.url }}/img/blog/{{ post.image }}">
+      {% if page.img %}
+        <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.img }}">
+      {% else if post.img %}
+        {% if page.url contains "/blog" %}
+        <meta name="twitter:image:src" content="{{ site.url }}/img/blog/{{ post.img }}">
+        {% else %}
+        <meta name="twitter:image:src" content="{{ site.url }}/img/book/{{ post.img }}">
+        {% endif %}
       {% else %}
         <meta name="twitter:image:src" content="{{ site.url }}/img/groove-icon.jpg">
       {% endif %}

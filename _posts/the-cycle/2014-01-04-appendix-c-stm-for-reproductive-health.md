@@ -4,6 +4,7 @@ title:  "Using the Sympto-thermal Method of Fertility Awareness to Improve or Ma
 date: 2014-01-04
 permalink: /the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health
 category: the-cycle
+img: sympto-thermal-fertility-awareness-method-polycystic-ovarian-syndrome-pcos-chart.jpg
 excerpt: "When you know what is normal and healthy for your cycle, it's easy to detect when reproductive health might be on the decline. Things like stress, lack of sleep, too much exercise, illness, diet, and major life events can all delay ovulation and interfere with the menstrual cycle, so it comes as no surprise that taking a deeper look at a person's cycle reveals a great deal about the state of that individual's health. Charting your fertility signs using the sympto-thermal method of fertility awareness can assist in the diagnosis of many reproductive (and non-reproductive) health disorders such as polycystic ovarian syndrome (PCOS), luteal phase defect, and low thyroid function, to name a few."
 ---
 
