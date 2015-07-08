@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Infographic: 8 Awesome Period Facts Everyone Should Know"
 date:   2015-03-09
 author: "Jennifer Aldoretta"
-img: 8-awesome-period-facts-everyone-should-know.jpg
+img: blog/8-awesome-period-facts-everyone-should-know.jpg
 categories: 
 - blog
 # - Menstruation

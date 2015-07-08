@@ -3,7 +3,7 @@ layout: blog-post
 title:  "6 Myths About Your Period, Debunked!"
 date:   2014-08-15
 author: "Jennifer Aldoretta"
-img: meluna-menstrual-cup-and-reusable-cloth-pad.png
+img: blog/meluna-menstrual-cup-and-reusable-cloth-pad.png
 categories: 
 - blog
 # - Menstruation

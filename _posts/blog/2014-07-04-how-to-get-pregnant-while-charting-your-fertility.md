@@ -3,7 +3,7 @@ layout: blog-post
 title:  "How to Get Pregnant While Charting Your Fertility"
 date:   2014-07-04
 author: "Jennifer Aldoretta"
-img: fertility-awareness-basal-body-temperature-chart-confirming-pregnancy.png
+img: blog/fertility-awareness-basal-body-temperature-chart-confirming-pregnancy.png
 categories: 
 - blog
 # - Fertility Charting

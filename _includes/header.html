@@ -36,11 +36,7 @@
       {% if page.img %}
         <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.img }}">
       {% else if post.img %}
-        {% if page.url contains "/blog" %}
-        <meta name="twitter:image:src" content="{{ site.url }}/img/blog/{{ post.img }}">
-        {% else %}
-        <meta name="twitter:image:src" content="{{ site.url }}/img/book/{{ post.img }}">
-        {% endif %}
+        <meta name="twitter:image:src" content="{{ site.url }}/img/{{ post.img }}">
       {% else %}
         <meta name="twitter:image:src" content="{{ site.url }}/img/groove-icon.jpg">
       {% endif %}

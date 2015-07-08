@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Preventing Pregnancy with Groove"
 date:   2015-03-11
 author: "Jennifer Aldoretta"
-img: birth-control-pill-pack.jpg
+img: blog/birth-control-pill-pack.jpg
 categories:
 - blog
 excerpt: "Groove has something for everyone. Whether you&rsquo;re on the pill or using barrier methods, we&rsquo;ve got you covered. Even if you&rsquo;re looking to prevent pregnancy without hormones or devices, we&rsquo;ve got what you need! ..."

@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Avoiding the Dreaded Period Sneak Attack: the Secret to Accurate Period Predictions"
 date:   2014-12-12
 author: "Jennifer Aldoretta"
-img: meluna-menstrual-cup-and-reusable-cloth-pad.png
+img: blog/meluna-menstrual-cup-and-reusable-cloth-pad.png
 categories:
 - blog
 excerpt: "I&rsquo;m here to tell you that there IS a better way to predict your periods, and it might just change the way you think about your body (it did for me). What I&rsquo;m about to reveal would put your sex ed class to shame. So what&rsquo;s the big secret? It&rsquo;s actually something you&rsquo;ve been doing for most of your life every time you get sick..."

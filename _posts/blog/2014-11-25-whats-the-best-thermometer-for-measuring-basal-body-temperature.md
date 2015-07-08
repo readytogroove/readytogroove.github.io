@@ -3,7 +3,7 @@ layout: blog-post
 title:  "What&rsquo;s the Best Thermometer for Measuring Basal Body Temperature?"
 date:   2014-11-25
 author: "Jennifer Aldoretta"
-img: digital-basal-thermometer-fahrenheit.jpg
+img: blog/digital-basal-thermometer-fahrenheit.jpg
 categories:
 - blog
 excerpt: "Even if you&rsquo;re a seasoned user of the sympto-thermal method of fertility awareness, navigating the world of basal thermometers can feel daunting. So, to make your search a bit less stressful, I&rsquo;ve compiled a few things to keep in mind while searching for the perfect fit..."
