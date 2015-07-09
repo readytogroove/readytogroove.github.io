@@ -569,6 +569,10 @@ img.groover:hover {
 
 /* blog.html styles */
 
+#disqus_thread {
+  margin-top: 40px;
+}
+
 .blog-list-container {
   border-bottom: 1px solid #CCCCCC;
   margin-bottom: 50px;
