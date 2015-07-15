@@ -4,6 +4,7 @@ title:  "Effectiveness of the Sympto-thermal Method of Fertility Awareness"
 date: 2014-01-09
 permalink: /the-cycle/chapter-9-sympto-thermal-method-effectiveness
 category: the-cycle
+img: the-cycle/sympto-thermal-fertility-awareness-method-rules-chart.jpg
 excerpt: "How well a method works is often one of the first questions we ask about birth control, and for good reason! The sympto-thermal method of fertility awareness approaches the pill and other hormonal methods in its ability to prevent pregnancy and is reported to be 99.6% effective with perfect use according to Planned Parenthood."
 ---
 

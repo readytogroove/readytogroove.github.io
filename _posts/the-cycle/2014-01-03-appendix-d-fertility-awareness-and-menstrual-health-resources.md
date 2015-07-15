@@ -4,6 +4,7 @@ title:  "Fertility Awareness and Menstrual Health Resources"
 date:   2014-01-03
 permalink: /the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources
 category: the-cycle
+img: the-cycle/sympto-thermal-fertility-awareness-method-polycystic-ovarian-syndrome-pcos-chart.jpg
 excerpt: "The following is a list of amazing people who are happy to provide you with more information about fertility awareness methods (FAMs), the sympto-thermal method (STM), hormones, the menstrual cycle, and many other health-related topics! If you are planning to use STM to avoid pregnancy, if you recently ceased (or are planning to cease) the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks."
 ---
 

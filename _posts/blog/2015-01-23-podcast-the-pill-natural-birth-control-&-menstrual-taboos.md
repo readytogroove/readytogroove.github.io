@@ -3,6 +3,7 @@ layout: blog-post
 title:  "PODCAST: The Pill, Natural Birth Control, &amp; Menstrual Taboos"
 date:   2015-01-23
 author: "Jennifer Aldoretta"
+img: blog/fertility-friday-podcast-the-pill-menstrual-taboos-groove-charting-app-featuring-Jennifer-Aldoretta.jpg
 categories:
 - blog
 excerpt: "I recently had the pleasure of sitting down with Lisa over at Fertility Friday and chatting about my experience with the pill, finding fertility awareness, and writing my book ..."
