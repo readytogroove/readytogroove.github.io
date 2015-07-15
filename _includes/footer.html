@@ -113,6 +113,11 @@
         var hidePopup = document.getElementById('popup');
         hidePopup.style.display = 'none';
       }
+
+      function triggerPopup() {
+        document.getElementById('popup').style.display = 'inline';
+        setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
+      }
            
     </script>
    </body><!--.body-container-->
