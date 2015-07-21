@@ -80,7 +80,7 @@
               document.getElementById('popup').style.display = 'inline';
               setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
               localStorage.setItem('initialPopupTime', Date.now());
-            }, 3000);
+            }, 30000);
 
           // if it's not the visitor's first visit
           } else {
@@ -89,12 +89,12 @@
             console.log(timeElapsed);
 
             // if it's been > 10 minutes since the popup, show it again in 30 sec
-            if (timeElapsed > 60000) {
+            if (timeElapsed > 600000) {
               setTimeout(function showPopup() {
                 document.getElementById('popup').style.display = 'inline';
                 setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
                 localStorage.setItem('initialPopupTime', Date.now());
-              }, 8000);
+              }, 30000);
 
 
             } else {
@@ -103,7 +103,7 @@
                 document.getElementById('popup').style.display = 'inline';
                 setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
                 localStorage.setItem('initialPopupTime', Date.now());
-              }, 60000 - timeElapsed);
+              }, 600000 - timeElapsed);
             }
 
           } // end of else
