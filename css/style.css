@@ -87,6 +87,10 @@ strong {
   margin-right: auto;
 }
 
+.margin-top {
+  margin-top: 50px;
+}
+
 body, h1, h2, h3, p {
   font-family: 'helvetica neue', helvetica, arial;
   font-weight: 200;
@@ -498,6 +502,14 @@ h1.about-header {
   padding-bottom: 75px;
 }
 
+#femme-img {
+  width: 100%;
+}
+
+#groove-shirt-img {
+  width: 100%;
+}
+
 .groover-container {
   overflow: hidden;
   padding-bottom: 75px;
@@ -907,8 +919,7 @@ p.panel-title {
 /* press.html styles */
 
 .press-kit {
-  margin-top: 60px;
-  margin-bottom: 40px;
+  margin-top: 30px;
 }
 
 /* legal styles */
