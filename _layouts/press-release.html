@@ -1,0 +1,17 @@
+{% include header.html %}
+
+<div class="gray-background">
+	<div class="container">
+		<h1 class="gray-dark page-header">{{ page.title }}</h1>
+			<h3 class="gray-light page-header">{{ page.sub-title }}</h3>
+			<p class="gray-very-light small-text">{{ page.date | date: '%B %-d, %Y' }}</p>
+		<div class="text-body">
+			<p class="gray-light">
+				{{ content }}
+			</p>
+
+		</div><!--.text-body-->
+	</div><!--.container-->
+</div><!--.gray-background-->
+
+{% include footer.html %}

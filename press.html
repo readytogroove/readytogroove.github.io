@@ -33,8 +33,12 @@ title: Press - Groove
 
     <!-- Press Releases -->
     <h1 class="page-header gray-dark margin-top">Press Releases</h1>
-    <h2 class="page-header gray-dark">August 2015</h2>
-    <p><a class="text-link" target="_blank" href="http://www.femmeinternational.org/">Groove and Femme International partner to expand menstrual health education in developing world</a></p>
+    <h2 class="page-header gray-dark">September 2015</h2>
+    {% for post in site.categories['press-release'] %}
+    {% if post.url contains "2015-09" %}
+    <p><a class="text-link" href="{{site.base-url}}{{post.url}}"><span itemprop="name">{{ post.title }}</span></a></p>
+    {% endif %}
+    {% endfor %}
   </div><!--.container-->
 </div><!--.gray-background-->
 
