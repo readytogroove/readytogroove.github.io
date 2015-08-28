@@ -889,10 +889,10 @@ p.panel-title {
 .product-container {
   box-sizing: border-box;
   padding: 10px;
-  width: 25%;
+  width: 24%;
   text-align: center;
   display: inline-block;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .product-image {
