@@ -895,6 +895,12 @@ p.panel-title {
   margin-bottom: 20px;
 }
 
+.product-description {
+  width: 230px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .product-image {
   height: 200px;
   width: 200px;
@@ -993,7 +999,7 @@ body.mobile-nav-open #mobile-nav {
 
 @media screen and (max-width:1382px) {
   .product-container {
-    width: 33.33%;
+    width: 32%;
   }
 }
 
@@ -1105,7 +1111,7 @@ body.mobile-nav-open #mobile-nav {
   }
 
   .product-container {
-    width: 50%;
+    width: 49%;
   }
 
 }
