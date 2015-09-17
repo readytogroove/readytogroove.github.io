@@ -2,7 +2,7 @@
 layout: press-release
 title:  "Groove, Femme International Partner to Expand Access to Menstrual Health Education"
 sub-title: "Groove to donate 10 percent of company revenue to NGO Femme International"
-date:   2015-09-17
+date:   2015-09-23
 permalink: /press-release/2015-09-17-groove-femme-international-partner-to-expand-access-to-menstrual-health-education
 category: press-release
 ---

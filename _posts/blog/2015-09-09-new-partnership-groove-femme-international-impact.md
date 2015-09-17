@@ -1,8 +1,9 @@
 ---
 layout: blog-post
 title:  "New Partnership: Groove + Femme International = Impact"
-date:   2015-09-09
+date:   2015-09-23
 author: "Jennifer Aldoretta"
+permalink: /blog/2015/09/09/new-partnership-groove-femme-international-impact/
 img: blog/groove-loves-femme-international.jpg
 categories:
 - blog

@@ -1,8 +1,9 @@
 ---
 layout: blog-post
 title:  "Femme International: Empowering Women through Menstrual Health Education"
-date:   2015-09-10
+date:   2015-09-24
 author: "Sabrina Rubli"
+permalink: /blog/2015/09/10/femme-international-empowering-women-through-menstrual-health-education/
 img: blog/femme-international-fhm-program.jpg
 categories:
 - blog
