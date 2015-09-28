@@ -3,6 +3,7 @@ layout: blog-post
 title:  "How Cervical Fluid Helps You Get Pregnant (Or Not)"
 date:   2014-12-05
 author: "Jennifer Aldoretta"
+img: blog/water-droplets-how-cervical-fluid-helps-you-get-pregnant-or-not.jpg
 categories:
 - blog
 excerpt: "While there are many subtle physiological mechanisms that ultimately lead to a pregnancy, there is one (aside from actually ovulating) that is by far the most important..."

@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title:  "New Partnership: Groove + Femme International = Impact"
-date:   2015-09-23
+date:   2015-09-29
 author: "Jennifer Aldoretta"
 permalink: /blog/2015/09/09/new-partnership-groove-femme-international-impact/
 img: blog/groove-loves-femme-international.jpg
@@ -10,9 +10,7 @@ categories:
 excerpt: "From the very first moment of Groove&rsquo;s existence as a company, making a positive impact has been extremely important to me ..."
 ---
 
-{% include image.html url="/img/blog/groove-loves-femme-international.jpg" %}
-
-*Today, I&rsquo;m so pleased to announce a new partnership between Groove and Canadian NGO, <a class="text-link" href="/blog/2015/09/17/femme-international-empowering-women-through-menstrual-health-education/">Femme International</a>. As part of this partnership, we have committed to donate 10 percent of Groove proceeds (for as long as we exist) to charitable organizations that empower women and girls. Our donations to Femme will further enable their mission to transform the lives of girls in East African communities with vital menstrual health and hygiene education.*
+*Today, I&rsquo;m so pleased to announce a new partnership between Groove and Canadian NGO, <a class="text-link" href="/blog/2015/09/10/femme-international-empowering-women-through-menstrual-health-education/">Femme International</a>. As part of this partnership, we have committed to donate 10 percent of Groove proceeds (for as long as we exist) to charitable organizations that empower women and girls. Our donations to Femme will further enable their mission to transform the lives of girls in East African communities with vital menstrual health and hygiene education.*
 
 ##Making a difference
 

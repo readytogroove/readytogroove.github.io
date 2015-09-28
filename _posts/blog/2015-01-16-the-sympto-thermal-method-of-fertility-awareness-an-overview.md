@@ -3,6 +3,7 @@ layout: blog-post
 title:  "The Sympto-thermal Method of Fertility Awareness: An Overview"
 date:   2015-01-16
 author: "Jennifer Aldoretta"
+img: blog/woman-standing-on-rock-sympto-thermal-method-of-fertility-awareness-an-overview.jpg
 categories:
 - blog
 excerpt: "When I think about what the sympto-thermal method (STM) is, I&rsquo;m reminded of the classic quote: &ldquo;It&rsquo;s a bird! It&rsquo;s a plane! No, it&rsquo;s Superman!&rdquo; ..."

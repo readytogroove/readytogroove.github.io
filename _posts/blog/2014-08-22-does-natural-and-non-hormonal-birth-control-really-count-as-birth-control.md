@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Does Natural & Non-Hormonal Birth Control Really Count As Birth Control?"
 date:   2014-08-22
 author: "Jennifer Aldoretta"
-img: blog/birth-control-pill-pack.jpg
+img: blog/woman-wearing-ivy-crown-does-natural-birth-control-count-as-birth-control.jpg
 categories: 
 - blog
 # - Pregnancy Prevention

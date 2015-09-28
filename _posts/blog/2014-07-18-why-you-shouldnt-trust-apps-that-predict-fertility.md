@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Why You Shouldn&rsquo;t Trust Apps that Predict Fertility"
 date:   2014-07-18
 author: "Jennifer Aldoretta"
-img: blog/fertility-predictor-app.png
+img: blog/woman-holding-iphone-shouldnt-trust-apps-that-predict-fertility.jpg
 categories: 
 - blog
 # - Fertility Charting

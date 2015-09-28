@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title:  "Femme International: Empowering Women through Menstrual Health Education"
-date:   2015-09-24
+date:   2015-09-30
 author: "Sabrina Rubli"
 permalink: /blog/2015/09/10/femme-international-empowering-women-through-menstrual-health-education/
 img: blog/femme-international-fhm-program.jpg
@@ -9,8 +9,6 @@ categories:
 - blog
 excerpt: "Menstruation is the number one reason why girls in developing countries miss school, or drop out altogether, and there are a number of reasons that contribute to this ..."
 ---
-
-{% include image.html url="/img/blog/femme-international-fhm-program.jpg" %}
 
 It won&rsquo;t surprise you to hear that women are among the world&rsquo;s most vulnerable populations. It probably won&rsquo;t surprise you to hear that women face more challenges than men, as they are often primary caregivers to their families while trying to survive in a patriarchal system.
 

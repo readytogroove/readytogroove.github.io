@@ -603,6 +603,11 @@ img.groover:hover {
   margin-right: auto;
 }
 
+.blog-img {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
 .blog-info {
   overflow: hidden;
 }
@@ -620,6 +625,33 @@ img.groover:hover {
   width: 75px;
 }
 
+.author-bio-block {
+  padding: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow: hidden;
+  background-color: #EDEDED;
+}
+
+.bio-img {
+  float: left;
+  width: 24%;
+  padding-right: 25px;
+}
+
+.author-bio-img {
+  width: 100%;
+  height: auto;
+  text-align: left;
+  border-radius: 50%;
+  border: 4px solid #6C6C6C;
+}
+
+.bio-text {
+  float: right;
+  width: 70%;
+}
+
 .blog-info-text {
   width: 100%;
   padding-top: 15px;
@@ -629,7 +661,7 @@ img.blog-author-img {
   width: 60px;
   text-align: left;
   border-radius: 50%;
-  border: 2px solid #A9ABAB;
+  border: 2px solid #6C6C6C;
 }
 
 .blog-body {

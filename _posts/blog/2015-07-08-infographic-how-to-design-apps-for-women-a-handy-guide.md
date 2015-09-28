@@ -3,7 +3,7 @@ layout: blog-post
 title:  "(Infographic) How to Design Apps for Women: A Handy Guide"
 date:   2015-07-08
 author: "Jennifer Aldoretta"
-img: blog/how-to-design-apps-for-women.jpg
+img: blog/how-to-design-apps-for-women-infographic-header.jpg
 categories: 
 - blog
 # - Menstruation

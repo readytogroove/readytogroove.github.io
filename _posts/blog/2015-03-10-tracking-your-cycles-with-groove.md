@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Tracking Your Cycles with Groove"
 date:   2015-03-10
 author: "Jennifer Aldoretta"
-img: blog/fertility-awareness-PCOS-basal-body-temperature-cervical-fluid-chart.png
+img: blog/compass-tracking-your-cycles-with-groove.jpg
 categories:
 - blog
 excerpt: "The good news is, it doesn&rsquo;t have to be this frustrating. Whether your cycles are like clockwork or feel more like a broken clock, it is possible to accurately predict your periods..."

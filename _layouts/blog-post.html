@@ -5,6 +5,11 @@
 <!-- This is the "blog-post.html" content code -->
 			<div class="white-background remove-padding">
 				<div class="container">
+					{% if page.img %}
+					<div class="blog-header-img">
+						<img class="blog-img" src="/img/{{ page.img }}" />
+					</div>
+					{% endif %}
 					<div class="blog-container">
 						<div itemscrope itemtype="http://schema.org/Article">
 							<h1 class="gray-dark blog-title"><span itemprop="name">{{ page.title }}</span></h1>
@@ -35,6 +40,7 @@
 							<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
 							<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52ceee943bc45eff"></script>
 							<!-- AddThis Button END -->
+							{% include author-bio.html %}
 						</div>
 
 						<!-- DISQUS CODE -->

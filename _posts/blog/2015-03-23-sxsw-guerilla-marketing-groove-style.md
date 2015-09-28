@@ -3,7 +3,7 @@ layout: blog-post
 title:  "SXSW Guerilla Marketing: Groove Style"
 date:   2015-03-23
 author: "Jennifer Aldoretta"
-img: blog/groove-cofounders-SXSW-free-condoms-tampons.jpg
+img: blog/groove-cofounders-SXSW-free-condoms-tampons-header-image.jpg
 categories:
 - blog
 excerpt: "Here at Groove, we love a good project. So when we decided that we wanted to pull off an awesome marketing campaign during SXSW, we knew we had to do it guerilla style..."

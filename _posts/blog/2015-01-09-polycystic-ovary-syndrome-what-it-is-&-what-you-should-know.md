@@ -3,6 +3,7 @@ layout: blog-post
 title:  "Polycystic Ovary Syndrome: What It Is &amp; What You Should Know"
 date:   2015-01-09
 author: "Jennifer Aldoretta"
+img: blog/stack-of-books-pcos-what-it-is-what-you-should-know.jpg
 categories:
 - blog
 excerpt: "Polycystic ovary syndrome, or PCOS, has become somewhat of a household name, and with nearly 1 in 10 women suffering from the disorder, it&rsquo;s no wonder. But what is it, and how do you know if you might have it? ..."

@@ -3,6 +3,7 @@ layout: blog-post
 title:  "Finding Fertility Awareness: My Birth Control Story"
 date:   2014-03-15
 author: "Jennifer Aldoretta"
+img: blog/couple-on-beach-finding-fertility-awareness-my-birth-control-story.jpg
 categories: 
 - blog
 # - Pregnancy Prevention

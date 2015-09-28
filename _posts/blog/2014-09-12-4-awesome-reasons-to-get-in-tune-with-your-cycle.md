@@ -3,7 +3,7 @@ layout: blog-post
 title:  "4 Awesome Reasons to Get in Tune with Your Cycle"
 date:   2014-09-12
 author: "Jennifer Aldoretta"
-img: blog/meluna-menstrual-cup-and-reusable-cloth-pad.png
+img: blog/concert-4-awesome-reasons-to-get-in-tune-with-your-cycle.jpg
 categories:
 - blog
 # - Menstruation

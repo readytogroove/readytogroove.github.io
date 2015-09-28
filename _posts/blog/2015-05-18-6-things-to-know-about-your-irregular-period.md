@@ -9,8 +9,6 @@ categories:
 excerpt: "You may have an irregular period now, but it won&rsquo;t always be like that. Your body wants to ovulate regularly ..."
 ---
 
-{% include image.html url="/img/blog/clock-closeup.jpg" %}</a>
-
 Worried about your irregular period? Here&rsquo;s what you need to know.
 
 ##1. Your cycle doesn&rsquo;t have to be 28 days
@@ -60,7 +58,3 @@ You may have an irregular period now, but it won&rsquo;t always be like that. Yo
 Common causes of irregular periods include <a class="text-link" href="/blog/2015/01/09/polycystic-ovary-syndrome-what-it-is-&-what-you-should-know/">polycystic ovarian syndrome (PCOS)</a>, insulin resistance, excess prolactin, stress, thyroid disease, nutritional deficiencies, eating disorders, smoking, and excess soy in the diet. 
 
 Find the underlying problem, and correct it. Your period will come.
-</br>
-</br>
-</br>
-*<a class="text-link" target="_blank" href="http://www.larabriden.com/">Dr Lara Briden</a> is a board certified Naturopathic Doctor. She qualified from the Canadian College of Naturopathic Medicine in 1997, and currently runs a busy hormone clinic in Sydney, Australia. Earlier this year, she released her book* <a class="text-link" target="_blank" href="http://www.larabriden.com/period-repair-manual/">Period Repair Manual: Natural Treatment for Better Hormones and Better Periods.</a>
