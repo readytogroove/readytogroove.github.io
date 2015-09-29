@@ -926,6 +926,13 @@ div.image-container p.small-text {
   width: 80%;
 }
 
+.book-download-prompt {
+  background-color: #EDEDED;
+  padding: 25px;
+  text-align: center;
+  margin-top: 25px;
+}
+
 /* help.html styles */
 
 p.panel-title {
