@@ -3,6 +3,7 @@ layout: blog-post
 title:  "Myth: Preventing Pregnancy Naturally Isn&rsquo;t Effective"
 date:   2014-08-08
 author: "Jennifer Aldoretta"
+img: blog/sad-woman-myth-preventing-pregnancy-naturally-isnt-effective.jpg
 categories: 
 - blog
 # - Pregnancy Prevention

@@ -3,13 +3,11 @@ layout: blog-post
 title:  "Avoiding the Dreaded Period Sneak Attack: the Secret to Accurate Period Predictions"
 date:   2014-12-12
 author: "Jennifer Aldoretta"
-img: blog/meluna-menstrual-cup-and-reusable-cloth-pad.png
+img: blog/cloth-pads-menstrual-cup-secret-to-accurate-period-predictions.jpg
 categories:
 - blog
 excerpt: "I&rsquo;m here to tell you that there IS a better way to predict your periods, and it might just change the way you think about your body (it did for me). What I&rsquo;m about to reveal would put your sex ed class to shame. So what&rsquo;s the big secret? It&rsquo;s actually something you&rsquo;ve been doing for most of your life every time you get sick..."
 ---
-
-<a href="/img/blog/meluna-menstrual-cup-and-reusable-cloth-pad.png">{% include image.html url="/img/blog/meluna-menstrual-cup-and-reusable-cloth-pad.png" %}</a>
 
 Your period is still a week away&mdash;or so you thought&mdash;and suddenly...period sneak attack! Sound familiar? This is an experience I think a lot of us can relate to, and it has happened to me more times than I&rsquo;m comfortable admitting (roughly a zillion). 
 

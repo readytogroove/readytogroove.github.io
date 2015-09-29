@@ -3,6 +3,7 @@ layout: blog-post
 title:  "Charting Fertility with Polycystic Ovarian Syndrome (PCOS)"
 date:   2014-07-11
 author: "Jennifer Aldoretta"
+img: blog/forrest-adventure-walk-charting-fertility-with-pcos.jpg
 categories: 
 - blog
 # - Fertility Charting

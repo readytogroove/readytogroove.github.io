@@ -635,7 +635,7 @@ img.groover:hover {
 
 .bio-img {
   float: left;
-  width: 24%;
+  width: 20%;
   padding-right: 25px;
 }
 
@@ -649,8 +649,12 @@ img.groover:hover {
 
 .bio-text {
   float: right;
-  width: 70%;
+  width: 73%;
 }
+
+  .bio-text p.extra-small-text {
+      padding-bottom: 0px;
+  }
 
 .blog-info-text {
   width: 100%;
@@ -1403,6 +1407,11 @@ body.mobile-nav-open #mobile-nav {
   .tagline-text {
     font-size: 40px;
   }
+
+  .bio-img {
+    padding-right: 20px;
+  }
+
 }
 
 @media screen and (max-width: 475px) {
@@ -1439,6 +1448,27 @@ body.mobile-nav-open #mobile-nav {
 
   .product-container {
     margin-bottom: 15px;
+  }
+
+  .author-bio-block {
+    padding: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+  .bio-img {
+    float: none;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 0px;
+  }
+
+  .bio-text {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
   }
 
 

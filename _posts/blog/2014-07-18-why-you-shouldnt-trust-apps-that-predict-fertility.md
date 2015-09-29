@@ -10,9 +10,9 @@ categories:
 excerpt: "There are SO many internal and external factors that can have an affect on your cycle, so putting your trust in an app that claims to predict when you&rsquo;ll be fertile isn&rsquo;t the wisest choice..."
 ---
 
-{% include image.html url="/img/blog/fertility-predictor-app.png" description="Would you trust this app?! Neither would I." %}
-
 There are thousands of apps in the world of period and ovulation trackers, and many of them claim to predict the days you&rsquo;re going to be fertile. Wouldn&rsquo;t it be great to have a crystal ball that would tell you with 100% certainty exactly when in the future you can and can&rsquo;t get pregnant? You better believe I would be first in line for that one. Unfortunately, that&rsquo;s not the way our bodies work. There are SO many internal and external factors that can have an affect on your cycle, so putting your trust in an app that claims to predict when you&rsquo;ll be fertile isn&rsquo;t the wisest choice (it&rsquo;s essentially the same as <a class="text-link" href="/blog/2014/06/23/standard-days-method-rhythm-method-sympto-thermal-method-whats-the-difference/#.U8k-pI1dVW0">relying on the rhythm method</a>). In this post, I&rsquo;m going to discuss just a few of the many things that can go wrong with fertility predictions and why you shouldn&rsquo;t rely on these types of apps...*especially* to avoid pregnancy.
+
+{% include image.html url="/img/blog/fertility-predictor-app.png" description="Would you trust this app?! Neither would I." %}
 
 ###Delays in ovulation
 

@@ -3,7 +3,7 @@ layout: blog-post
 title:  "5 Simple Things You Should Do Before Considering Infertility Treatment"
 date:   2015-02-13
 author: "Jennifer Aldoretta"
-img: blog/basket-of-vegetables-5-simple-things-before-considering-infertility-treatment.jpg
+img: blog/family-sitting-in-a-field-5-things-to-do-before-considering-infertility.jpg
 categories:
 - blog
 excerpt: "If you&rsquo;re trying to get pregnant and it&rsquo;s taking a little longer than expected, you&rsquo;ve likely heard your fair share of &ldquo;just be patient and it&rsquo;ll happen&rdquo; and &ldquo;your time will come.&rdquo; And you probably have to fight the urge deliver a swift kick to the shin ..."
