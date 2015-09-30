@@ -26,7 +26,7 @@ I knew in my heart that a 10 percent donation was non-negotiable for me, and we 
 
 ##Meet Femme
 
-I wanted to work with an organization that fully and relentlessly embodies everything we believe as a company at Groove. To me, that meant finding an organization that not only helps girls and women, but that also acts in the best interest of the communities they serve by spending and operating responsibly. It meant always putting people first. And the first time I spoke with Sabrina Rubli, the cofounder and Executive Director of Canadian NGO <a class="text-link" target="_blank" href="http://www.femmeinternational.org/">Femme International</a>, I knew I had found exactly what I was holding out for.
+I wanted to work with an organization that fully and relentlessly embodies everything we believe as a company at Groove. To me, that meant finding an organization that not only helps girls and women, but that also acts in the best interest of the communities they serve by spending and operating responsibly. It meant always putting people first. And the first time I spoke with Sabrina Rubli, the cofounder and Executive Director of Canadian NGO <a class="text-link" href="/blog/2015/09/10/femme-international-empowering-women-through-menstrual-health-education/">Femme International</a>, I knew I had found exactly what I was holding out for.
 
 Sabrina&rsquo;s passion for helping girls overcome the stigmas associated with menstruation was undeniable as we spoke for the first time. I could tell that Femme was something special, and it was obvious to me that I had found an organization that was just as passionate as Groove about changing the world. There was no question in my mind that Femme and Groove were a match made in heaven!
 
