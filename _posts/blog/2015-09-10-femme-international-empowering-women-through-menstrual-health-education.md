@@ -4,7 +4,7 @@ title:  "Femme International: Empowering Women through Menstrual Health Educatio
 date:   2015-09-30
 author: "Sabrina Rubli"
 permalink: /blog/2015/09/10/femme-international-empowering-women-through-menstrual-health-education/
-img: blog/femme-international-fhm-program.jpg
+img: blog/femme-international-feminine-health-management-program.jpg
 categories:
 - blog
 excerpt: "Menstruation is the number one reason why girls in developing countries miss school, or drop out altogether, and there are a number of reasons that contribute to this ..."
@@ -26,7 +26,7 @@ These traditions are born out of a lack of understanding. Menstruation is not a 
 
 Providing menstrual health education works towards breaking down these destructive practices. It is no secret that an empowered woman is the most effective catalyst for sustainable change, and addressing the menstrual taboo is the first step.
 
-{% include image.html url="/img/blog/femme-international-fhm-program-students.jpg" %}
+{% include image.html url="/img/blog/femme-international-feminine-health-management-program-students.jpg" %}
 
 Femme International is a Canadian NGO that was founded to address the issue of deliberate absenteeism among adolescent girls. Femme promotes women’s health (specifically menstruation) through education, and uses conversation to break down the stigma and normalize the issue. The Feminine Health Management Program combines education and distribution to help girls stay in school&mdash;every day of the month!
 
