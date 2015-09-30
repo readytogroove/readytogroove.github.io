@@ -25,6 +25,8 @@
       {% endif %}
       {% if page.img %}
         <meta content="/img/{{ page.img }}" property="og:image">
+      {% else if post.img %}
+        <meta content="/img/{{ post.img }}" property="og:image">
       {% else %}
         <meta content="/img/groove-icon.jpg" property="og:image">
       {% endif %}
