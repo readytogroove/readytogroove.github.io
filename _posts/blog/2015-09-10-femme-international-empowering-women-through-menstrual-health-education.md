@@ -41,3 +41,6 @@ The program is simple, and effective! After participating in the FHM program 100
 Menstruation is a natural part of every woman&rsquo;s life, and it should never be seen as a source of embarrassment. It certainly should not isolate, oppress or shame women. Providing menstrual health education to young women empowers them to achieve their potential, and take advantage of as many academic and professional opportunities as possible.
 
 Learn more about how you can <a class="text-link" target="_blank" href="http://www.femmeinternational.org/donate-now.html">empower schoolgirls in East Africa</a>!
+
+</br>
+<p class="extra-small-text"><span class="italics">Images courtesy of <a class="text-link" target="_blank" href="http://www.femmeinternational.org">Femme International</a></span></p>
