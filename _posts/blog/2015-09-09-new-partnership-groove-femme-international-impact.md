@@ -38,7 +38,7 @@ My hope is that this will be the first of many partnerships between Groove and a
 
 But, I want you to realize, YOU are the most important part of this equation. Every single time you renew your monthly Groove Pro subscription in <a class="text-link" target="_blank" href="https://itunes.apple.com/app/id831795151">Groove&rsquo;s Period &amp; Fertility Tracker app</a>, or make a purchase in our <a class="text-link" href="/store/">online store</a>, or pay us in the future for awesome products and services we haven&rsquo;t created yet, 10 percent of every dollar we get goes straight to improving girls&rsquo; lives. That right there is something to feel amazing about. 
 
-The bottom line is that this partnership simply would not be possible without your help, and I can honestly say that Groove has the best freaking customers on the planet. Thank you for enabling us to changes lives.
+The bottom line is that this partnership simply would not be possible without your help, and I can honestly say that Groove has the best freaking customers on the planet. Thank you for enabling us to change lives.
 
 
 
