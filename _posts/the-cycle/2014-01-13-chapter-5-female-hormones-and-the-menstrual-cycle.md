@@ -42,6 +42,8 @@ The corpus luteum secretes a large amount of progesterone following ovulation, a
 
 It is estimated that up to 10% of ovulatory cycles result in the release of multiple eggs [<a class="text-link" href="/the-cycle/notes/#note23">23</a>,<a class="text-link" href="/the-cycle/notes/#note24">24</a>]. However, if multiple ovulations occur, it is generally within a 24-hour period, before the corpus luteum forms and begins secreting estrogen and progesterone. 
 
+{% include app-download-prompt.html %}
+
 
 ##Hormones and the Menstrual Cycle Phases
 

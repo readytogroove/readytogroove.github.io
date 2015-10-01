@@ -1049,6 +1049,34 @@ body.mobile-nav-open #mobile-nav {
   display: block;
 }
 
+/* includes */
+
+.app-download-prompt {
+  background-color: #3FC2A5;
+  padding: 25px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-bottom: 40px;
+}
+
+.app-download-button {
+  display: inline-block;
+  font-family: 'helvetica neue', helvetica, arial;
+  font-size: 26px;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 22px 28px;
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+}
+
+  .app-download-button:hover {
+    background-color: white;
+    color: #3FC2A5;
+  }
+
 /* responsive, y'all */
 
 @media screen and (max-width:1382px) {
@@ -1351,7 +1379,7 @@ body.mobile-nav-open #mobile-nav {
     font-weight: 300;
   }
 
-  .button {
+  .button, .app-download-button {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -1423,7 +1451,7 @@ body.mobile-nav-open #mobile-nav {
 
 @media screen and (max-width: 475px) {
 
-  .button {
+  .button, .app-download-button {
     font-size: 20px;
     padding: 18px 22px;
   }

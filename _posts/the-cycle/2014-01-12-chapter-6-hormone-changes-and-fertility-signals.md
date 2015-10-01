@@ -38,6 +38,8 @@ You may notice that your cervical fluid doesn't seem to "fit" into one of the ca
 
 If you're a visual learner, take a look at these <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes">images of cervical fluid changes throughout the menstrual cycle</a>. Though keep in mind that individual patterns will vary. 
 
+{% include app-download-prompt.html %}
+
 
 <h2><a class="notes" name="what-is-bbt">Basal Body Temperature</a></h2>
 

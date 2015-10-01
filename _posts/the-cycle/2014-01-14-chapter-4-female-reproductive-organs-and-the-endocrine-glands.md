@@ -52,6 +52,8 @@ I like to think of the fallopian tubes as the arms of the female reproductive sy
 
 It is a common misconception that fertilization takes place in the uterus, when in fact it typically occurs in one of the two fallopian tubes. If the ovum is fertilized, the embryo (or fertilized egg) moves into the uterus for implantation. If fertilization does not occur, atresia (or reabsorption) of the ovum also occurs in the fallopian tube.
 
+{% include app-download-prompt.html %}
+
 
 ##The Pituitary Gland and Hypothalamus
 

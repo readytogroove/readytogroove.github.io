@@ -31,6 +31,8 @@ The natural pH of the vagina is in the ballpark of 3.8&ndash;4.0, making it rela
 
 Acidic environments hinder the growth of harmful bacteria, which is why compounds like lactic acid are often added to food as a preservative. In the case of the vagina, its acidity ensures the proper balance of bacterial flora, preventing overgrowth of bad bacteria that can cause issues like vaginal infections. So the pH of your vagina basically helps it keep itself healthy. It just happens to have the side effect of killing sperm.
 
+{% include app-download-prompt.html %}
+
 ###Cervical Fluid Helps Sperm Stay Alive
 
 <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-cervical-fluid">Cervical fluid</a>&mdash;which is secreted by the cervix in response to estrogen that&rsquo;s produced by maturing egg follicles&mdash;helps to bridge this pH gap so that sperm can reach the egg. As egg follicles mature and prepare for ovulation, <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/">cervical fluid becomes increasingly wet and slippery</a>, and its pH rises. 

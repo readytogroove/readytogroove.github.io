@@ -25,6 +25,8 @@ Recent research is also beginning to show <a class="text-link" target="_blank" h
 
 The most common symptoms of PCOS are menstrual disorders&mdash;in particular, experiencing long, irregular cycles and very heavy or long periods when they do occur. Because of the effect PCOS has on your cycles, it&rsquo;s a common cause of infertility (and difficulty conceiving) among women. PCOS can also result in excess hair growth (thanks to increased androgen levels), acne, and weight gain.
 
+{% include app-download-prompt.html %}
+
 ###Can it be &ldquo;cured&rdquo;? 
 
 So this information is all well and good, but the *real* question is &ldquo;What can you do about it?&rdquo; Luckily, you&rsquo;re not SOL if you&rsquo;ve been diagnosed with PCOS. It can be very appealing to turn to hormonal contraception as a quick fix (trust me, I&rsquo;ve been there!), especially when it&rsquo;s recommended by your physician or someone you trust. But a PCOS diagnosis isn&rsquo;t a death sentence, and the pill definitely isn&rsquo;t your only option if you&rsquo;re interested in exploring alternatives.

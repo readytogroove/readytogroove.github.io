@@ -74,6 +74,8 @@ Any discarded temperatures should be taken into account when calculating the pos
 
 However, if Leslie acknowledges and is okay with the extra risk, she would exclude her artificially high temperature and continue her three-day count the following day. Leslie would _not_ consider herself infertile until she has three days of temperatures above the coverline that _are not artificially high or missing_. In this case, she would not be considered infertile until the _fourth_ day after her temperature shift (assuming she only had _one day_ with a missing or artificially high temperature). 
 
+{% include app-download-prompt.html %}
+
 <h2><a class="notes" name="check-cervical-fluid">Cervical Fluid</a></h2>
 
 

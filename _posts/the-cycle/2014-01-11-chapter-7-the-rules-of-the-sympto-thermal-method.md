@@ -92,6 +92,8 @@ As we've learned, the position and hardness of the cervix changes with fluctuati
 
 After ovulation, as sort of a "confirmation" that the infertile period has begun, many people will check the position of the cervix to confirm that it has returned to its infertile (low, firm, and closed) position. It is a great way to provide a little extra peace of mind! I will discuss <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">how to check your cervical position</a>, and what to look for, in an upcoming section.
 
+{% include app-download-prompt.html %}
+
 
 ##Sympto-thermal Method Rules Summary
 
