@@ -42,7 +42,7 @@
 
       // Google Analytics event listener
       var appLink = document.getElementsByClassName('ga-app-download-button');
-      addListener(appLink, 'click', function() {
+      addEventListener(appLink, 'click', function() {
         ga('send', 'event', 'button', 'click', 'Link to Groove in App Store');
       });
 
