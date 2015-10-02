@@ -41,9 +41,9 @@
       });
 
       // Google Analytics event listener
-      var appLink = document.getElementById('app-button');
+      var appLink = document.getElementsByClassName('ga-app-download-button');
       addListener(appLink, 'click', function() {
-        ga('send', 'event', 'button', 'click', 'app-store-buttons');
+        ga('send', 'event', 'button', 'click', 'Link to Groove in App Store');
       });
 
       function addListener(element, type, callback) {
