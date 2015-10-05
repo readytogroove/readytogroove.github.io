@@ -41,15 +41,6 @@
       });
 
       // Google Analytics event listener
-      var appLink = document.getElementsByClassName('ga-app-download-button');
-      addEventListener(appLink, 'click', function() {
-        ga('send', 'event', 'button', 'click', 'Link to Groove in App Store');
-      });
-
-      function addListener(element, type, callback) {
-       if (element.addEventListener) element.addEventListener(type, callback);
-       else if (element.attachEvent) element.attachEvent('on' + type, callback);
-      } 
 
       // newsletter popup window
       window.onload = function () {
