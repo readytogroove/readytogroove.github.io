@@ -22,7 +22,7 @@ I could talk all day long about cervical fluid, but being able to visualize the 
 
 {% include cf-image.html url="/img/book/creamy-cervical-fluid-2.jpg" description="<strong>Creamy cervical fluid</strong> (above) - This day had much more creamy fluid than the previous day, but it still will not feel slippery or lubricative." %}
 
-{% include app-download-prompt.html %}
+{% include cervical-fluid-masterclass.html %}
 
 {% include cf-image.html url="/img/book/egg-white-cervical-fluid-1.jpg" description="<strong>Egg white cervical fluid</strong> (above) - Notice that this fluid is beginning to stretch. However, that doesn&rsquo;t necessarily point to egg white cervical fluid. Egg white fluid will feel slippery and lubricative between your fingers, similar to a raw egg white (hence the name). Not all egg white fluid will be perfectly clear...as you can see, this fluid is streaked!" %}
 

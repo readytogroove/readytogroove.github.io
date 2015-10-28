@@ -1051,7 +1051,7 @@ body.mobile-nav-open #mobile-nav {
 
 /* includes */
 
-.app-download-prompt, .android-tester-prompt {
+.app-download-prompt, .android-tester-prompt, .cf-masterclass {
   background-color: #3FC2A5;
   padding: 25px;
   text-align: center;
@@ -1060,7 +1060,7 @@ body.mobile-nav-open #mobile-nav {
   padding-bottom: 40px;
 }
 
-.app-download-button, .android-tester-button {
+.app-download-button, .android-tester-button, .cf-masterclass-button {
   display: inline-block;
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 26px;
@@ -1072,7 +1072,7 @@ body.mobile-nav-open #mobile-nav {
   color: white;
 }
 
-  .app-download-button:hover, .android-tester-button:hover {
+  .app-download-button:hover, .android-tester-button:hover, .cf-masterclass-button:hover {
     background-color: white;
     color: #3FC2A5;
   }
@@ -1379,7 +1379,7 @@ body.mobile-nav-open #mobile-nav {
     font-weight: 300;
   }
 
-  .button, .app-download-button, .android-tester-button {
+  .button, .app-download-button, .android-tester-button, .cf-masterclass-button {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -1451,7 +1451,7 @@ body.mobile-nav-open #mobile-nav {
 
 @media screen and (max-width: 475px) {
 
-  .button, .app-download-button, .android-tester-button {
+  .button, .app-download-button, .android-tester-button, .cf-masterclass-button {
     font-size: 20px;
     padding: 18px 22px;
   }
