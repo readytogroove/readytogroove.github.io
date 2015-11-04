@@ -1,0 +1,68 @@
+
+
+{% include header.html %}
+
+<!-- This is the "blog-post.html" content code -->
+			<div class="white-background remove-padding">
+				<div class="container">
+					{% if page.img %}
+					<div class="blog-header-img">
+						<img class="blog-img" src="/img/{{ page.img }}" />
+					</div>
+					{% endif %}
+					<div class="blog-container">
+						<div itemscrope itemtype="http://schema.org/Article">
+							<h1 class="gray-dark blog-title"><span itemprop="name">{{ page.title }}</span></h1>
+							<div class="blog-info">
+								<div class="author-img">
+									{% if page.author == "Brian Smith" %}
+									<img class="blog-author-img" src="/img/Brian-Smith.jpg" />
+									{% else %}
+									<img class="blog-author-img" src="/img/Jennifer-Aldoretta.jpg" />
+									{% endif %}
+								</div><!--.author-img-->
+								<div class="blog-info-text">
+									<p class="gray-very-light small-text"><span itemprop="author">{{ page.author }}</span> wrote this on {{ page.date | date: '%B %-d, %Y' }} <!-- in {{ page.categories | category_links }} --></p>
+								</div><!--.blog-info-text-->
+							</div><!--.blog-info-->
+							<div class="blog-body">
+								<p itemprop="articleBody">{{content}}</p>
+							</div><!--.blog-body-->
+							<!-- AddThis Button BEGIN -->
+							<div class="addthis_toolbox addthis_default_style ">
+							<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+							<a class="addthis_button_tweet"></a>
+							</div>
+							<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+							<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52ceee943bc45eff"></script>
+							<!-- AddThis Button END -->
+							{% include author-bio.html %}
+						</div>
+
+						<!-- DISQUS CODE -->
+
+						<div id="disqus_thread"></div>
+						<script type="text/javascript">
+						    /* * * CONFIGURATION VARIABLES * * */
+						    var disqus_shortname = 'readytogroove';
+						    
+						    /* * * DON'T EDIT BELOW THIS LINE * * */
+						    (function() {
+						        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+						        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+						        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+						    })();
+						</script>
+						<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+						<!-- END DISQUS CODE -->
+
+
+					</div><!--.blog-container-->
+				</div><!--.container-->
+			</div><!--.white-background-->
+<!-- End "blog-post.html" content code -->
+
+{% include newsletter-signup.html %}
+
+{% include footer.html %}
