@@ -469,6 +469,19 @@ li.nav-button-link {
     text-align: center;
   }
 
+/* includes styles */
+
+.affiliate-disclosure-block {
+  padding: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow: hidden;
+  border: 1px solid #4C4C4C;
+}
+
+.affiliate-text {
+
+}
 
 /* index.html styles */
 
@@ -1500,7 +1513,7 @@ body.mobile-nav-open #mobile-nav {
     margin-bottom: 15px;
   }
 
-  .author-bio-block {
+  .author-bio-block, .affiliate-disclosure-block {
     padding: 20px;
     margin-top: 25px;
     margin-bottom: 25px;
