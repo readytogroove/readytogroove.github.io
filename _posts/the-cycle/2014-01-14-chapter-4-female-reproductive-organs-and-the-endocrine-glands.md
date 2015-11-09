@@ -4,7 +4,7 @@ title:  "The Female Reproductive Organs &amp; the Endocrine Glands that Make The
 permalink: /the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands
 date: 2014-01-14
 category: the-cycle
-img: the-cycle/female-reproductive-system.jpg
+img: book/female-reproductive-system.jpg
 excerpt: "Because your reproductive organs are oh-so-neatly tucked away, revealing their awesomeness requires taking a closer look. The battle to liberate the female body from social stigmas surrounding menstruation begins with an improvement in menstrual education, and achieving this goal starts with knowledge of female reproductive anatomy. The purpose of this section is to do a little exploring to learn all about lady parts!"
 ---
 

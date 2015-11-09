@@ -4,7 +4,7 @@ title:  "How to Check Your Fertility Signs"
 date:   2014-01-10
 permalink: /the-cycle/chapter-8-checking-fertility-signs-how-to
 category: the-cycle
-img: the-cycle/sympto-thermal-fertility-awareness-method-rules-chart.jpg
+img: book/digital-basal-thermometer-fahrenheit.jpg
 excerpt: "Using the rules of the sympto-thermal method (STM), you can determine when you are no longer at risk of an unintended pregnancy or when your baby-making window has passed! Not just this, but monitoring fertility signs on a daily basis allows for faster detection of many reproductive disorders, including polycystic ovary syndrome (PCOS), anovulation, luteal phase defect, thyroid hormone imbalances, or estrogen and progesterone imbalances."
 ---
 
