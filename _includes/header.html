@@ -138,7 +138,12 @@
         {% else %}
         <li class="nav-link"><a class="text-link" href="/about">ABOUT</a></li>
         {% endif %}
-        <li class="nav-button-link"><a class="nav-button" itemprop="url" target="_blank" href="https://itunes.apple.com/app/id831795151" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'App download button'});">Get the iPhone app</a></li>
+        <li class="nav-button-link">
+          <a target="_blank" href="https://itunes.apple.com/app/id831795151" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'App Store button'});" title="App Store"><img id="app-store-badge" src="/img/app-store-badge.png" /></a>
+        </li>
+        <li class="nav-button-link">
+          <a target="_blank" href="/groove-for-android" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'Google Play button'});" title="App Store"><img id="google-play-badge" src="/img/google-play-badge.png" /></a>
+        </li>
       </ul>
     </div>
     {% endif %}
@@ -180,7 +185,12 @@
             {% else %}
             <li class="nav-link"><a class="text-link" href="/about">ABOUT</a></li>
             {% endif %}
-            <li class="nav-button-link"><a class="nav-button" itemprop="url" target="_blank" href="https://itunes.apple.com/app/id831795151" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'App download button'});">Get the iPhone app</a></li>
+            <li class="nav-button-link">
+              <a target="_blank" href="https://itunes.apple.com/app/id831795151" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'App Store button'});" title="App Store"><img id="app-store-badge" src="/img/app-store-badge.png" /></a>
+            </li>
+            <li class="nav-button-link">
+              <a href="/groove-for-android" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'Google Play button'});" title="App Store"><img id="google-play-badge" src="/img/google-play-badge.png" /></a>
+            </li>
           </ul>
         </div>
         <button class="mobile-nav-button">

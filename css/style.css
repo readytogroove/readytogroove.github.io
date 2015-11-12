@@ -252,6 +252,26 @@ blockquote {
     cursor: pointer;
   }
 
+.android-signup-button {
+  font-family: 'helvetica neue', helvetica, arial;
+  font-size: 18px;
+  border-radius: 7px;
+  text-decoration: none;
+  padding: 18px 20px;
+  background-color: transparent;
+  border: 2px solid #3FC2A5;
+  color: #3FC2A5;
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+}
+
+  .android-signup-button:hover {
+    background-color: #3FC2A5;
+    color: white;
+    cursor: pointer;
+  }
+
 .button-white {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
@@ -273,18 +293,39 @@ blockquote {
     min-width: 150px;
   }
 
+  .badge {
+    display: inline-block;
+  }
+
+  .app-badge {
+    width: 184px;
+    height: 49px;
+    display: inline-block;
+    margin-right: 15px;
+  }
+
+  #app-store-badge {
+    width: 184px;
+    height: 49px;
+  }
+
+  #google-play-badge {
+    width: 184px;
+    height: 49px;
+  }
+
 /***** forms *****/
 
 input[type=text], input[type=email] {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
-  padding: 19px 21px;
+  padding: 19px 0px;
   text-align: center;
   color: #6C6C6C;
   border: 1px #ccc solid;
   border-radius: 0;
-  margin-right: 10px;
-  width: 300px;
+  display: block;
+  width: 100%;
   -webkit-transition: border-color .1s ease-out;
   -moz-transition: border-color .1s ease-out;
   -o-transition: border-color .1s ease-out;
@@ -310,11 +351,11 @@ input[type=text], input[type=email] {
 
 .header-nav {
   float: right;
-  margin-top: 1px;
+  margin-top: 5px;
 }
 
 .active-nav {
-  font-size: 14px;
+  font-size: 13px;
   color: #3FC2A5;
   text-decoration: none;
   border-bottom: #3FC2A5 solid 1px;
@@ -334,7 +375,7 @@ input[type=text], input[type=email] {
   margin-top: 20px;
 }
 
-.call-to-action {
+.call-to-action, .call-to-action-android {
   text-align: center;
 }
 
@@ -384,12 +425,13 @@ li.nav-button-link {
 
   li.nav-link {
     display: inline-block;
-    padding-top: 7px;
-    margin-right: 30px;
+    vertical-align: top;
+    padding-top: 16px;
+    margin-right: 20px;
   }
 
   li.nav-link a.text-link {
-    font-size: 14px;
+    font-size: 13px;
     padding-top: 15px;
   }
 
@@ -715,6 +757,20 @@ li.blog-category {
   margin-right: 10px;
 }
 
+/* groove-for-android.html styles */
+
+.app-img-intro-android {
+  width: 55%;
+  float: left;
+}
+
+.app-text-intro-android {
+  width: 40%;
+  display: inline-block;
+  margin-top: 60px;
+  margin-left: 5%;
+}
+
 /* app.html styles */
 
 
@@ -1016,7 +1072,7 @@ p.panel-title {
   height: 22px;
   width: 25px;
   right: 20px;
-  top: 14px;
+  top: 32px;
 }
   .mobile-nav-button span {
     overflow: visible;
@@ -1067,10 +1123,10 @@ p.panel-title {
     margin: 0;
   }
   #mobile-nav li.nav-button-link {
-    margin-top: 35px;
+    margin-top: 25px;
   }
     #mobile-nav li a {
-      font-size: 18px;
+      font-size: 16px;
       line-height: 35px;
     }
 body.mobile-nav-open #mobile-nav {
@@ -1129,6 +1185,35 @@ body.mobile-nav-open #mobile-nav {
 
 }
 
+@media screen and (max-width:1140px) {
+
+/* mobile nav */
+  .mobile-nav-button {
+    display: inline-block;
+  }
+
+  div.header-nav {
+    display: none;
+  }
+
+  .content-container {
+    padding-top: 79px;
+  }
+
+  #header-container {
+    padding: 20px 10%;
+  }
+
+  #groove {
+    margin-top: 4px;
+  }
+
+  .app-text-intro-android {
+    margin-top: 10px;
+  }
+
+}
+
 @media screen and (max-width:1100px) {
   .left-column p.small-text {
     font-size: 16px;
@@ -1141,15 +1226,6 @@ body.mobile-nav-open #mobile-nav {
 }
 
 @media screen and (max-width:1000px) {
-
-  /* mobile nav */
-  .mobile-nav-button {
-    display: inline-block;
-  }
-
-  div.header-nav {
-    display: none;
-  }
 
   #footer-container {
     position: static;
@@ -1169,7 +1245,11 @@ body.mobile-nav-open #mobile-nav {
   }
 
   .content-container {
-    padding-top: 47px;
+    padding-top: 62px;
+  }
+
+  .mobile-nav-button {
+    top: 23px;
   }
 
   /* end mobile nav */
@@ -1295,17 +1375,18 @@ body.mobile-nav-open #mobile-nav {
     display: block;
   }
 
-  .app-img-intro {
+  .app-img-intro, .app-img-intro-android {
     display: block;
     width: 100%;
     text-align: center;
+    margin-top: 25px;
   }
 
   #meet-the-app-img {
     width: 400px;
   }
 
-  .app-text-intro {
+  .app-text-intro, .app-text-intro-android {
     display: none;
   }
 
@@ -1458,6 +1539,12 @@ body.mobile-nav-open #mobile-nav {
   .product-container {
     width: 100%;
   }
+
+  /* app page */
+
+  .goal-img-container {
+    width: 75%;
+  }
 }
 
 @media screen and (max-width: 576px) {
@@ -1502,6 +1589,10 @@ body.mobile-nav-open #mobile-nav {
   }
 
   img.image, img.book-image-cf {
+    width: 100%;
+  }
+
+  .goal-img-container {
     width: 100%;
   }
 
