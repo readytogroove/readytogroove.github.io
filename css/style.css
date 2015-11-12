@@ -307,6 +307,7 @@ blockquote {
   #app-store-badge {
     width: 184px;
     height: 49px;
+    margin-right: 5px;
   }
 
   #google-play-badge {
@@ -1210,6 +1211,10 @@ body.mobile-nav-open #mobile-nav {
 
   .app-text-intro-android {
     margin-top: 10px;
+  }
+
+  #app-store-badge {
+    margin-right: 0px;
   }
 
 }
