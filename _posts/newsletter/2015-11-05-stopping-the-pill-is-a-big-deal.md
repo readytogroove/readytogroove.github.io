@@ -5,7 +5,6 @@ date:   2015-11-05
 author: "Jennifer Aldoretta"
 permalink: /newsletter/stopping-hormonal-contraception/stopping-the-pill-is-a-big-deal/
 img: newsletter/woman-jumping-in-front-of-sunset.jpg
-excerpt: "From the very first moment of Groove&rsquo;s existence as a company, making a positive impact has been extremely important to me ..."
 ---
 
 The messages are incessant. Our whole lives, we're bombarded by billboards, commercials, friends, doctors, partners, and society as a whole telling us that the pill and other hormonal contraceptives are the only responsible way to fix period woes and prevent pregnancy. 

@@ -5,7 +5,6 @@ date:   2015-11-05
 author: "Jennifer Aldoretta"
 permalink: /newsletter/reproductive-and-hormone-health/4-reasons-to-learn-about-your-reproductive-health/
 img: newsletter/medicines-and-salves.jpg
-excerpt: "From the very first moment of Groove&rsquo;s existence as a company, making a positive impact has been extremely important to me ..."
 ---
 
 We don't typically think about our reproductive health as some hugely important thing that requires constant upkeep. For most of us, maintaining good reproductive health means going to the gynecologist once a year for a pap smear and trying not to contract an STI. Cardiovascular (heart) health, physical health, and mental health...now THOSE are important! But reproductive and hormone health? No way! Worrying about reproductive health is only for people who want to have babies ASAP, right?
