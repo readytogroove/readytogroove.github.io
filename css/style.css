@@ -76,20 +76,23 @@ strong {
   display: block;
 }
 
-.gray-background {
-  background-color: #EDEDED;
+.gray-background, .white-background, .carnelian-background {
   width: 100%;
   overflow: hidden;
   padding-bottom: 50px;
   padding-top: 50px;
 }
 
+.gray-background {
+  background-color: #EDEDED;
+}
+
 .white-background {
   background-color: #FFFFFF;
-  width: 100%;
-  overflow: hidden;
-  padding-bottom: 50px;
-  padding-top: 50px;
+}
+
+.carnelian-background {
+  background-color: #a7372a;
 }
 
 .remove-padding {
@@ -272,6 +275,26 @@ blockquote {
     cursor: pointer;
   }
 
+.period-reset-button {
+  font-family: 'helvetica neue', helvetica, arial;
+  font-size: 18px;
+  border-radius: 7px;
+  text-decoration: none;
+  padding: 18px 20px;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+}
+
+  .period-reset-button:hover {
+    background-color: #ffffff;
+    color: #a7372a;
+    cursor: pointer;
+  }
+
 .button-white {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
@@ -376,8 +399,14 @@ input[type=text], input[type=email] {
   margin-top: 20px;
 }
 
-.call-to-action, .call-to-action-android {
+.call-to-action, .call-to-action-android, .call-to-action-pr {
   text-align: center;
+}
+
+.call-to-action-pr {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .call-to-action h2 {
@@ -524,6 +553,42 @@ li.nav-button-link {
 
 .affiliate-text {
 
+}
+
+#clockdiv {
+  text-align: center;
+}
+
+.countdown-box {
+  background-color: #c85548;
+  display: inline-block;
+  width: 125px;
+  height: 150px;
+  margin-right: 25px;
+}
+
+  .countdown-box:last-child {
+    margin-right: 0px;
+  }
+
+.countdown-text, .countdown-sub-text {
+  color: white;
+  text-align: center;
+}
+
+.countdown-text {
+  background-color: #79190e;
+  width: 75px;
+  height: 68px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  vertical-align: center;
+  padding-top: 7px;
+}
+
+.countdown-sub-text {
+  padding-top: 8px;
 }
 
 /* index.html styles */
@@ -820,7 +885,7 @@ li.blog-category {
   width: 40%;
 }
 
-.goal-img-container {
+.goal-img-container, .course-img-container {
   margin-top: 50px;
   width: 30%;
   margin-right: 4%;
@@ -829,7 +894,7 @@ li.blog-category {
   vertical-align: top;
 }
 
-.goal-img-container:last-child {
+.goal-img-container:last-child, .course-img-container:last-child {
   margin-right: 0;
 }
 
@@ -1162,7 +1227,7 @@ body.mobile-nav-open #mobile-nav {
     color: #3FC2A5;
   }
 
-/* 30 days to better hormone health */
+/* Period Reset course */
 
 #period-reset {
   width: 220px;
@@ -1171,7 +1236,7 @@ body.mobile-nav-open #mobile-nav {
 
 .period-reset-mantle {
   overflow: hidden;
-  background: url('/img/woman-in-flowery-field.jpg') no-repeat;
+  background: url('/img/courses/woman-in-field.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   max-height: 700px;
@@ -1185,13 +1250,70 @@ body.mobile-nav-open #mobile-nav {
   max-width: 550px;
   border: 4px solid #ffffff;
   padding: 35px;
-  background-color:rgba(0, 0, 0, 0.7);
+  background-color:rgba(0, 0, 0, 0.6);
 }
 
 .period-reset-header-container {
   text-align: center;
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+.course-img {
+  width: 300px;
+}
+
+.course-info {
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.course-info-text {
+  width: 60%;
+}
+
+.course-text-intro {
+  width: 45%;
+  display: inline-block;
+  margin-left: 5%;
+}
+
+.course-text-intro .gray-very-light {
+  margin-top: 0px;
+}
+
+.course-whats-included {
+  width: 50%;
+  float: left;
+}
+
+.meet-the-course-img {
+  width: 90%;
+}
+
+.course-collage-img {
+  width: 500px;
+  margin-bottom: 25px;
+}
+
+.course-img-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.course-info-text h3 {
+  margin-top: 5px;
+}
+
+.course-info-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.pr-info-header {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 20px;
 }
 
 /* responsive, y'all */
@@ -1249,6 +1371,10 @@ body.mobile-nav-open #mobile-nav {
     margin-right: 0px;
   }
 
+  .course-img {
+    width: 225px;
+  }
+
 }
 
 @media screen and (max-width:1100px) {
@@ -1260,6 +1386,11 @@ body.mobile-nav-open #mobile-nav {
     max-width: 720px;
     max-height: 405px;
   }
+
+  .course-text-intro h2.gray-very-light {
+    font-size: 24px;
+  }
+
 }
 
 @media screen and (max-width:1000px) {
@@ -1302,11 +1433,11 @@ body.mobile-nav-open #mobile-nav {
     width: 400px;
   }
 
-  .app-text-intro {
+  .app-text-intro, /*.course-text-intro*/ {
     margin-top: 150px;
   }
 
-  .app-info-text {
+  .app-info-text, .course-info-text {
     width: 75%;
   }
 
@@ -1412,29 +1543,29 @@ body.mobile-nav-open #mobile-nav {
     display: block;
   }
 
-  .app-img-intro, .app-img-intro-android {
+  .app-img-intro, .app-img-intro-android, .course-whats-included {
     display: block;
     width: 100%;
     text-align: center;
     margin-top: 25px;
   }
 
-  #meet-the-app-img {
+  #meet-the-app-img, .meet-the-course-img {
     width: 400px;
   }
 
-  .app-text-intro, .app-text-intro-android {
+  .app-text-intro, .app-text-intro-android, .course-text-intro {
     display: none;
   }
 
-  .goal-img-container, .phone-img-container {
+  .goal-img-container, .phone-img-container, .course-img-container {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
   }
 
-    .goal-img-container:last-child, .phone-img-container:last-child {
+    .goal-img-container:last-child, .phone-img-container:last-child, .course-img-container:last-child {
       margin-left: auto;
       margin-right: auto;
     }
@@ -1443,11 +1574,11 @@ body.mobile-nav-open #mobile-nav {
     width: 150px;
   }
 
-  .app-info-header {
+  .app-info-header, .course-info-header {
     text-align: center;
   }
 
-  .app-img {
+  .app-img, .course-img {
     width: 350px;
   }
 
@@ -1582,6 +1713,34 @@ body.mobile-nav-open #mobile-nav {
   .goal-img-container {
     width: 75%;
   }
+
+  .course-img-container {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 651px) {
+  .call-to-action-pr {
+    max-width: 95%;
+  }
+
+  .countdown-box {
+    width: 69px;
+    height: 83px;
+    margin-right: 7px;
+  }
+
+  .countdown-text {
+    background-color: #79190e;
+    width: 41px;
+    height: 37px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    vertical-align: center;
+    padding-top: 0px;
+  }
+
 }
 
 @media screen and (max-width: 576px) {
@@ -1597,6 +1756,30 @@ body.mobile-nav-open #mobile-nav {
 
   .bio-img {
     padding-right: 20px;
+  }
+
+  .course-collage-img {
+    width: 300px;
+  }
+
+  .course-whats-included img {
+    width: 300px;
+  }
+
+  .course-info-text {
+    width: 95%;
+  }
+
+  .course-info-header {
+    margin-bottom: 15px;
+  }
+
+  .meet-the-course-img {
+    margin-bottom: 15px;
+  }
+
+  .course-info {
+    margin-bottom: 15px;
   }
 
 }
@@ -1629,7 +1812,7 @@ body.mobile-nav-open #mobile-nav {
     width: 100%;
   }
 
-  .goal-img-container {
+  .goal-img-container, .course-img-container {
     width: 100%;
   }
 
