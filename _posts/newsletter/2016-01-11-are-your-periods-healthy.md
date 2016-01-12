@@ -4,7 +4,7 @@ title:  "Are your periods healthy?"
 date:   2016-01-11
 author: "Jennifer Aldoretta"
 permalink: /newsletter/reproductive-and-hormone-health/are-your-periods-healthy/
-img: newsletter/woman-crossing-bridge.jpg
+img: newsletter/woman-holding-cherries.jpg
 ---
 
 *Is my period NORMAL?!* It&rsquo;s a question I&rsquo;m sure we&rsquo;ve all asked ourselves at one time or another. If I&rsquo;m being honest, I&rsquo;ve pondered this on more than one occasion. But what IS normal? And what does &ldquo;normal&rdquo; actually mean when it comes to your period? Is a 5-day period normal? How about a 7-day period? What about a 34-day cycle? There are so many questions!
