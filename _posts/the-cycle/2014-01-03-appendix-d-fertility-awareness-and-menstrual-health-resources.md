@@ -22,11 +22,11 @@ _Hannah is the founder of Holistic Hormonal Health. She focuses on helping women
 
 ###Ashley Annis, Certified Fertility Awareness Educator
 
-_As a modern day __Xochiquetzal__ (goddess of fertility, female sexual power, pregnancy, childbirth and household crafts), Ashley uses her knowledge and passion to educate and empower women during all different phases of life. Along with natural, hormone-free birth control classes and selling handmade menstrual pads, Ashley also aspires to work as a birth doula, lead feminine healing retreats and young women's circles, and become an expert on herbal medicine._ 
+_Ashley offers several different class options for learning how to chart the menstrual cycle in order to prevent or achieve pregnancy.  She is also currently a student at the University of Wisconsin, Madison studying women and gender studies and plans to integrate LGBTQ+ health into her FAM classes in the future._ 
 
-<a class="text-link" href="mailto:lovely.fertility.class@gmail.com">Email Ashley</a>
+<a class="text-link" href="mailto:ashley.hartman.annis@gmail.com">Email Ashley</a>
 
-<a class="text-link" target="_blank" href="http://www.lovelyfertility.com">lovelyfertility.com</a>
+<a class="text-link" target="_blank" href="http://www.ashleyhartmanannis.wix.com/hooray">ashleyhartmanannis.wix.com/hooray</a>
 
 
 ###Anna Churchill, Certified Fertility Awareness Educator
