@@ -32,30 +32,30 @@
       {% endif %}
 
       <!-- Twitter Card Code -->
-      <meta name="twitter:card" content="summary">
-      <meta name="twitter:site" content="@readytogroove">
-      <meta name="twitter:creator" content="@readytogroove">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@ReadyToGroove">
+      <meta name="twitter:creator" content="@ReadyToGroove">
       {% if page.img %}
-        <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.img }}">
+        <meta name="twitter:image" content="{{ site.url }}/img/{{ page.img }}">
       {% else if post.img %}
-        <meta name="twitter:image:src" content="{{ site.url }}/img/{{ post.img }}">
+        <meta name="twitter:image" content="{{ site.url }}/img/{{ post.img }}">
       {% else %}
-        <meta name="twitter:image:src" content="{{ site.url }}/img/groove-icon.jpg">
+        <meta name="twitter:image" content="{{ site.url }}/img/groove-icon.jpg">
       {% endif %}
       
       <!-- Open Graph & Twitter Card Descriptions -->
       {% if page.description %}
         <meta name="description" content="{{page.description}}">
         <meta property="og:description" content="{{page.description}}">
-        <meta name="twitter:description" content="{{page.description}}" />
+        <meta name="twitter:text:description" content="{{page.description}}" />
       {% else if post.excerpt %}  
         <meta name="description" content="{{post.excerpt}}">
         <meta property="og:description" content="{{post.excerpt}}">
-        <meta name="twitter:description" content="{{post.excerpt}}" />
+        <meta name="twitter:text:description" content="{{post.excerpt}}" />
       {% else %}
         <meta name="description" content="We provide information and tools, like the Groove app, to help you learn about your unique body. Whether you&rsquo;re looking to get pregnant, avoid pregnancy, or track your cycles, Groove&rsquo;s got your back.">
         <meta property="og:description" content="We provide information and tools, like the Groove app, to help you learn about your unique body. Whether you&rsquo;re looking to get pregnant, avoid pregnancy, or track your cycles, Groove&rsquo;s got your back.">
-        <meta name="twitter:description" content="We provide information and tools, like the Groove app, to help you learn about your unique body. Whether you&rsquo;re looking to get pregnant, avoid pregnancy, or track your cycles, Groove&rsquo;s got your back." />
+        <meta name="twitter:text:description" content="We provide information and tools, like the Groove app, to help you learn about your unique body. Whether you&rsquo;re looking to get pregnant, avoid pregnancy, or track your cycles, Groove&rsquo;s got your back." />
       {% endif %}
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 
