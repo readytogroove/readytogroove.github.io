@@ -15,31 +15,10 @@
       <meta name="twitter:creator" content="@ReadyToGroove">
 
       <!-- Open Graph & Twitter Card Info -->
-      {% if page.title %}
-        <meta content="{{ page.title }}" property="og:title">
-        <meta name="twitter:title" content="{{ page.title }}">
-      {% else if post.title %}
-        <meta content="{{ post.title }}" property="og:title">
-      {% else %}
-        <meta content="{{ site.title }}" property="og:title">
-      {% endif %}
-      {% if page.title %}
-        <meta content="article" property="og:type">
-      {% else %}
-        <meta content="website" property="og:type">
-      {% endif %}
-      {% if page.url %}
-        <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-      {% else %}
-        <meta content="{{ site.url }}{{ post.url }}" property="og:url">
-      {% endif %}
-      {% if page.img %}
-        <meta content="/img/{{ page.img }}" property="og:image">
-      {% else if post.img %}
-        <meta content="/img/{{ post.img }}" property="og:image">
-      {% else %}
-        <meta content="/img/groove-icon.jpg" property="og:image">
-      {% endif %}
+      <meta content="{% if page.title %}{{ page.title }}{% else if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" property="og:title">
+      <meta content="{% if page.title %}article{% else %}website{% endif %}" property="og:type">
+      <meta content="{{ site.url }}{% if page.url %}{{ page.url }}{% else %}{{ post.url }}{% endif %}" property="og:url">
+      <meta content="/img/{% if page.img %}{{ page.img }}{% else if post.img %}{{ post.img }}{% else %}groove-icon.jpg{% endif %}" property="og:image">
       
       <!-- Open Graph & Twitter Card Descriptions -->
       {% if page.description %}
