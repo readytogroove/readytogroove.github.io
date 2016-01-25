@@ -4,8 +4,7 @@
 <!-- Website Header -->
 	<head>
 		<meta charset="utf-8">
-	    <title>{{page.title}}</title>
-    <meta property="fb:admins" content="12818748" />
+	    <title>{{ page.title }}</title>
 
       <!-- Open Graph -->
       <meta content="{{ site.title }}" property="og:site_name">
@@ -18,16 +17,16 @@
       <!-- Open Graph & Twitter Card Info -->
       <meta content="{% if page.title %}{{ page.title }}{% else if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" property="og:title">
       <meta content="{% if page.title %}article{% else %}website{% endif %}" property="og:type">
-      <meta content="{{ site.url }}{% if page.url %}{{ page.url }}{% else %}{{ post.url }}{% endif %}" property="og:url">
+      <meta content="{{ site.url }}{% if page.url %}{{ page.url }}{% else if %}{{ post.url }}{% endif %}" property="og:url">
       <meta content="/img/{% if page.img %}{{ page.img }}{% else if post.img %}{{ post.img }}{% endif %}" property="og:image">
       
       <!-- Open Graph & Twitter Card Descriptions -->
       {% if page.description %}
-        <meta name="description" content="{{page.description}}">
-        <meta property="og:description" content="{{ page.description }}">
+        <meta property="og:description" name="description" content="{{ page.description }}">
       {% else if post.excerpt %}  
-        <meta name="description" content="{{ post.excerpt }}">
-        <meta property="og:description" content="{{ post.excerpt }}">
+        <meta property="og:description" name="description" content="{{ post.excerpt }}">
+      {% else %}  
+        <meta property="og:description" name="description" content="We provide information and tools, like the Groove app, to help you learn about your unique body. Whether you&rsquo;re looking to get pregnant, avoid pregnancy, or track your cycles, Groove&rsquo;s got your back.">
       {% endif %}
 
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
