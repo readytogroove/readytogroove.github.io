@@ -19,7 +19,7 @@
       <meta content="{% if page.title %}{{ page.title }}{% else if post.title %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" property="og:title">
       <meta content="{% if page.title %}article{% else %}website{% endif %}" property="og:type">
       <meta content="{{ site.url }}{% if page.url %}{{ page.url }}{% else %}{{ post.url }}{% endif %}" property="og:url">
-      <meta content="/img/{% if page.img %}{{ page.img }}{% else if post.img %}{{ post.img }}{% else %}groove-icon.jpg{% endif %}" property="og:image">
+      <meta content="/img/{% if page.img %}{{ page.img }}{% else if post.img %}{{ post.img }}{% endif %}" property="og:image">
       
       <!-- Open Graph & Twitter Card Descriptions -->
       {% if page.description %}
