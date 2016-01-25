@@ -6,12 +6,24 @@
 		<meta charset="utf-8">
 	    <title>{{page.title}}</title>
 
-      <!-- Open Graph Code -->
+      <!-- Open Graph -->
       <meta content="{{ site.title }}" property="og:site_name">
+
+      <!-- Twitter Card Code -->
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@ReadyToGroove">
+      <meta name="twitter:creator" content="@ReadyToGroove">
+
+      <!-- Open Graph & Twitter Card Info -->
       {% if page.title %}
         <meta content="{{ page.title }}" property="og:title">
+        <meta name="twitter:title" content="{{ page.title }}">
+      {% else if post.title %}
+        <meta content="{{ post.title }}" property="og:title">
+        <meta name="twitter:title" content="{{ post.title }}">
       {% else %}
         <meta content="{{ site.title }}" property="og:title">
+        <meta name="twitter:title" content="{{ site.title }}">
       {% endif %}
       {% if page.title %}
         <meta content="article" property="og:type">
@@ -25,28 +37,12 @@
       {% endif %}
       {% if page.img %}
         <meta content="/img/{{ page.img }}" property="og:image">
-      {% else if post.img %}
-        <meta content="/img/{{ post.img }}" property="og:image">
-      {% else %}
-        <meta content="/img/groove-icon.jpg" property="og:image">
-      {% endif %}
-
-      <!-- Twitter Card Code -->
-      <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:site" content="@ReadyToGroove">
-      <meta name="twitter:creator" content="@ReadyToGroove">
-      {% if page.title %}
-      <meta name="twitter:title" content="{{ page.title }}">
-      {% else if post.title %}
-      <meta name="twitter:title" content="{{ post.title }}">
-      {% else %}
-      <meta name="twitter:title" content="{{ site.title }}">
-      {% endif %}
-      {% if page.img %}
         <meta name="twitter:image" content="{{ site.url }}/img/{{ page.img }}">
       {% else if post.img %}
+        <meta content="/img/{{ post.img }}" property="og:image">
         <meta name="twitter:image" content="{{ site.url }}/img/{{ post.img }}">
       {% else %}
+        <meta content="/img/groove-icon.jpg" property="og:image">
         <meta name="twitter:image" content="{{ site.url }}/img/groove-icon.jpg">
       {% endif %}
       
@@ -64,6 +60,7 @@
         <meta property="og:description" content="We provide information and tools, like the Groove app, to help you learn about your unique body. Whether you&rsquo;re looking to get pregnant, avoid pregnancy, or track your cycles, Groove&rsquo;s got your back.">
         <meta name="twitter:text:description" content="We provide information and tools, like the Groove app, to help you learn about your unique body. Whether you&rsquo;re looking to get pregnant, avoid pregnancy, or track your cycles, Groove&rsquo;s got your back." />
       {% endif %}
+
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 
     	<link rel='stylesheet' type='text/css' href="/css/reset.css"/>
