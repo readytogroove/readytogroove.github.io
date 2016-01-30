@@ -1,7 +1,7 @@
 name: "Groove"
 description: "Smarter fertility. A better you."
 
-url: "http://localhost:4000"
+url: "http://www.readytogroove.com"
 
 encoding: "utf-8"
 markdown: rdiscount
