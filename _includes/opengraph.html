@@ -1,0 +1,22 @@
+<!-- Open Graph -->
+<meta content="{{ site.title }}" property="og:site_name">
+
+<!-- Twitter Card Code -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ReadyToGroove">
+<meta name="twitter:creator" content="@ReadyToGroove">
+
+<!-- Open Graph & Twitter Card Info -->
+
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}{% if post.title %}{{ post.title }}{% endif %}">
+<meta property="og:type" content="{% if page.title %}website{% endif %}{% if post.title %}article{% endif %}">
+<meta property="og:url" content="{{ site.url }}{% if page.url %}{{ page.url }}{% endif %}{% if post.url %}{{ post.url }}{% endif %}">
+<meta property="og:image" content="/img/{% if page.img %}{{ page.img }}{% endif %}{% if post.img %}{{ post.img }}{% endif %}">
+
+<!-- Open Graph & Twitter Card Descriptions -->
+{% if page.description %}
+  <meta property="og:description" name="description" content="{{ page.description }}">
+{% endif %}
+{% if post.excerpt %}  
+  <meta property="og:description" name="description" content="{{ post.excerpt }}">
+{% endif %}
