@@ -1,4 +1,4 @@
-/---
+---
 layout: book-content
 title:  "Visualizing Changes in Your Cervical Fluid (Cervical Mucus)"
 date:   2014-01-02
