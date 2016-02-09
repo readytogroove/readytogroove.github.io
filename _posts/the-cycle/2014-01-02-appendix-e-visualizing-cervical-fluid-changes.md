@@ -1,8 +1,8 @@
----
+/---
 layout: book-content
 title:  "Visualizing Changes in Your Cervical Fluid (Cervical Mucus)"
 date:   2014-01-02
-permalink: /the-cycle/appendix-e-visualizing-cervical-fluid-changes
+permalink: /the-cycle/appendix-e-visualizing-cervical-fluid-changes/
 category: the-cycle
 img: book/watery-cervical-fluid.png
 excerpt: "Being able to visualize the changes that occur in your cervical fluid (or cervical mucus) is a powerful teaching tool. Each body is unique, and so is each cervical fluid pattern! Learn how to categorize your unique cervical fluid with these images."

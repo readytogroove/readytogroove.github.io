@@ -2,7 +2,7 @@
 layout: book-content
 title:  "Using the Sympto-thermal Method of Fertility Awareness to Maximize Your Chances of Getting Pregnant"
 date:   2014-01-05
-permalink: /the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance
+permalink: /the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/
 category: the-cycle
 img: book/family-sitting-in-a-field-5-things-to-do-before-considering-infertility.jpg
 excerpt: "Charting your fertility using the sympto-thermal method of fertility awareness is a great way to maximize your chances of getting pregnant. Practicing this method helps you pinpoint exactly when you're fertile and at your peak for baby-making. It's simple to learn and practice, even if you have irregular menstrual cycles."

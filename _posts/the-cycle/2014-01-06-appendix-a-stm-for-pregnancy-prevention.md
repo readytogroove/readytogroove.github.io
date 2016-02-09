@@ -2,7 +2,7 @@
 layout: book-content
 title:  "Preventing Pregnancy with the Sympto-thermal Method of Fertility Awareness"
 date:   2014-01-06
-permalink: /the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention
+permalink: /the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/
 category: the-cycle
 img: book/forrest-adventure-walk-charting-fertility-with-pcos.jpg
 excerpt: "Preventing pregnancy using the sympto-thermal method of fertility awareness requires that you strictly follow a simple set of rules. Despite large variations in hormone levels, you can even use the sympto-thermal method as a form of pregnancy prevention if you're premenopausal, post-partum, or lactating."
