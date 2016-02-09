@@ -2,7 +2,7 @@
 layout: book-content
 title:  "The Rules of the Sympto-thermal Method of Fertility Awareness"
 date:   2014-01-11
-permalink: /the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method
+permalink: /the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/
 category: the-cycle
 img: book/sympto-thermal-fertility-awareness-method-rules-chart.jpg
 excerpt: "Learning the rules of the sympto-thermal method of fertility awareness will help you naturally avoid pregnancy, maximize your chances of getting pregnancy, track your cycles (even if you have PCOS), and maintain or improve your reproductive health. These rules are simple to learn, but they must be strictly followed in order to achieve maximum effectiveness. This page will teach you exactly how to practice the sympto-thermal method."

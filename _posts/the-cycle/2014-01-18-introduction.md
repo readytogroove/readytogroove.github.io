@@ -2,7 +2,7 @@
 layout: book-content
 title:  "Introduction"
 date:   2014-01-18
-permalink: /the-cycle/introduction
+permalink: /the-cycle/introduction/
 category: the-cycle
 ---
 

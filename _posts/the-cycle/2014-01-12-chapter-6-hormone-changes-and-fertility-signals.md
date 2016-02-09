@@ -2,7 +2,7 @@
 layout: book-content
 title:  "Hormone Changes &amp; Fertility Signs"
 date:   2014-01-12
-permalink: /the-cycle/chapter-6-hormone-changes-and-fertility-signals
+permalink: /the-cycle/chapter-6-hormone-changes-and-fertility-signals/
 category: the-cycle
 img: book/female-sex-hormone-chart-follicular-phase.png
 excerpt: "Female sex hormones have both a seen and unseen effect on your body, and understanding those changes are essential to practicing the sympto-thermal method of fertility awareness. The sympto-thermal method can help you avoid pregnancy naturally, get pregnant, track your cycles, and improve reproductive health. Your body's fertility signs are plain as day; you simply must know where and how to look."

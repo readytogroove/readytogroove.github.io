@@ -1,7 +1,7 @@
 ---
 layout: book-content
 title:  "The Female Reproductive Organs &amp; the Endocrine Glands that Make Them Function"
-permalink: /the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands
+permalink: /the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands/
 date: 2014-01-14
 category: the-cycle
 img: book/female-reproductive-system.jpg
