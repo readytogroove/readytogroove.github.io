@@ -13,7 +13,7 @@ If you haven't yet read through the sections about <a class="text-link" href="/t
 Charting cycles is something that will take a bit of time to get the hang of. Before relying on STM for pregnancy prevention, it would be a wise decision to chart several cycles and contact a <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">Fertility Awareness Educator</a> with any questions.
 
 
-##Additional Education
+## Additional Education ##
 
 
 While reading through this section, keep in mind that while this information may be sufficient for many people to avoid pregnancy using STM, others may find that your fertility signals just don't quite match up with what you were expecting&mdash;especially if you recently stopped using hormonal contraception or are thinking of doing so. If you or your partner are struggling to interpret fertility signs, if you think there may be an underlying reproductive issue, or if you simply have questions you would like answered, I would highly recommend that you get in touch with a fertility awareness educator. Here's a whole list of <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">fertility awareness and menstrual health resources</a> who will gladly provide you with extra education and guidance. 
@@ -21,7 +21,7 @@ While reading through this section, keep in mind that while this information may
 Despite large variations in hormone levels, you can even use the sympto-thermal method as a form of pregnancy prevention if you're premenopausal, post-partum, or lactating. However, it will likely take a great deal of dedication and extremely consistent charting. Explaining how STM can be used to prevent pregnancy for those who are perimenopausal and post-partum is beyond the scope of this book. For more information on that subject, get in touch with a <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">fertility awareness educator (FAE)</a>.
 
 
-##From Hormonal Contraceptives to Fertility Awareness
+## From Hormonal Contraceptives to Fertility Awareness ##
 
 
 There are many things for you to consider before making the switch from a hormonal contraceptive to the fertility awareness method, the most notable being the menstrual cycle irregularity you will likely experience as a result of stopping the hormones. Everyone will have a different post-hormone experience, but cycle irregularity should be expected for at least the first few cycles after stopping. I must stress that using STM for pregnancy prevention is _not_ a good idea until the menstrual cycle has resumed a healthy pattern. For further guidance, get in touch with a fertility awareness educator.
@@ -37,7 +37,7 @@ There are many things for you to consider before making the switch from a hormon
 The chart above displays an example post-hormone chart. It's incredible how much our bodies differ in their sensitivities and reactions to a common substance. Some individuals will resume menstruating almost immediately after ceasing hormone use, while others will wait months (and on rare occasion a year or more) for their periods to return. 
 
 
-##Using STM for Pregnancy Prevention
+## Using STM for Pregnancy Prevention ##
  
 
 As we discussed earlier, if semen, lubricant, or spermicide is not expelled from the vagina, intercourse is only safe every other day on dry days since fertile cervical fluid might be masked. STM as a form of pregnancy prevention is _very_ unforgiving to risk-taking, so make sure to follow the rules of this method _to a tee_ when using it as birth control. 

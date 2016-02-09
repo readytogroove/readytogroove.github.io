@@ -13,7 +13,7 @@ If you&rsquo;re trying to get pregnant and it&rsquo;s taking a little longer tha
 
 If you&rsquo;re in this situation, infertility treatment probably isn&rsquo;t far from your mind, but of course you&rsquo;d rather avoid it. Before you throw your hands up in defeat (or frustration at unsolicited &ldquo;advice&rdquo; from every person you&rsquo;ve ever met, ever), there are several easy things you can do that will not only increase your chances of conceiving naturally, but will also transform you into a total expert when it comes to getting pregnant. Sadly, infertility treatment is inevitable for some, but with the insanely high cost of treatment, you really can&rsquo;t afford *not* to do these 5 simple things.
 
-###1. Confirm that you&rsquo;re ovulating###
+### 1. Confirm that you&rsquo;re ovulating. ###
 
 When I say this, I&rsquo;m not suggesting that you obsessively use ovulation predictor kits (OPKs). OPKs measure your levels of luteinizing hormone, which surges as your body is ramping up to ovulate. Unfortunately, OPKs won&rsquo;t give you any indication of whether ovulation is *actually* happening. And if you&rsquo;re not ovulating, you&rsquo;re definitely not getting pregnant.
 
@@ -21,7 +21,7 @@ A super easy way to confirm that you&rsquo;re ovulating is to measure your body 
 
 {% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-pattern-confirm-ovulation-chart.jpg" description="Since ovulation typically occurs the day before your temperature shift, ovulation occurred on cycle day 16 in the above chart." %}
 
-###2. Learn your luteal phase length###
+### 2. Learn your luteal phase length. ###
 
 Your luteal phase is the number of days between ovulation and the first day of your period, and in order for you to successfully get pregnant (and stay pregnant), the length of your luteal phase needs to fall within a certain range. An ideal luteal phase is between 12 and 16 days long. If your luteal phase is less than 12 days long, that&rsquo;s when problems start to arise (though not everyone with a shorter luteal phase will experience issues). 
 
@@ -29,13 +29,13 @@ You can easily calculate your luteal phase length by measuring your basal body t
 
 Your luteal phase needs to be long enough for a fertilized embryo to implant and properly establish itself in your uterine lining. So if your luteal phase is 11 days or shorter, there may not be enough time for that to happen. Knowing your luteal phase length will help you rule out issues with implantation and early-stage miscarriage.
 
-###3. Learn your basal body temperature range###
+### 3. Learn your basal body temperature range. ###
 
 Similar to the way that a high body temperature is often a symptom of a cold or the flu, a consistently low basal body temperature may be a sign that your body&rsquo;s endocrine system isn&rsquo;t functioning properly. 
 
 Preovulatory temperatures that are lower than 97.0 &deg;F may be indicative of low thyroid function that can lead to a plethora of hormone issues. Knowing your unique temperature range will help you rule out thyroid issues that can make it more difficult to get pregnant.
 
-###4. Get familiar with your cervical fluid###
+### 4. Get familiar with your cervical fluid. ###
 
 <a class="text-link" target="_blank" href="http://www.whatiscervicalfluid.com">Cervical fluid</a> is what helps (or hinders) the travel of sperm to your egg after you ovulate, so ensuring that you&rsquo;re producing <a class="text-link" href="http://www.readytogroove.com/the-cycle/appendix-e-visualizing-cervical-fluid-changes/">slippery, fertile cervical fluid</a> is important when you&rsquo;re trying to conceive. Wet, slippery cervical fluid is ideal for sperm survival and motility, and is typically produced right around the time of ovulation. If you&rsquo;re trying to conceive, you should be <a class="text-link" href="http://www.readytogroove.com/blog/2014/12/05/how-cervical-fluid-helps-you-get-pregnant-or-not/">checking your cervical fluid</a> several times each day. You may want to check both internally and externally (explained below) to help you correctly identify slippery, fertile fluid.
 
@@ -43,7 +43,7 @@ Checking externally is ideal for those who produce wet, slippery cervical fluid 
 
 Familiarizing yourself with your cervical fluid pattern can help you rule out hormone imbalance, PCOS, and other issues that may hinder a pregnancy.
 
-###5. Change your diet###
+### 5. Switch up your diet. ###
 
 As simple as this may sound, dietary changes can have a huge impact on your body&rsquo;s ability to maintain healthy hormone levels. If you&rsquo;ve gone through each of the 4 above steps and notice a problem, a diet overhaul can do wonders. 
 

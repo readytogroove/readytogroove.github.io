@@ -15,7 +15,7 @@ The way many of us (and our apps) predict our next period is extremely unscienti
 
 I&rsquo;m here to tell you that there IS a better way to predict your periods, and it might just change the way you think about your body (it did for me). What I&rsquo;m about to reveal would put your sex ed class to shame. So what&rsquo;s the big secret? It&rsquo;s actually something you&rsquo;ve been doing for most of your life every time you get sick: taking your temperature! The best part? It&rsquo;s actually ACCURATE. Maybe there&rsquo;s a period god, after all.
 
-###How does temperature help with period predictions?
+### How does temperature help with period predictions? ###
 
 I&rsquo;m glad you asked! Your body temperature can actually tell you a lot more than whether or not you&rsquo;re sick; it can also let you in on what your hormones are doing. 
 

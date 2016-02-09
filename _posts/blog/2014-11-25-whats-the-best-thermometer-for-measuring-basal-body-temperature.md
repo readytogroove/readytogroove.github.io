@@ -13,7 +13,7 @@ The world of basal thermometers can feel pretty endless when you&rsquo;re trying
 
 Even if you&rsquo;re a seasoned user of the <a class="text-link" href="/the-cycle/">sympto-thermal method of fertility awareness</a>, navigating the world of basal thermometers can feel daunting. So, to make your search a bit less stressful, I&rsquo;ve compiled a few things to keep in mind while searching for the perfect fit.
 
-###Glass or Digital?###
+### Glass or Digital? ###
 
 Ah, the age old question: *should I use a glass or digital basal thermometer?*
 
@@ -23,7 +23,7 @@ One of the cons of glass thermometers is that they can take up to 5 minutes to g
 
 There are a few cons of using a digital basal thermometer, too: some of them beep the whole time your temperature is being measured&mdash;which may not be appreciated by a snoozing partner&mdash;and their batteries need changing every so often. I&rsquo;ll be the first to admit that I get peeved when I wake up to take my temperature, only to find that the battery is dead. On the plus side, many digital basal thermometers have a back-lit display, which makes it easy to read in the dark. They also tend to be a bit faster, with some getting a measurement in about 60 seconds.
 
-###Thermometer Accuracy###
+### Thermometer Accuracy ###
 
 Some basal thermometers read to the nearest 1/10th °F (97.6 °F, for example) while others measure to the nearest 1/100th °F (like 97.68 °F). So...which should you use?
 
@@ -33,7 +33,7 @@ If you&rsquo;re a Fahrenheit charter, I recommend charting to the 1/10th degree 
 
 If your thermometer happens to measure in increments of 0.01 °F but you don&rsquo;t want to waste your time with unnecessary digits, simply drop the last digit from your temperature reading (97.76 °F becomes 97.7 °F, for example). You can round if you prefer&mdash;97.76 °F rounds up to 97.8 °F and 97.74 °F rounds down to 97.7 °F&mdash;but it isn&rsquo;t necessary.
 
-###Can I use a fever thermometer?###
+### Can I use a fever thermometer? ###
 
 What&rsquo;s the difference between a basal thermometer and a regular old fever thermometer, anyway? Not a whole lot, as it turns out. Many fever thermometers are accurate to the 1/10th degree Fahrenheit, making them perfect for measuring your basal body temperature. 
 

@@ -21,11 +21,11 @@ It&rsquo;s not until they&rsquo;re actually *trying* to get pregnant that many w
 
 While there are many subtle physiological mechanisms that ultimately lead to a pregnancy, there is one (aside from actually ovulating) that is by far the most important: the production of an awesome substance called cervical fluid. There are several reasons why cervical fluid is incredibly vital to getting pregnant (or avoiding it).
 
-###Semen is Alkaline###
+### Semen is alkaline. ###
 
 The makeup of seminal fluid serves a very specific and important purpose in reproduction: ensuring sperm stay alive long enough to fertilize an egg. The pH of seminal fluid ranges anywhere from about 7.2&ndash;8.0, making it alkaline.
 
-###The Vagina is Acidic###
+### The vagina is acidic. ###
 
 The natural pH of the vagina is in the ballpark of 3.8&ndash;4.0, making it relatively acidic. **Acidic vagina + alkaline semen = dead sperm!** But, seriously...sperm die extremely quickly when exposed to the acidity of the vagina. If that&rsquo;s the case, then *why on earth* is the vagina so acidic?!
 
@@ -33,13 +33,13 @@ Acidic environments hinder the growth of harmful bacteria, which is why compound
 
 {% include app-download-prompt.html %}
 
-###Cervical Fluid Helps Sperm Stay Alive###
+### Cervical fluid helps sperm stay alive. ###
 
 <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-cervical-fluid">Cervical fluid</a>&mdash;which is secreted by the cervix in response to estrogen that&rsquo;s produced by maturing egg follicles&mdash;helps to bridge this pH gap so that sperm can reach the egg. As egg follicles mature and prepare for ovulation, <a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/">cervical fluid becomes increasingly wet and slippery</a>, and its pH rises. 
 
 The pH of cervical fluid in the days just before ovulation creates a sperm-friendly environment, protecting them from the low, hostile pH of the vagina. It also helps to weed out any bad or malformed sperm.
 
-###How Cervical Fluid Helps You Get Pregnant (Or Not)###
+### Cervical fluid helps you get pregnant (or not). ###
 
 Since slippery cervical fluid is only produced during certain parts of the menstrual cycle, sperm have a limited opportunity to fertilize an egg. This means if you&rsquo;re trying to get pregnant, paying attention to your cervical fluid pattern will help you figure out the best days to get busy! Even if you never notice wet, slippery cervical fluid&mdash;which is the case for some women&mdash;timing sex for the days when your cervical fluid is the *most* wet will improve your chances of conceiving.
 

@@ -13,7 +13,7 @@ Not so fast! I'm here to tell you that your reproductive health has a lot more b
 
 Here are just a few of the many reasons why:
 
-##1. Reproductive health is linked to digestive health
+## 1. Reproductive health is linked to digestive health. ##
 
 You've probably heard of irritable bowel syndrome (IBS). If you haven't, the name describes it pretty well: it's a gastrointestinal disorder marked by pain, cramps, bloating, gas, food intolerance, and abnormal bowel movements. What you may not know is that <a class="text-link" target="_blank" href="http://www.aboutibs.org/site/what-is-ibs/facts/statistics">10-15% of the Western population is afflicted with IBS</a>. What does this have to do with reproductive health, you might ask?
 
@@ -21,7 +21,7 @@ As it turns out, studies show that the severity of symptoms experienced by women
 
 So minor changes that occur in your body throughout your menstrual cycle can help raise a red flag when something isn't quite right.
 
-##2. Reproductive health is linked to sleep
+## 2. Reproductive health is linked to sleep. ##
 
 Ever heard of the hormone called melatonin? If you've ever had issues with insomnia, you probably have. Melatonin is produced by the pea-sized pineal gland in your brain, and it's responsible for regulating your body's circadian rhythms...things like sleep, metabolism, and carcinogenesis (the formation of cancer).
 
@@ -35,7 +35,7 @@ Researchers decided to try something: they gave melatonin treatments to women wi
 
 My point: if you don't have proper levels of melatonin in your body, your reproductive system will likely show signs. Since melatonin also helps regulate sleep, metabolism, and your body's ability to prevent cancer, inadequate levels can throw these out of balance, as well.
 
-##3. Reproductive health is linked to stress
+## 3. Reproductive health is linked to stress. ##
 
 Stress in your life can affect your reproductive health in many ways. Not only can it <a class="text-link" target="_blank" href="http://www.livescience.com/41329-why-is-my-period-late.html">delay ovulation</a>, but it can also stop it altogether.
 
@@ -45,7 +45,7 @@ Interestingly, women with this type of amenorrhea have been found to have elevat
 
 The takeaway? Stress can majorly mess with your reproductive health!
 
-##4. Reproductive health is linked to your immune system
+## 4. Reproductive health is linked to your immune system. ##
 
 Autoimmune disorders (such as lupus and multiple sclerosis) are on the rise, with the NIH estimating more than 23.5 million cases in the United States alone. And a whopping <a class="text-link" target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328995/">78% of those cases are in women</a>. But why?
 
@@ -55,7 +55,7 @@ Scientists aren't exactly sure why autoimmune disorders are more common in women
 
 So if your hormone levels are off, it can affect your body's ability to fight disease and even your likelihood of developing autoimmunity.
 
-##So, what does it all mean?
+## So, what does it all mean? ##
 
 How much time does your doctor spend with you at your annual pelvic exam? 5 minutes? 10 minutes? 15 minutes? A single trip to your gynecologist once a year simply isn't enough to maintain good reproductive health, especially when so many systems in your body are linked to your reproductive system! 
 
@@ -66,7 +66,7 @@ Hopefully it's obvious by now that reproductive and hormone health are intricate
 If you truly want good reproductive health, listen to and work with your body!
 
 
-###<a name="references">References</a>
+### <a name="references">References</a> ###
 
 1. Evidence for exacerbation of irritable bowel syndrome during menses. Whitehead WE, Cheskin LJ, Heller BR, Robinson JC, Crowell MD, Benjamin C, Schuster MM. *Gastroenterology*. 1990 Jun;98(6):1485–9.
 

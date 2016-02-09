@@ -13,7 +13,7 @@ Got acne? Menstrual cramps? Heavy flow? Irregularity? Mood swings? Anxiety? A ha
 
 More and more, we're seeing women ditch the pill and other hormonal methods. But why?
 
-##The Rise of Natural and Organic Products
+## The Rise of Natural and Organic Products ##
 
 Most of us have probably done it: you're at the grocery store reaching for some produce and notice that its organic equivalent costs just a few cents more. So you think “Why not?” and go with the organic option.
 
@@ -21,7 +21,7 @@ For organic farmers and manufacturers, business is booming. In 2012, 81% of Amer
 
 People are starting to realize that what we put into (and onto) our bodies actually matters, and in my (oh so humble) opinion, opting for non-hormonal birth control is a natural progression of this trend. 
 
-##Dissatisfaction with hormonal contraception
+## Dissatisfaction with hormonal contraception ##
 
 Many of us have experienced some sort of unpleasant side effect from hormonal birth control...I know I have! My negative experience with the pill's side effects is what led me to stop taking it, and, according to science, I'm definitely not alone.
 
@@ -31,7 +31,7 @@ And if you follow the news, you've probably noticed that serious adverse reactio
 
 So if you're thinking about stopping because you're experiencing unpleasant side effects, you're definitely not the only one. The fact that Groove exists should be proof enough.
 
-##Opting for Natural Methods
+## Opting for Natural Methods ##
 
 As more and more of us ditch the hormones&mdahs;whether it's to watch your health or to get rid of side effects&mdash;we're turning to natural methods. One such method is the sympto-thermal method of fertility awareness. That may be a mouthful, but as far as pregnancy prevention, it's <a class="text-link" target="_blank" href="http://humrep.oxfordjournals.org/content/22/5/1310.long">crazy effective</a>! We're talking 99.6 percent here. (You can <a class="text-link" target="_blank" href="http://www.readytogroove.com/blog/2015/01/16/the-sympto-thermal-method-of-fertility-awareness-an-overview/">read more about that here</a>.)
 
@@ -39,7 +39,7 @@ Even though natural methods are still used by a very small percent of the popula
 
 In addition to natural methods like the sympto-thermal method, women are also increasingly <a class="text-link" target="_blank" href="http://america.aljazeera.com/articles/2014/4/1/contraception-birthcontrolfertilitypill.html">turning to condoms and withdrawal</a> for protection. This just goes to show that the mass exodus from hormonal birth control isn't just a trend that will fizzle. It's here to stay.
 
-##Stopping the pill is personal
+## Stopping the pill is personal ##
 
 Deciding to stop the pill can be a difficult, deeply personal decision, and I will never claim to know the best method for any individual...only *you* can possibly know that. But what I will say is that is trends are clear: women are ditching the pill in droves and turning to natural alternatives.
 
@@ -47,7 +47,7 @@ TRUST ME when I say that I know exactly how it feels to be absolutely terrified 
 
 Just know that whether you're still toying with the idea of stopping your hormonal birth control, or whether you've vowed never to ingest, inject, or insert one into your body ever again, you are not alone. I repeat: YOU ARE NOT ALONE.
 
-###<a name="references">References</a>
+### <a name="references">References</a> ###
 
 1. Oral Contraceptive Discontinuation: Do Side Effects matter? Westhoff et. al. Am J Obstet Gynecol. 2007 Apr; 196(4): 412.e1–412.e7. 
 

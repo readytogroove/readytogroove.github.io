@@ -17,7 +17,7 @@ Another thing I absolutely must bring up, even though I'm confident that you're 
 Ladies and gents, without further ado, I present the rules of STM.
 
 
-###1. First Five Days Rule
+## 1. First Five Days Rule ##
 
 
 __You are considered _infertile_ during the first five days of a new cycle, but _only_ if you experienced a spike in basal body temperature 12 to 16 days prior to menstruation.__ Since some people experience mid-cycle spotting or bleeding, it's very important to assume infertility only the first five days of an actual menstrual period, which occurs 12 to 16 days _after_ a rise in <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-bbt">basal body temperature</a> (BBT). If menstruation lasts for more than five days, you are potentially fertile due to the possibility of menstrual fluid masking <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-cervical-fluid">fertile cervical fluid</a>, especially for those who tend to ovulate early. Since you must have experienced a temperature shift (indicating ovulation) prior to menstruation, it's important to wait until at least one full cycle has been charted before relying on this rule.
@@ -27,7 +27,7 @@ __If you have experienced _any_ cycles that are less than 25 days in length, if 
 >_Although rare, it is possible to get pregnant during menstruation. A previous physician of mine swears she got pregnant on the last day of her period. After she admitted she was using the rhythm method at the time, I knew this was due to one of several things (aside from the fact that she was using the rhythm method). Perhaps she ovulated very early during the cycle in question and didn't take previously short cycles into consideration; cervical fluid can easily be masked by menstrual fluid. Or maybe she was experiencing heavy mid-cycle spotting that she mistook for menstruation; mid-cycle spotting is often thought to occur on your most fertile day(s). It is also possible that she didn't ovulate during her previous cycle; if this was the case, she could have had fertile cervical fluid while experiencing withdrawal bleeding (which is not a true menstrual period). She was married at the time, and this surprise pregnancy happily ended in the birth of one of her two lovely daughters. But had she been practicing the sympto-thermal method instead of the outdated, unscientific rhythm method, she could have avoided this unplanned pregnancy!_
 
 
-###2. Dry Day Rule
+## 2. Dry Day Rule ##
 
 
 I discussed <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-cervical-fluid">cervical fluid patterns</a> in another section, and I mentioned that there is typically no fluid on the days following menstruation. However, there are exceptions that I will discuss below. A lack of cervical fluid means sperm cannot survive for more than a few hours in the body (the vagina is too acidic). Because of this, during the time between menstruation and ovulation, __you are considered infertile the evening of every day you experiences a dry&mdash;or fluid-less&mdash;day.__ As soon as you notice cervical fluid&mdash;whether it is sticky, creamy, egg white, or watery&mdash;sperm are now able to survive in your body and your fertile window is officially open!
@@ -39,7 +39,7 @@ Some people may find that they _always_ see cervical fluid. It may be sticky day
 Semen, lubricants, and spermicides can all mask cervical fluid. If any of these are present in the vagina during "dry" days, it's important for them to be expelled so they don't mask potentially fertile fluid on the following day. An easy way to expel these substances is to perform kegels&mdash;which is the repeated contraction and relaxation of the pelvic floor muscles. A great way to practice is to start and stop your urine stream in the middle of using the bathroom...that's a kegel! __If semen, lubricant, or spermicide is not expelled from the vagina after intercourse, then unprotected intercourse is not safe on the following day since each one has the potential to mask fertile cervical fluid.__ To be more conservative, some people do not consider themselves safe the day after semen, lubricant, or spermicide presence, even if it is a dry day.
 
 
-###2a. Doering Rule
+### 2a. Doering Rule ###
 
 
 The "Doering Rule" that I'm about to discuss is a conservative addition to the "Dry Day Rule" for those who may want a little extra protection. I'd like to note that adding the Doering Rule is not necessary to properly practice STM; it's all a matter of personal preference. Practicing this rule in addition to the others will make STM more effective, but it will typically lead to a longer window of abstinence or barrier backup use. If this rule is added, _it is used in addition to the Dry Day Rule._ Because the use of the Doering Rule adds a calendar-based rule to the sympto-thermal method, at least 12 cycles of charts are required before it is used. The Doering Rule states that __your fertile window begins seven days before the earliest cycle day on which a temperature shift has occurred over the past 12 cycles.__ However, if cervical fluid is seen before this "Doering day," the fertile window is open. Presence of cervical fluid before the "Doering day" _always_ overrides the Doering Rule.
@@ -49,13 +49,13 @@ For example, if the earliest temperature shift that Mary has experienced during 
 It's imperative that the Doering Rule is _only_ practiced if at least twelve cycles of BBT data are available, because it is possible to ovulate on cycle day 20 during one cycle and cycle day 12 the very next cycle. Since the day of ovulation will likely change from cycle to cycle, the "Doering day" must be recalculated each cycle to include the most recent cycle.
 
 
-###3. Peak Day Rule
+## 3. Peak Day Rule ##
 
 
 The last day of slippery, fertile quality cervical fluid is considered the peak day. Because the peak day is the _last day_ of slippery fluid, you won't be able to identify your peak day until the following day. Some individuals may never experience slippery, fertile quality fluid. For these people, the peak day is the last day of the most fertile type of fluid observed, even if it is not slippery, watery, or egg white. The peak day may occur a few days before ovulation, and is generally the most fertile day of the menstrual cycle. __On the evening of the fourth day after your peak day, you are considered infertile for the remainder of your cycle.__ This rule *must* be double-checked with the "Temperature Shift Rule" below, as stated in the "Double-Check Rule" I will discuss shortly. We'll discuss <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">how to identify your peak day</a> in an upcoming section.
 
 
-###4. Temperature Shift Rule
+## 4. Temperature Shift Rule ##
 
 
 A sudden shift in basal body temperature occurs the day your BBT is at least 0.2 °F (or 0.1 ºC) higher than the _highest_ temperature you recorded during the previous six days. That means that if you looks back at your BBT for the past six days (not including today), and the highest temperature that occurred in that group is at least 0.2 °F (or 0.1 ºC) lower than today's temperature, you can assume today is the day of your temperature shift. Many people do not experience this "sudden" shift, but I will discuss that more below.
@@ -77,7 +77,7 @@ Not everyone will experience a sudden temperature shift after ovulation. Some wi
 {% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-slow-rise-temperature-shift-confirm-ovulation-chart.jpg" description="This individual experienced a slow-rise temperature shift. Their thermal shift occurred on cycle day 16, since it was at least 0.1 ºF (or 0.05 ºC) higher than the previous six days. On cycle day 20, after four consecutive days of a BBT that is above the coverline, the Temperature Shift Rule is satisfied. When determining the start of the post-ovulatory infertile period, this person must also adhere to the Double-Check Rule explained below." %}
 
 
-###5. Double-Check Rule
+## 5. Double-Check Rule ##
 
 
 This last rule is somewhat redundant, but it *must* be followed in order to practice the sympto-thermal method correctly. It is possible that the fourth day after the peak day and the third day after the temperature shift will occur on the same day. However, this is not always the case. __You must wait until both the "Peak Day Rule" and the "Temperature Shift Rule" have been satisfied before you consider yourself infertile for the remainder of your current cycle__.
@@ -85,7 +85,7 @@ This last rule is somewhat redundant, but it *must* be followed in order to prac
 For example, the fourth day after Sonya's peak day is on a Tuesday and the third day after her temperature shift occurs the next day on Wednesday. In this case, Sonya can consider herself infertile on Wednesday evening after both rules are satisfied. 
 
 
-###Optional Cervical Position Check
+### Optional Cervical Position Check ###
 
 
 As we've learned, the position and hardness of the cervix changes with fluctuating estrogen and progesterone levels. Estrogen secretion before ovulation causes changes in both the cervix (including making it softer and more open) and the cervical fluid (causing it to become progressively clear, stretchy, and slippery). Progesterone secretion after ovulation causes these changes to reverse and produces a sustained rise in BBT. 
@@ -95,7 +95,7 @@ After ovulation, as sort of a "confirmation" that the infertile period has begun
 {% include app-download-prompt.html %}
 
 
-##Sympto-thermal Method Rules Summary
+## Sympto-thermal Method Rules Summary ##
 
 
 While that bigger, more educated brain of yours processes all of the information I just dumped on you, here is a breakdown of the rules you just learned. Remember, the "Doering Rule" (rule 2a) is optional, but all other rules *must* be followed to correctly practice STM.

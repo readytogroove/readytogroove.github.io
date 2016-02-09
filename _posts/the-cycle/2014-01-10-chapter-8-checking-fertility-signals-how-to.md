@@ -27,7 +27,7 @@ There are several guidelines to follow in order to get the most accurate daily B
 5. Be mindful of events that can skew temperature readings (like alcohol use, illness, and lack of sleep, among others)
 
 
-###1. Use a thermometer that measures in 0.1 °F (0.05 °C) increments or smaller
+### 1. Use a thermometer that measures in 0.1 °F (0.05 °C) increments or smaller. ###
 
 
 It's imperative to get a precise temperature reading when measuring BBT because the changes that occur are subtle, yet distinct. This means the thermometer that is used is of the utmost importance. Many Fahrenheit fever thermometers you'll find in drug stores measure in 0.2 °F increments, which isn't sensitive enough for the purposes of practicing STM.
@@ -37,7 +37,7 @@ Using a basal thermometer is often the best bet, since they are usually _more_ p
 Basal thermometers that record Celsius may be accurate to the 1/100th degree (or 0.01 ºC), so for those using Celsius, round temperatures to the nearest 0.05 ºC if you're charting on paper (most pre-made Celsius charts have a y-axis that increases in increments of 0.05 ºC). For example, a Celsius BBT reading of 36.62 ºC would be rounded down to 36.60 ºC, and a reading of 36.73 ºC would be rounded up to 36.75 ºC.
 
 
-###2. Measure BBT at about the same time everyday, first thing upon waking
+### 2. Measure BBT at about the same time everyday, first thing upon waking. ###
 
 
 Basal body temperature is the core temperature of the body _at rest_. During the day, our core temperature fluctuates from physical activities as minor as walking around, so taking BBT first thing upon waking helps to eliminate these natural temperature variations. And when I say first thing in the morning, I mean _first thing in the morning_! Even just getting up to use the bathroom or sitting up in bed is enough to skew temperatures for some folks. There are several times that I've jumped out of bed and high-tailed it to the bathroom, only to realize mid-pee that I hadn't taken my temperature! I took it as soon as I got back in bed without much harm done, but not everyone will be so lucky.
@@ -45,7 +45,7 @@ Basal body temperature is the core temperature of the body _at rest_. During the
 For those worried about taking it around the same time everyday, it may be helpful to do what I do: my dedicated BBT alarm goes off at 5 a.m. everyday, and after taking and recording my temperature, I happily go back to sleep until it's time to start the day.
 
 
-###3. Get at least three consecutive hours of sleep
+### 3. Get at least three consecutive hours of sleep. ###
 
 
 Since BBT is the body's resting temperature, taking it after at least three hours of uninterrupted sleep will make for the most accurate result. Many people, like me, frequently wake up at night for one reason or another. There's no harm in BBT being measured early as long as it occurs after about three consecutive hours of sleep. For those who have young children or frequently travel to different time zones, this may prove to be more difficult. However, some lucky ladies may find that they aren't as sensitive and that the time of measurement doesn't make a difference. The only advice I can offer to people in these unique circumstances is to do your best with what you've got! This might be easier said than done for many; the big takeaway is to be as consistent as possible and _never_ take risks.
@@ -55,13 +55,13 @@ Since BBT is the body's resting temperature, taking it after at least three hour
 Minor fluctuations in BBT are expected, but it's the _pattern_ that we're interested in. Once you becomes familiar with your unique cycle, handling small BBT variations will become second-nature.
 
 
-###4. Be consistent taking temperature either orally or vaginally
+### 4. Be consistent taking temperature either orally or vaginally. ###
 
 
 The most accurate ways for you to measure your core body temperature are orally, vaginally, and rectally. Oral and vaginal temping will do just fine, since I'm pretty sure most of us aren't terribly excited about the thought of taking our temperature in the bum. Taking BBT vaginally is often a better representation of your _true_ core temperature, especially for those who sleep with their mouths gaping open, but taking it orally works perfectly well for most people. Switching between oral and vaginal temping in the middle of a cycle may skew BBT readings, so it's not recommended. However, switching from vaginal to oral temping _in between_ cycles is okay.
 
 
-<h3><a class="notes" name="events-that-can-skew-bbt">5. Be mindful of events that can skew temperature readings</a></h3>
+<h3><a class="notes" name="events-that-can-skew-bbt">5. Be mindful of events that can skew temperature readings.</a></h3>
 
 
 Decreased sleep quality tends to artificially increase BBT. The biggest offenders of this are illness (fever, flu, cold, etc.), lack of sleep or frequent waking, and alcohol consumption the previous night. 

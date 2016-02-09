@@ -11,13 +11,13 @@ Stopping the pill was a tough decision for me. My doctor put me on it when I was
 
 I was finally able to let go of my fears after reading extensively (seriously, for MONTHS) about <a class="text-link" href="http://www.readytogroove.com/blog/2015/01/16/the-sympto-thermal-method-of-fertility-awareness-an-overview/">the sympto-thermal method of fertility awareness</a>. Being scared and anxious about stopping the pill (or any other hormonal contraceptive) is a total buzzkill...trust me. It&rsquo;s also not a feeling that is unique to my own experience. To show you just how NOT alone you are, I asked some folks who have been in the very same boat to share their experiences. Here&rsquo;s what they said:
 
-##Were you hesitant about stopping the pill?
+## Were you hesitant about stopping the pill? ##
 
 **Suzanne:** I quit the birth control pill after a mild health scare that I thought was caused by the pill. It was a massive decision since I had been on the pill for 15+ years. I wasn't interested in any other hormonal methods, nor inserting a piece of metal in my uterus, so condoms were my default choice. But I had had bad experiences with condoms in the past (with splits, etc) so I was staring at a very scary time ahead. I only found out about [the sympto-thermal method] a month later after researching how to help my body come off the pill.
 
 **Tyler:** Yes! I overcame my fears by looking for natural alternatives, such as the diaphragm and condoms. I was talking to a friend who was trying to get pregnant about my frustrations, and she told me you could also use the method she was using to avoid pregnancy, so I started looking it up.
 
-##How has your life improved since you stopped?
+## How has your life improved since you stopped? ##
 
 **Sarah:** It is difficult to describe, but I feel cleaner. My body is my body and I understand it so much better (and I understand it probably 1%!). I have a lot more respect for it and wonder at the amazing things it can do and how much it tells you.
 

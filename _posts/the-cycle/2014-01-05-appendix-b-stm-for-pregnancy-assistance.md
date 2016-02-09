@@ -21,7 +21,7 @@ A couple sample pregnancy charts are shown below.
 {% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-confirm-pregnancy-chart-2.jpg" description="This person experienced a sudden temperature shift on cycle day 18. On cycle day 23, the temperature fell to the coverline, which can happen from time to time during the luteal phase. This individual also experienced a triphasic pattern, since their BBT rose for a second time on cycle day 32. After 18 days of an elevated temperature, they can safely assume that they are pregnant." %}
 
 
-##Miscarriage
+## Miscarriage ##
 
 
 Unfortunately, a pregnancy resulting in a miscarriage is sometimes a fact of life. It's never an easy situation to encounter, especially when that pregnancy is wanted. Although I so hope that anyone reading this book never suffers through such an event, it is good to understand the warning signs. If a pregnancy has been confirmed (or indirectly confirmed by 18 days of an elevated post-ovulatory BBT) and BBT begins to fall after that point, it may be an indication of an impending miscarriage [<a class="text-link" href="/the-cycle/notes/#note63">63</a>]. See the sample chart on the next page.

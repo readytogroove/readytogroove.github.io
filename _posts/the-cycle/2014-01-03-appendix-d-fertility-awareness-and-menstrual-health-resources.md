@@ -11,7 +11,7 @@ excerpt: "The following is a list of amazing people who are happy to provide you
 The following is a list of amazing people who are happy to provide you with more information about fertility awareness methods (FAMs), the sympto-thermal method (STM), hormones, the menstrual cycle, and many other health-related topics! If you are planning to use STM to avoid pregnancy, if you recently ceased (or are planning to cease) the use of hormonal contraceptives, if you'd like help making the transition to STM, or if you feel as though you need a bit of a menstrual boost, get in touch with one of these incredible folks. What I'm trying to say is, these people are awesome and I'm confident they will fulfill all of your menstrual needs!
 
 
-###Hannah Ransom, Certified Fertility Awareness Educator
+### Hannah Ransom, Certified Fertility Awareness Educator ###
 
 _Hannah is the founder of Holistic Hormonal Health. She focuses on helping women figure out their cycles to make fertility awareness a sustainable practice in their lives._ 
 
@@ -20,7 +20,7 @@ _Hannah is the founder of Holistic Hormonal Health. She focuses on helping women
 <a class="text-link" target="_blank" href="http://www.holistichormonalhealth.com">holistichormonalhealth.com</a>
 
 
-###Ashley Annis, Certified Fertility Awareness Educator
+### Ashley Annis, Certified Fertility Awareness Educator ###
 
 _Ashley offers several different class options for learning how to chart the menstrual cycle in order to prevent or achieve pregnancy.  She is also currently a student at the University of Wisconsin, Madison studying women and gender studies and plans to integrate LGBTQ+ health into her FAM classes in the future._ 
 
@@ -29,7 +29,7 @@ _Ashley offers several different class options for learning how to chart the men
 <a class="text-link" target="_blank" href="http://www.ashleyhartmanannis.wix.com/hooray">ashleyhartmanannis.wix.com/hooray</a>
 
 
-###Anna Churchill, Certified Fertility Awareness Educator
+### Anna Churchill, Certified Fertility Awareness Educator ###
 
 _Anna offers classes and private chart reviews to help women gain a deeper understanding of their health and fertility._
 
@@ -38,14 +38,14 @@ _Anna offers classes and private chart reviews to help women gain a deeper under
 <a class="text-link" target="_blank" href="http://www.acfertilityawareness.com">acfertilityawareness.com</a>
 
 
-###Colleen Flowers, Justisse HRHP and Certified Fertility Awareness Educator
+### Colleen Flowers, Justisse HRHP and Certified Fertility Awareness Educator ###
 
 _Colleen loves teaching women and girls about their bodies! She can help you confidently and effectively avoid pregnancy, or maximize your chances of conceiving, or better understand your body and reproductive health. Whether you use alternative and holistic therapies or prefer Western and mainstream medicine, Colleen wants you to feel educated, encouraged and empowered because there is no right way or wrong way... only the best way for you!_ 
 
 <a class="text-link" target="_blank" href="http://www.FlowersFertility.com">flowersfertility.com</a>
 
 
-###Amy Sedgwick, HRHP, Co-Founder, Red Tent Sisters &amp; Ecosex.ca
+### Amy Sedgwick, HRHP, Co-Founder, Red Tent Sisters &amp; Ecosex.ca ###
 
 _Red Tent Sisters specializes in helping women return to healthy reproductive function following discontinuation of hormonal birth control, with a special emphasis on leveraging the healing benefits of holistic nutrition. Providing e-classes to women around the world, Red Tent Sisters teaches the Justisse Method of Fertility Management in a unique format that integrates group, private and online support at an accessible price._
 
@@ -54,7 +54,7 @@ _Red Tent Sisters specializes in helping women return to healthy reproductive fu
 <a class="text-link" target="_blank" href="http://www.redtentsisters.com">redtentsisters.com</a>
 
 
-###Krystina Friedlander, Fertility Awareness Coach and Professional Childbirth Doula
+### Krystina Friedlander, Fertility Awareness Coach and Professional Childbirth Doula ###
 
 _Krystina is committed to supporting women as they make empowered decisions for their health and well-being, working together to sweep away myths and misconceptions like the cobwebs they are. Combining Fertility Awareness and a holistic approach to women's health, she is is passionate about body literacy and culturally-sensitive care._
 
@@ -63,7 +63,7 @@ _Krystina is committed to supporting women as they make empowered decisions for 
 <a class="text-link" target="_blank" href="http://www.barakabirth.com">barakabirth.com</a>
 
 
-###Nicole Jardim, Certified Women's Health Coach
+### Nicole Jardim, Certified Women's Health Coach ###
 
 _Nicole is a Women's Health Coach and Chief Period Fixer-Upper at The Healthy Elements, the business she founded in 2010 to help women reclaim their hormonal health and feminine vitality naturally. She is the creator of Fix Your Period, a series of programs that empower women to heal their menstrual conditions in a fun and sassy way._ 
 
@@ -72,7 +72,7 @@ _Nicole is a Women's Health Coach and Chief Period Fixer-Upper at The Healthy El
 <a class="text-link" target="_blank" href="http://www.thehealthyelements.com">thehealthyelements.com</a>
 
 
-###Franchesca Duval, Billings Method Educator
+### Franchesca Duval, Billings Method Educator ###
 
 _Blue Lotus Holistic Fertility and Contraception was born out of a desire to empower women with real knowledge of their bodies. Franchesca is dedicated to educating during all life transitions be it menarche, birth, or menopause._ 
 

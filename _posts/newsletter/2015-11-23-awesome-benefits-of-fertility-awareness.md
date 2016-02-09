@@ -25,7 +25,7 @@ If any of these things apply to you, fertility awareness (specifically, the symp
 
 If you fall into any of the above categories, you&rsquo;re definitely not in the minority (I used to be right there with you!). If you struggle with any of these things, it&rsquo;s likely your body&rsquo;s way of telling you that something isn&rsquo;t quite right. The cause could be a hormone imbalance, food sensitivities, adrenal fatigue (caused by chronic stress), or even an imbalance in your gut bacteria. Regardless of the root cause, fertility awareness can help.
 
-###But how?
+### But how? ###
 
 Let&rsquo;s revisit the Google Analytics analogy that I mentioned in the previous email (for those who forgot: fertility awareness is like Google Analytics for your vagina). Google Analytics provides data that can be used to improve your website&rsquo;s performance and user engagement (to name a few), leading to greater success. You can think of fertility awareness in the same way: the menstrual cycle data you gather each day provides insights that help you make changes in your life that will improve the health of your body. 
 
