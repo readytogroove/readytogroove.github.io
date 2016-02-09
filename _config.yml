@@ -4,4 +4,5 @@ description: "Smarter fertility. A better you."
 url: "http://www.readytogroove.com"
 
 encoding: "utf-8"
+markdown: kramdown
 permalink: pretty

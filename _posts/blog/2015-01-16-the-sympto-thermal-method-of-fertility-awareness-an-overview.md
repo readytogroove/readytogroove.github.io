@@ -11,7 +11,7 @@ excerpt: "When I think about what the sympto-thermal method (STM) is, I&rsquo;m 
 
 I know, I know, &ldquo;sympto-thermal method of fertility awareness&rdquo; is quite the mouthful. The long name alone might be enough to make you want to turn around and run, but read on! In this post, I&rsquo;ll provide a brief overview of what the sympto-thermal method is, some of its benefits, and what sorts of folks can benefit from learning it (HINT: probably you!).
 
-###Sympto-what?
+###Sympto-what?###
 
 When I think about what the sympto-thermal method (STM) is, I&rsquo;m reminded of the classic quote: &ldquo;It&rsquo;s a bird! It&rsquo;s a plane! No, it&rsquo;s Superman!&rdquo; Not because STM is often mistaken for flying objects, but because it can mask as *so* many amazing things. Before I get into listing out all those things, here&rsquo;s an overview:
 
@@ -20,7 +20,7 @@ When I think about what the sympto-thermal method (STM) is, I&rsquo;m reminded o
 More specifically, STM is the *application* of this information in order to achieve health and family planning goals.
 
 
-###Benefits of STM:
+###Benefits of STM:###
 
 I mentioned that STM is a lot of things...so, what are those things? 
 
@@ -32,7 +32,7 @@ I mentioned that STM is a lot of things...so, what are those things?
 
 4. If you&rsquo;re interested in <a class="text-link" href="/blog/2014/12/12/avoiding-the-dreaded-period-sneak-attack-the-secret-to-accurate-period-predictions/">*ridiculously* accurate period predictions</a> (I know I am!), practicing STM can help you predict your next period...in many cases right down to the day! Talk about period preparedness.
 
-###Who can use it?
+###Who can use it?###
 
 More than likely, you can find benefits of practicing and/or learning about STM regardless of your family planning goals, relationship status, sexual orientation, or gender identity. All you *really* need is functioning ovaries. Even having a hysterectomy doesn&rsquo;t rule you out since your ovaries will still be producing hormones!
 
