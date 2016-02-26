@@ -428,7 +428,7 @@ input[type=text], input[type=email] {
   /*static header*/
   position: fixed; 
   z-index: 999;
-  padding: 12px 10%;
+  padding: 9px 10%;
   width: 80%;
 }
 
