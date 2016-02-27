@@ -7,11 +7,11 @@ permalink: /newsletter/get-pregnant/use-data-to-get-pregnant-faster/
 img: newsletter/mother-and-son.jpg
 ---
 
-I have a confession: I&rsquo;m a HUGE data junkie. I absolutely love gathering data about my body and being able to benefit from it. Even though I&rsquo;ve never personally been pregnant, I&rsquo;m glad that if/when that time comes, I&rsquo;ll have the know-how to collect the data I need to maximize my chances. And I have <a class="text-link" href="http://www.readytogroove.com/blog/2015/01/16/the-sympto-thermal-method-of-fertility-awareness-an-overview/">the sympto-thermal method</a> to thank for that.
+I have a confession: I&rsquo;m a HUGE data junkie. I absolutely love gathering data about my body and being able to benefit from it. Even though I&rsquo;ve never personally been pregnant, I&rsquo;m glad that if/when that time comes, I&rsquo;ll have the know-how to collect the data I need to maximize my chances. And I have the sympto-thermal method to thank for that.
 
 As the CEO of a company that helps teach women when they&rsquo;re fertile, I&rsquo;ve talked to TONS of people who have struggled to conceive. And the ones who tracked their fertility using the sympto-thermal method all said the same thing: it helped make the process less stressful and made them feel in control. It&rsquo;s easy for things to feel out of your control when something isn&rsquo;t quite going the way you&rsquo;d hoped, so being able to feel in control is a BIG deal.
 
-Groove has helped countless women get pregnant, and I get so much joy from hearing their stories. Knowing that our hard work has made a difference in someone&rsquo;s life is honestly the best feeling in the world. So just how does the sympto-thermal method help you get pregnant? DATA. 
+Groove has helped countless women get pregnant, and I get so much joy from hearing their stories. Knowing that our hard work has made a difference in someone&rsquo;s life is honestly the best feeling in the world. So just how does <a class="text-link" href="http://www.readytogroove.com/blog/2015/01/16/the-sympto-thermal-method-of-fertility-awareness-an-overview/">the sympto-thermal method</a> help you get pregnant? DATA. 
 
 ## Data tells you when you&rsquo;re most fertile. ##
 
