@@ -29,6 +29,8 @@ You can easily calculate your luteal phase length by measuring your basal body t
 
 Your luteal phase needs to be long enough for a fertilized embryo to implant and properly establish itself in your uterine lining. So if your luteal phase is 11 days or shorter, there may not be enough time for that to happen. Knowing your luteal phase length will help you rule out issues with implantation and early-stage miscarriage.
 
+{% include period-reset-plug.html %}
+
 ### 3. Learn your basal body temperature range. ###
 
 Similar to the way that a high body temperature is often a symptom of a cold or the flu, a consistently low basal body temperature may be a sign that your body&rsquo;s endocrine system isn&rsquo;t functioning properly. 

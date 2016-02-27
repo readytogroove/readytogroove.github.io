@@ -18,6 +18,8 @@ Cervical fluid is definitely the most important fertility sign, as it allows for
 
 I mentioned earlier that the length of the fertile window will be different for everyone, and the same can be said for cervical fluid patterns. A different body means different hormone fluctuations and, therefore, different fertility patterns! For the sake of simplicity, I will use a 28-day cycle to explain what changes occur. However, this model will serve only as a _guide_ (even for those who do have a 28-day cycle), since you will likely find that your individual pattern is different than the one I'm about to discuss. 
 
+{% include period-reset-plug.html %}
+
 ### Example Cervical Fluid Pattern ###
 
 So let's make a completely ridiculous statement and say that every human female has a 28-day menstrual cycle and ovulates exactly on cycle day 14 (which by now we know just isn't true). Day one of the cycle is the first day of menstruation, which typically lasts about five days. On cycle day six, after menstruation has ended, the person in our example will not notice any cervical fluid. This is because estrogen production by the developing follicles is not yet significant enough to cause observable changes in cervical fluid. A slight dampness will still be present when you check your cervical fluid&mdash;just like when you touch the inside of your mouth. The vagina is a mucous membrane, after all! However, this dampness will evaporate from your fingers fairly quickly. This "dry" cervical fluid pattern will continue until about cycle day 9, when the developing follicles begin secreting enough estrogen to cause cervical fluid to develop fertile qualities. 

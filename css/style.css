@@ -275,7 +275,7 @@ blockquote {
     cursor: pointer;
   }
 
-.period-reset-button {
+/*.period-reset-button {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
   border-radius: 7px;
@@ -293,7 +293,7 @@ blockquote {
     background-color: #ffffff;
     color: #a7372a;
     cursor: pointer;
-  }
+  }*/
 
 .button-white {
   font-family: 'helvetica neue', helvetica, arial;
@@ -1210,10 +1210,19 @@ body.mobile-nav-open #mobile-nav {
   padding-bottom: 40px;
 }
 
-.app-download-button, .android-tester-button, .cf-masterclass-button {
+.period-reset-plug {
+  background-color: #a7372a;
+  padding: 25px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-bottom: 40px;
+}
+
+.app-download-button, .android-tester-button, .cf-masterclass-button, .period-reset-button {
   display: inline-block;
   font-family: 'helvetica neue', helvetica, arial;
-  font-size: 26px;
+  font-size: 20px;
   border-radius: 10px;
   text-decoration: none;
   padding: 22px 28px;
@@ -1221,6 +1230,11 @@ body.mobile-nav-open #mobile-nav {
   border: 2px solid white;
   color: white;
 }
+
+  .period-reset-button:hover {
+    background-color: white;
+    color: #a7372a;
+  }
 
   .app-download-button:hover, .android-tester-button:hover, .cf-masterclass-button:hover {
     background-color: white;

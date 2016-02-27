@@ -20,6 +20,8 @@ This is one of the most common myths I hear about the menstrual cycle. In an eff
 
 If variation in menstrual cycle length is totally normal, it makes perfect sense that the day of ovulation would vary from month to month, as well. This is precisely why some (but not all) natural methods of pregnancy prevention, like <a class="text-link" href="/blog/2014/06/23/standard-days-method-rhythm-method-sympto-thermal-method-whats-the-difference/">the rhythm method</a>, have such high failure rates. Things like stress, illness, diet, and heavy exercise can all delay ovulation. You might ovulate anywhere from nine to 20 days after your period, and there&rsquo;s no cause for alarm. Everyone&rsquo;s body is different.
 
+{% include period-reset-plug.html %}
+
 ### 3. You can&rsquo;t get pregnant during your period. ###
 
 This myth isn&rsquo;t quite as cut-and-dry as the previous two. While it&rsquo;s generally true that you can&rsquo;t get pregnant from unprotected sex that happens during your period, this is *only* the case if you can confirm that you are experiencing a true menstrual period. Confused? Stay with me. Not every type of bleeding is a true period, so you really have to know how to categorize your bleeding before assuming you can&rsquo;t get pregnant. You also have to consider the length of your period and the length of your overall cycles before assuming you&rsquo;re safe. My advice: you *really* shouldn&rsquo;t assume you can&rsquo;t get pregnant during your period unless you *know and practice* a method called the sympto-thermal method. You can <a class="text-link" href="/the-cycle/">read more about the sympto-thermal method</a> right here on our website.

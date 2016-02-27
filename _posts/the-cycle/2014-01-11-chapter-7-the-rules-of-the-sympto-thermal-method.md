@@ -26,6 +26,8 @@ __If you have experienced _any_ cycles that are less than 25 days in length, if 
 
 >_Although rare, it is possible to get pregnant during menstruation. A previous physician of mine swears she got pregnant on the last day of her period. After she admitted she was using the rhythm method at the time, I knew this was due to one of several things (aside from the fact that she was using the rhythm method). Perhaps she ovulated very early during the cycle in question and didn't take previously short cycles into consideration; cervical fluid can easily be masked by menstrual fluid. Or maybe she was experiencing heavy mid-cycle spotting that she mistook for menstruation; mid-cycle spotting is often thought to occur on your most fertile day(s). It is also possible that she didn't ovulate during her previous cycle; if this was the case, she could have had fertile cervical fluid while experiencing withdrawal bleeding (which is not a true menstrual period). She was married at the time, and this surprise pregnancy happily ended in the birth of one of her two lovely daughters. But had she been practicing the sympto-thermal method instead of the outdated, unscientific rhythm method, she could have avoided this unplanned pregnancy!_
 
+{% include period-reset-plug.html %}
+
 
 ## 2. Dry Day Rule ##
 

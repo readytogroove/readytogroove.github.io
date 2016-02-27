@@ -25,7 +25,7 @@ Recent research is also beginning to show <a class="text-link" target="_blank" h
 
 The most common symptoms of PCOS are menstrual disorders&mdash;in particular, experiencing long, irregular cycles and very heavy or long periods when they do occur. Because of the effect PCOS has on your cycles, it&rsquo;s a common cause of infertility (and difficulty conceiving) among women. PCOS can also result in excess hair growth (thanks to increased androgen levels), acne, and weight gain.
 
-{% include app-download-prompt.html %}
+{% include period-reset-plug.html %}
 
 ### Can it be &ldquo;cured&rdquo;? ### 
 
