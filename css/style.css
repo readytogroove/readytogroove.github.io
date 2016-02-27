@@ -1241,6 +1241,22 @@ body.mobile-nav-open #mobile-nav {
     color: #3FC2A5;
   }
 
+.carnelian-period-reset-button {
+  display: inline-block;
+  font-family: 'helvetica neue', helvetica, arial;
+  font-size: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 22px 28px;
+  background-color: transparent;
+  border: 2px solid #a7372a;
+  color: #a7372a;
+}
+
+  .carnelian-period-reset-button:hover {
+    background-color: #a7372a;
+  }
+
 /* Period Reset course */
 
 #period-reset {
