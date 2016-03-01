@@ -19,6 +19,8 @@ Polycystic ovary syndrome, commonly known as PCOS, is an endocrine disorder that
 
 {% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-polycystic-ovarian-syndrome-pcos-chart.jpg" description="People with PCOS typically experience very long cycles and erratic temperatures. This individual also experienced long phases of cervical fluid and several false peaks &ndash; or peak days that do not end in ovulation &ndash; which is common for those with PCOS. A noticeable BBT spike indicating ovulation was also not present. Using STM for pregnancy prevention in this case is beyond the scope of this book." %}
 
+{% include period-reset-plug.html %}
+
 
 ## Luteal Phase Defect ##
 

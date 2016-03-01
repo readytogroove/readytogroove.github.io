@@ -17,6 +17,8 @@ I was finally able to let go of my fears after reading extensively (seriously, f
 
 **Tyler:** Yes! I overcame my fears by looking for natural alternatives, such as the diaphragm and condoms. I was talking to a friend who was trying to get pregnant about my frustrations, and she told me you could also use the method she was using to avoid pregnancy, so I started looking it up.
 
+{% include period-reset-plug.html %}
+
 ## How has your life improved since you stopped? ##
 
 **Sarah:** It is difficult to describe, but I feel cleaner. My body is my body and I understand it so much better (and I understand it probably 1%!). I have a lot more respect for it and wonder at the amazing things it can do and how much it tells you.

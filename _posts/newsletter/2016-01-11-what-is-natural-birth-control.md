@@ -56,6 +56,8 @@ I touched on this just a second ago, but natural birth control is pretty awesome
 
 Tracking your body&rsquo;s data isn&rsquo;t just good for preventing pregnancy, it&rsquo;s also great for your health! The data you track when you use natural birth control is a measure of your hormone levels. That&rsquo;s super helpful because it means you can actually visualize whether your hormone levels are in a healthy state or if you have an imbalance that needs to be addressed. This means that natural birth control can help you prevent pregnancy AND improve the health of your periods and your body.
 
+{% include period-reset-plug.html %}
+
 ### 6. eco-friendly ###
 
 I admit it: I&rsquo;m a tree-hugger. I try to optimize my life in a multitude of ways to minimize my impact on the environment, and I love anything and everything sustainability. I make many of my health, beauty, and cleaning products at home; I try to reuse things like glass jars for storage; and I like to minimize my use of chemicals. Natural birth control has no waste, no chemicals, no packaging, and is incredibly earth-friendly. What better way to be eco-friendly?

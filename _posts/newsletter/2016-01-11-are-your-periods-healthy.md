@@ -43,7 +43,9 @@ Ideally, you want to ovulate 14 days after the first day of your period, but ovu
 
 Most of us assume that period pain is just a reality that women were cursed to endure. What we&rsquo;re NOT told about period pain is that it&rsquo;s almost always a sign of a problem. Whether that problem is endometriosis, polycystic ovary syndrome (PCOS), fibroids, or (for most people) a hormonal imbalance, period pain means that your body is trying to tell you there&rsquo;s a problem. 
 
-If painful periods is something you struggle with, you are totally not alone in that struggle. I endured years of <a class="text-link" target="_blank" href="http://www.mindbodygreen.com/0-22921/6-natural-ways-i-got-my-period-under-control-after-years-of-issues.html">agonizingly painful cramps</a> before I discovered that a hormone imbalance was at the root of the problem. Since then, I&rsquo;ve worked my buns off to heal my hormones and kick my period pain to the curb. All of my self-experimentation and research led me to create Groove&rsquo;s <a class="text-link" href="http://www.readytogroove.com/courses/period-reset/">Period Reset</a> program, the ultimate 30-day guide to getting your periods and your hormones back in balance.
+If painful periods is something you struggle with, you are totally not alone in that struggle. I endured years of <a class="text-link" target="_blank" href="http://www.mindbodygreen.com/0-22921/6-natural-ways-i-got-my-period-under-control-after-years-of-issues.html">agonizingly painful cramps</a> before I discovered that a hormone imbalance was at the root of the problem. Since then, I&rsquo;ve worked my buns off to heal my hormones and kick my period pain to the curb. All of my self-experimentation and research led me to create Groove&rsquo;s <a class="text-link" href="http://periodreset.readytogroove.com/">Period Reset</a> program, the ultimate 30-day guide to getting your periods and your hormones back in balance.
+
+{% include period-reset-plug.html %}
 
 ### 2. pre-period spotting ###
 

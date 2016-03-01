@@ -42,7 +42,7 @@ The corpus luteum secretes a large amount of progesterone following ovulation, a
 
 It is estimated that up to 10% of ovulatory cycles result in the release of multiple eggs [<a class="text-link" href="/the-cycle/notes/#note23">23</a>,<a class="text-link" href="/the-cycle/notes/#note24">24</a>]. However, if multiple ovulations occur, it is generally within a 24-hour period, before the corpus luteum forms and begins secreting estrogen and progesterone. 
 
-{% include app-download-prompt.html %}
+{% include period-reset-plug.html %}
 
 
 ## Hormones and the Menstrual Cycle Phases ##
@@ -72,6 +72,8 @@ The follicular phase is named for the rapid development of follicles. As I discu
 As development progresses, new cells form in the follicles that begin releasing estrogen. This estrogen causes the proliferative phase of the uterine cycle, in which the uterine lining begins to thicken. This estrogen also causes cervical fluid to develop "fertile" qualities that are vital for sperm survival and transport. We'll discuss what constitutes fertile fluid when we discuss <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals">fertility signs</a> and <a class="text-link" href="/the-cycle/chapter-8-checking-fertility-signs-how-to">how to check them</a>.
 
 As ovulation approaches, estrogen production in one (and sometimes two) of the developing follicles will surpass the others, causing this particular follicle to become dominant (meaning the follicle that will ovulate). When the dominant follicle is selected, the other growing follicles cease development and are reabsorbed. When the estrogen produced by the now dominant follicle reaches a certain threshold, the pituitary gland triggers ovulation by releasing a final surge of LH and FSH.
+
+{% include app-download-prompt.html %}
 
 
 ### Ovulation ###

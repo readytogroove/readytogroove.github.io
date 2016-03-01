@@ -55,6 +55,8 @@ Scientists aren't exactly sure why autoimmune disorders are more common in women
 
 So if your hormone levels are off, it can affect your body's ability to fight disease and even your likelihood of developing autoimmunity.
 
+{% include period-reset-plug.html %}
+
 ## So, what does it all mean? ##
 
 How much time does your doctor spend with you at your annual pelvic exam? 5 minutes? 10 minutes? 15 minutes? A single trip to your gynecologist once a year simply isn't enough to maintain good reproductive health, especially when so many systems in your body are linked to your reproductive system! 

@@ -36,6 +36,8 @@ The uterus is the female reproductive organ you&rsquo;re probably the most famil
 
 The vagina is the pathway between the uterus and the vaginal opening (which is part of the external female genitalia, or the vulva). During menstruation, the endometrium (or menstrual fluid) flows through the opening of the cervix (or the os), through the vagina, and out the vaginal opening. Aside from its more obvious purposes, the vagina maintains an acidic environment to prevent harmful bacteria from causing an infection. This prevents vaginal and yeast infections and also helps prevent potentially harmful bacteria from reaching a developing fetus during pregnancy. This acidic environment keeps the vagina clean...no lady-part-irrigation necessary!
 
+{% include period-reset-plug.html %}
+
 
 ### The Cervix ###
 

@@ -24,6 +24,8 @@ Predicting your upcoming periods is slightly more complicated than counting 28 d
 
 Learning about your cycles has an awesomely positive health consequence: it can help you detect when there might be a medical problem that needs addressing. Knowing what&rsquo;s going on with your cycles and knowing what&rsquo;s normal for *you* can make it easy to spot potential issues. Anything from vaginal infections, to hormone imbalance and beyond. Getting in tune with your cycles is preventative care at its finest.
 
+{% include period-reset-plug.html %}
+
 ### 4. Know when you&rsquo;re fertile. ###
 
 The fourth and final reason to learn about your menstrual cycle is pretty badass, if you ask me. Did you know that women are only fertile for a small portion of the menstrual cycle? I didn&rsquo;t for most of my life! Those same <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-cervical-fluid">cues that help you predict upcoming periods</a> will also help you pinpoint exactly when you&rsquo;re fertile, which is incredibly useful for those who want to <a class="text-link" href="/blog/2014/07/04/how-to-get-pregnant-while-charting-your-fertility/#.VBL8zi5dXjs">get pregnant</a> or <a class="text-link" href="/blog/2014/08/08/myth-preventing-pregnancy-naturally-isnt-effective/#.VBL8mS5dXjs">avoid pregnancy</a> without the use of hormones. Like I said, pretty badass.

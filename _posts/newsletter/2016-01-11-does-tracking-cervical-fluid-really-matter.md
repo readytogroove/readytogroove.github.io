@@ -21,6 +21,8 @@ During the 6-ish day fertile phase that happens just before ovulation, your cerv
 
 If you have more than a few days of this slippery cervical fluid before ovulation (we&rsquo;re talking 4&ndash;5 days or more), you should be suspicious of high estrogen (which is often coupled with low progesterone). Estrogen and progesterone help balance one another out &mdash; estrogen being inflammatory and progesterone being anti-inflammatory &mdash; so overproduction of estrogen can contribute to a number of menstrual problems. But again, knowing what to look for and how to detect a problem is a powerful first step in getting your body back on track!
 
+{% include period-reset-plug.html %}
+
 ### You always notice cervical fluid right after your period is over. ###
 
 What I mean by that is that you don&rsquo;t have any &ldquo;dry&rdquo; days, or days when your body doesn&rsquo;t produce any cervical fluid, immediately after your period is over. This lack of dry days, like the long periods of slippery cervical fluid, is likely caused by elevated estrogen levels. Again, this elevated estrogen often occurs alongside low progesterone.

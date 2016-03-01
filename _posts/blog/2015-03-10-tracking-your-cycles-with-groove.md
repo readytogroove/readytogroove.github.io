@@ -25,6 +25,8 @@ Irregular cycles are frustrating and unpredictable, but that doesn&rsquo;t mean 
 
 If you&rsquo;re confused about what data to add or need a bit of help getting started, we&rsquo;ve got you covered. There&rsquo;s tons of educational info in the app and on our website that will teach you everything you need to know to take advantage of what Groove has to offer.
 
+{% include period-reset-plug.html %}
+
 ### Learn about your body. ###
 
 Whether or not you have irregular cycles, there&rsquo;s always something to learn. Are you ovulating? Do you have an undiagnosed hormone imbalance? Or <a class="text-link" href="/blog/2015/01/09/polycystic-ovary-syndrome-what-it-is-&-what-you-should-know/">polycystic ovary syndrome (PCOS)</a>? Will you struggle with infertility down the road? You can help answer each of these questions by <a class="text-link" href="/blog/2014/09/12/4-awesome-reasons-to-get-in-tune-with-your-cycle/">getting in tune with your cycles</a>. Your body provides you with a live stream of data *every single day*, and we&rsquo;re here to help you make sense of it.
