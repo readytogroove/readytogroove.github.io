@@ -9,7 +9,7 @@ categories:
 excerpt: "Here at Groove, we love a good project. So when we decided that we wanted to pull off an awesome marketing campaign during SXSW, we knew we had to do it guerilla style..."
 ---
 
-<a class="text-link" target="_blank" href="http://sxsw.com/">SXSW</a> has officially come and gone from our home base in Austin, TX, and it was a blast! 
+<a class="text-link" href="http://sxsw.com/">SXSW</a> has officially come and gone from our home base in Austin, TX, and it was a blast! 
 
 Here at Groove, we love a good project. So when we decided we wanted to pull off an awesome marketing campaign during SXSW, we knew we had to do it guerilla style.
 

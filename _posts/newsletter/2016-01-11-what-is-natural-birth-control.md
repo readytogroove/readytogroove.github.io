@@ -19,7 +19,7 @@ Natural birth control is often associated with religion since the Catholic Churc
 
 ### 2. based on guesswork or pseudoscience ###
 
-It&rsquo;s a mystery to me how the rhythm method became the poster-child for natural birth control, especially since there have been SO MANY scientific advances since its use began in the 1930s. It&rsquo;s true that the rhythm method is primarily based on guesswork, but it&rsquo;s honestly so old-school that I don&rsquo;t really even consider it to be part of the natural birth control world. The sympto-thermal method &mdash; which is both modern and <a class="text-link" href="http://www.readytogroove.com/the-cycle/chapter-9-sympto-thermal-method-effectiveness/">super effective</a> &mdash; is based on anything BUT guesswork! It was founded on scientific principles, has been rigorously studied and tested, AND is <a class="text-link" target="_blank" href="http://humrep.oxfordjournals.org/content/22/5/1310.full">just as effective as the pill</a> when it&rsquo;s used correctly. 
+It&rsquo;s a mystery to me how the rhythm method became the poster-child for natural birth control, especially since there have been SO MANY scientific advances since its use began in the 1930s. It&rsquo;s true that the rhythm method is primarily based on guesswork, but it&rsquo;s honestly so old-school that I don&rsquo;t really even consider it to be part of the natural birth control world. The sympto-thermal method &mdash; which is both modern and <a class="text-link" href="http://www.readytogroove.com/the-cycle/chapter-9-sympto-thermal-method-effectiveness/">super effective</a> &mdash; is based on anything BUT guesswork! It was founded on scientific principles, has been rigorously studied and tested, AND is <a class="text-link" href="http://humrep.oxfordjournals.org/content/22/5/1310.full">just as effective as the pill</a> when it&rsquo;s used correctly. 
 	
 
 ### 3. irresponsible ###
@@ -42,7 +42,7 @@ Mmmm...data. In case you didn&rsquo;t know this about me, I&rsquo;m a massive da
 
 ### 2. highly effective ###
 
-You&rsquo;re probably used to hearing about how ineffective natural birth control is. We&rsquo;ve already discussed the rhythm method, so hopefully now you have a better idea about why that myth exists. Natural birth control is actually HIGHLY effective. Like, on the same level as the birth control pill. That&rsquo;s pretty wild considering that most people think natural birth control = no birth control. If someone ever makes you feel guilty about using natural birth control, drop a serious truth bomb on them in the form of this <a class="text-link" target="_blank" href="http://humrep.oxfordjournals.org/content/22/5/1310.full">kickass scientific study</a>. 
+You&rsquo;re probably used to hearing about how ineffective natural birth control is. We&rsquo;ve already discussed the rhythm method, so hopefully now you have a better idea about why that myth exists. Natural birth control is actually HIGHLY effective. Like, on the same level as the birth control pill. That&rsquo;s pretty wild considering that most people think natural birth control = no birth control. If someone ever makes you feel guilty about using natural birth control, drop a serious truth bomb on them in the form of this <a class="text-link" href="http://humrep.oxfordjournals.org/content/22/5/1310.full">kickass scientific study</a>. 
 
 ### 3. empowering ###
 

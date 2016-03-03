@@ -30,7 +30,7 @@ Keep in mind that _anyone_ has the ability to use a method of birth control perf
 ## A Little Something Extra ##
 
 
-If you find yourself pining for more STM information after reading this part of the book, I highly recommend adding Toni Weschler's book <a class="text-link" target="_blank" href="http://www.amazon.com/gp/product/0060881909/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060881909&linkCode=as2&tag=groove038-20"><em>Taking Charge of Your Fertility</em></a> to your reading list. She does a fantastic job presenting fertility awareness information in an informative and engaging way. Much of what I first learned about STM was learned using her text, and I cannot recommend it enough for those just starting out. 
+If you find yourself pining for more STM information after reading this part of the book, I highly recommend adding Toni Weschler's book <a class="text-link" href="http://www.amazon.com/gp/product/0060881909/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060881909&linkCode=as2&tag=groove038-20"><em>Taking Charge of Your Fertility</em></a> to your reading list. She does a fantastic job presenting fertility awareness information in an informative and engaging way. Much of what I first learned about STM was learned using her text, and I cannot recommend it enough for those just starting out. 
 
 Or, if you find yourself utterly lost and confused (or simply wanting a bit of guidance) after reading this book, there are many wonderful <a class="text-link" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources">menstrual health and fertility awareness resources</a> who can help guide you on your journey!
 

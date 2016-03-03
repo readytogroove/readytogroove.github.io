@@ -31,4 +31,4 @@ This makes period prep a cinch and helps you avoid the dreaded period sneak atta
 
 If you&rsquo;re interested in taking advantage of this awesome little nugget of period info, you can read up on <a class="text-link" href="/blog/2014/11/25/whats-the-best-thermometer-for-measuring-basal-body-temperature">which type of thermometer is the best for measuring basal body temperature</a> or even <a class="text-link" href="/store/">purchase a digital basal thermometer</a> from our online store.
 
-If you&rsquo;re ready to take the plunge and get started with super accurate period predictions, <a class="text-link" target="_blank" href="https://itunes.apple.com/app/id831795151">download the Groove app</a>.
+If you&rsquo;re ready to take the plunge and get started with super accurate period predictions, <a class="text-link" href="https://itunes.apple.com/app/id831795151">download the Groove app</a>.

@@ -15,7 +15,7 @@ The good news is, it doesn&rsquo;t have to be this frustrating. Whether your cyc
 
 ### Your body is not the average body. ###
 
-The first thing you need to realize is that your cycles are unique. Your cycles are totally different than someone else&rsquo;s cycles, and we built <a class="text-link" target="_blank" href="https://itunes.apple.com/app/id831795151">the Groove app</a> to reflect that. That&rsquo;s why Groove automatically customizes and adapts...*just for you*! When you open Groove for the very first time, you&rsquo;ll answer a few simple questions about your goals and the regularity (or lack thereof) of your cycles. Using this info, Groove automatically customizes so that *your* app reflects *you*.
+The first thing you need to realize is that your cycles are unique. Your cycles are totally different than someone else&rsquo;s cycles, and we built <a class="text-link" href="https://itunes.apple.com/app/id831795151">the Groove app</a> to reflect that. That&rsquo;s why Groove automatically customizes and adapts...*just for you*! When you open Groove for the very first time, you&rsquo;ll answer a few simple questions about your goals and the regularity (or lack thereof) of your cycles. Using this info, Groove automatically customizes so that *your* app reflects *you*.
 
 ### Irregular cycles? Not to fear. ###
 

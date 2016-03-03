@@ -55,7 +55,7 @@ Your luteal phase is your post-ovulatory phase when your corpus luteum makes pro
 
 ## 6. Your period *can* become more regular. ##
 
-You may have an irregular period now, but it won&rsquo;t always be like that. Your body wants to ovulate regularly. It will do so as soon as it&rsquo;s given <a class="text-link" target="_blank" href="http://www.larabriden.com/period-repair-manual/">the right support</a>. 
+You may have an irregular period now, but it won&rsquo;t always be like that. Your body wants to ovulate regularly. It will do so as soon as it&rsquo;s given <a class="text-link" href="http://www.larabriden.com/period-repair-manual/">the right support</a>. 
 
 Common causes of irregular periods include <a class="text-link" href="/blog/2015/01/09/polycystic-ovary-syndrome-what-it-is-&-what-you-should-know/">polycystic ovarian syndrome (PCOS)</a>, insulin resistance, excess prolactin, stress, thyroid disease, nutritional deficiencies, eating disorders, smoking, and excess soy in the diet. 
 

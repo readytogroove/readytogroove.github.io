@@ -15,7 +15,7 @@ Here are just a few of the many reasons why:
 
 ## 1. Reproductive health is linked to digestive health. ##
 
-You've probably heard of irritable bowel syndrome (IBS). If you haven't, the name describes it pretty well: it's a gastrointestinal disorder marked by pain, cramps, bloating, gas, food intolerance, and abnormal bowel movements. What you may not know is that <a class="text-link" target="_blank" href="http://www.aboutibs.org/site/what-is-ibs/facts/statistics">10-15% of the Western population is afflicted with IBS</a>. What does this have to do with reproductive health, you might ask?
+You've probably heard of irritable bowel syndrome (IBS). If you haven't, the name describes it pretty well: it's a gastrointestinal disorder marked by pain, cramps, bloating, gas, food intolerance, and abnormal bowel movements. What you may not know is that <a class="text-link" href="http://www.aboutibs.org/site/what-is-ibs/facts/statistics">10-15% of the Western population is afflicted with IBS</a>. What does this have to do with reproductive health, you might ask?
 
 As it turns out, studies show that the severity of symptoms experienced by women who have IBS actually change throughout the menstrual cycle, leading researchers to believe that female sex hormones&mdash;estrogen and progesterone&mdash;play a huge role. Interestingly, women afflicted with IBS are especially prone to exacerbated symptoms during their periods.<a class="text-link" href="#references"><sup>1</sup></a>
 
@@ -37,7 +37,7 @@ My point: if you don't have proper levels of melatonin in your body, your reprod
 
 ## 3. Reproductive health is linked to stress. ##
 
-Stress in your life can affect your reproductive health in many ways. Not only can it <a class="text-link" target="_blank" href="http://www.livescience.com/41329-why-is-my-period-late.html">delay ovulation</a>, but it can also stop it altogether.
+Stress in your life can affect your reproductive health in many ways. Not only can it <a class="text-link" href="http://www.livescience.com/41329-why-is-my-period-late.html">delay ovulation</a>, but it can also stop it altogether.
 
 Amenorrhea is a menstrual disorder characterized by a lack of menstruation for at least three months&mdash;this also means a lack of ovulation because if you're ovulating, you *will* have a period. Amenorrhea can be caused by many things, but a common cause is when the hypothalamus (a section of your brain that produces many essential hormones) doesn't produce enough of a specific hormone called gonadotropin-releasing hormone, or GnRH. This GnRH deficit halts ovarian function, stopping both ovulation and menstruation.
 
@@ -47,9 +47,9 @@ The takeaway? Stress can majorly mess with your reproductive health!
 
 ## 4. Reproductive health is linked to your immune system. ##
 
-Autoimmune disorders (such as lupus and multiple sclerosis) are on the rise, with the NIH estimating more than 23.5 million cases in the United States alone. And a whopping <a class="text-link" target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328995/">78% of those cases are in women</a>. But why?
+Autoimmune disorders (such as lupus and multiple sclerosis) are on the rise, with the NIH estimating more than 23.5 million cases in the United States alone. And a whopping <a class="text-link" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328995/">78% of those cases are in women</a>. But why?
 
->**Did You Know?** Women using Depo-Provera have been shown to have an <a class="text-link" target="_blank" href="http://www.nytimes.com/2011/10/04/health/04hiv.html?_r=3">increased risk of contracting STIs</a>.
+>**Did You Know?** Women using Depo-Provera have been shown to have an <a class="text-link" href="http://www.nytimes.com/2011/10/04/health/04hiv.html?_r=3">increased risk of contracting STIs</a>.
 
 Scientists aren't exactly sure why autoimmune disorders are more common in women, but they do know that the prevalence of autoimmunity in women shows that female sex hormones, particularly progesterone, help regulate immunity.<a class="text-link" href="#references"><sup>4</sup></a>
 

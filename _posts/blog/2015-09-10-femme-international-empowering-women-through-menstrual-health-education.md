@@ -20,7 +20,7 @@ Menstruation is the number one reason why girls in developing countries miss sch
 
 Extreme poverty, lack of access to sanitary resources, poor hygiene facilities, and the overarching stigma all contribute to menstruation being a barrier to young women in developing communities.
 
-In many parts of the world, the <a class="text-link" target="_blank" href="http://www.femmeinternational.org/the-issue.html">customs and traditions</a> surrounding menstruation are oppressive and destructive, and can severely limit a woman&rsquo;s daily life. For example, in <a class="text-link" target="_blank" href="https://www.youtube.com/watch?v=EFWZpQ7zpjo">rural Masai</a> regions of Kenya, girls are forbidden from touching livestock, preparing food or consuming animal products for fear of contamination. In communities in India menstruating girls must not drink from the same water source as her village. In remote areas of Nepal, the practice of <a class="text-link" target="_blank" href="http://time.com/3811181/chhaupadi-ritual-nepal/">chhaupadhi</a> banishes women into isolated huts for the duration of her period and forbids her from interacting with her community.
+In many parts of the world, the <a class="text-link" href="http://www.femmeinternational.org/the-issue.html">customs and traditions</a> surrounding menstruation are oppressive and destructive, and can severely limit a woman&rsquo;s daily life. For example, in <a class="text-link" href="https://www.youtube.com/watch?v=EFWZpQ7zpjo">rural Masai</a> regions of Kenya, girls are forbidden from touching livestock, preparing food or consuming animal products for fear of contamination. In communities in India menstruating girls must not drink from the same water source as her village. In remote areas of Nepal, the practice of <a class="text-link" href="http://time.com/3811181/chhaupadi-ritual-nepal/">chhaupadhi</a> banishes women into isolated huts for the duration of her period and forbids her from interacting with her community.
 
 These traditions are born out of a lack of understanding. Menstruation is not a dirty word. It is not a disease, a condition, or something to be afraid of. And it certainly should not be such a destructive part of a woman&rsquo;s life.
 
@@ -40,7 +40,7 @@ The program is simple, and effective! After participating in the FHM program 100
 
 Menstruation is a natural part of every woman&rsquo;s life, and it should never be seen as a source of embarrassment. It certainly should not isolate, oppress or shame women. Providing menstrual health education to young women empowers them to achieve their potential, and take advantage of as many academic and professional opportunities as possible.
 
-Learn more about how you can <a class="text-link" target="_blank" href="http://www.femmeinternational.org/donate-now.html">empower schoolgirls in East Africa</a>!
+Learn more about how you can <a class="text-link" href="http://www.femmeinternational.org/donate-now.html">empower schoolgirls in East Africa</a>!
 
 </br>
-<p class="extra-small-text"><span class="italics">Images courtesy of <a class="text-link" target="_blank" href="http://www.femmeinternational.org">Femme International</a></span></p>
+<p class="extra-small-text"><span class="italics">Images courtesy of <a class="text-link" href="http://www.femmeinternational.org">Femme International</a></span></p>

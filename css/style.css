@@ -76,9 +76,16 @@ strong {
   display: block;
 }
 
+.huge {
+  font-size: 100px;
+}
+
+.big {
+  font-size: 75px;
+}
+
 .gray-background, .white-background, .carnelian-background {
   width: 100%;
-  overflow: hidden;
   padding-bottom: 50px;
   padding-top: 50px;
 }
@@ -120,6 +127,19 @@ h1 {
   font-weight: 400;
   font-size: 40px;
 }
+
+  .futura {
+    font-family: 'futura-medium', 'helvetica neue', helvetica, arial;
+    font-weight: 100;
+  }
+
+  .dark-blue {
+    color: #245147;
+  }
+
+    .bottom-padding {
+      padding-bottom: 20px;
+    }
 
 h2 {
   font-size: 30px;
@@ -241,6 +261,7 @@ blockquote {
 .button-small {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
+  font-weight: 400;
   border-radius: 7px;
   text-decoration: none;
   padding: 18px 20px;
@@ -254,6 +275,10 @@ blockquote {
     color: white;
     cursor: pointer;
   }
+
+.small-right-margin {
+  margin-right: 15px;
+}
 
 .android-signup-button {
   font-family: 'helvetica neue', helvetica, arial;
@@ -298,6 +323,7 @@ blockquote {
 .button-white {
   font-family: 'helvetica neue', helvetica, arial;
   font-size: 18px;
+  font-weight: 400;
   border-radius: 7px;
   text-decoration: none;
   padding: 18px 20px;
@@ -308,8 +334,18 @@ blockquote {
 
   .button-white:hover {
     background-color: white;
-    color: #3FC2A5;
+    color: #245147;
     cursor: pointer;
+  }
+
+.mantle-app-button {
+  padding: 16px 46px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+  .home-app-button {
+    padding: 16px 26px;
   }
 
   #newsletter-form .button-small {
@@ -370,7 +406,7 @@ input[type=text], input[type=email] {
   height: 34px;
   background: url('/img/groove.png') center center no-repeat;
   background-size: 100%;
-  margin-top: 13px;
+/*  margin-top: 13px;*/
 }
 
 .header-nav {
@@ -426,9 +462,8 @@ input[type=text], input[type=email] {
   background-color: rgba(255, 255, 255, 0.87);
   border-bottom: 1px solid #ccc; 
   /*static header*/
-  position: fixed; 
   z-index: 999;
-  padding: 9px 10%;
+  padding: 25px 10%;
   width: 80%;
 }
 
@@ -451,17 +486,18 @@ input[type=text], input[type=email] {
 
 li.nav-button-link {
     display: inline-block;
+    margin-top: -15px;
   }
 
   li.nav-link {
     display: inline-block;
     vertical-align: top;
-    padding-top: 16px;
+    padding-top: 1px;
     margin-right: 20px;
   }
 
   li.nav-link a.text-link {
-    font-size: 13px;
+    font-size: 14px;
     padding-top: 15px;
   }
 
@@ -594,8 +630,7 @@ li.nav-button-link {
 /* index.html styles */
 
 .mantle {
-  overflow: hidden;
-  background: url('/img/GrooveBackground2.png') no-repeat;
+  background: url('/img/mantle-woman.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   max-height: 700px;
@@ -624,13 +659,189 @@ li.nav-button-link {
 
 .tagline {
   position: relative;
-  text-align: middle;
+  height: 500px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
-.tagline-text {
-  font-size: 50px;
-  line-height: 10em;
+.tagline h3 {
+  margin-bottom: 35px;
 }
+
+.home-header {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.initiatives-background-img {
+  background: url('/img/humans-with-periods.jpg') 0 0 no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  max-height: 500px;
+  text-align: center;
+  position: relative;
+}
+
+.initiatives-background-img p {
+  margin-bottom: 20px;
+}
+
+h2.big {
+  padding-top: 65px;
+}
+
+h1.huge {
+  line-height: 0.2em;
+  padding-bottom: 40px;
+}
+
+.main-mantle-header {
+  padding-top: 75px;
+}
+
+/* Home page slider */
+
+.slider-background {
+  background: url('/img/girl-with-skateboard.jpg') 0 0 no-repeat;
+  width: 100%;
+  height: 300px;
+}
+
+  .slider-background h1 {
+    padding-top: 20px;
+  }
+
+.slider, .slider ul {
+    height: 200px;
+  }
+
+  .slider {
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    width: 600px;
+  }
+
+  .slider li {
+    float: left;
+    position: relative;
+    width: 600px;
+    display: inline-block;
+    height: 200px;
+  }
+
+  .slider ul {
+    list-style: none;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 9000px;
+    transition: left .3s linear;
+    -moz-transition: left .3s linear;
+    -o-transition: left .3s linear;
+    -webkit-transition: left .3s linear;
+    font-family: 'helvetica neue';
+    color: #4C4C4C;
+  }
+
+
+  /*** Content ***/
+
+  .slider-container {
+    margin: 25px auto;
+    padding: 0;
+    width: 550px;
+    min-height: 180px;
+  }
+
+  .slider-container h3 {
+    text-align: center;
+  }
+
+  .slider-container p {
+    margin: 10px 25px;
+    font-weight: semi-bold;
+    line-height: 150%;
+    text-align: center;
+  }
+
+
+  /*** target hooks ****/
+
+  @-webkit-keyframes slide-animation {
+    0% {
+      opacity: 0;
+    }
+    2% {
+      opacity: 1;
+    }
+    20% {
+      left: 0px;
+      opacity: 1;
+    }
+    22.5% {
+      opacity: 0.6;
+    }
+    25% {
+      left: -600px;
+      opacity: 1;
+    }
+    45% {
+      left: -600px;
+      opacity: 1;
+    }
+    47.5% {
+      opacity: 0.6;
+    }
+    50% {
+      left: -1200px;
+      opacity: 1;
+    }
+    70% {
+      left: -1200px;
+      opacity: 1;
+    }
+    72.5% {
+      opacity: 0.6;
+    }
+    75% {
+      left: -1800px;
+      opacity: 1;
+    }
+    95% {
+      opacity: 1;
+    }
+    98% {
+      left: -1800px;
+      opacity: 0;
+    }
+    100% {
+      left: 0px;
+      opacity: 0;
+    }
+  }
+
+  .slider ul {
+    -webkit-animation: slide-animation 25s infinite;
+    -moz-animation: slide-animation 25s infinite;
+    -o-animation: slide-animation 25s infinite;
+    animation: slide-animation 25s infinite;
+  }
+
+
+  /* use to paused the content on mouse over */
+
+  .slider ul:hover {
+    -moz-animation-play-state: paused;
+    -webkit-animation-play-state: paused;
+  }
+
 
 /* about.html styles */
 
@@ -871,6 +1082,30 @@ li.blog-category {
   width: 60%;
   float: left;
 }
+
+.app-info img {
+  width: 100%;
+}
+
+.app-intro-left-float, .app-intro-right-float {
+  width: 50%;
+  display: inline-block;
+  max-height: 700px;
+}
+
+  .app-intro-right-float {
+    float: right;
+  }
+
+  .app-intro-left-float {
+    float: left;
+  }
+
+  .app-content {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 100px;
+  }
 
 #meet-the-app-img {
   width: 100%;
@@ -1189,7 +1424,7 @@ p.panel-title {
     margin: 0;
   }
   #mobile-nav li.nav-button-link {
-    margin-top: 25px;
+    margin-top: -14px;
   }
     #mobile-nav li a {
       font-size: 16px;
@@ -1208,6 +1443,10 @@ body.mobile-nav-open #mobile-nav {
   margin-top: 25px;
   margin-bottom: 25px;
   padding-bottom: 40px;
+}
+
+.no-top-margin {
+  margin-top: 0px;
 }
 
 .period-reset-plug {
@@ -1272,7 +1511,7 @@ body.mobile-nav-open #mobile-nav {
   max-height: 700px;
   padding-top: 50px;
   padding-bottom: 50px;
-  text-align:center;
+  text-align: center;
   position: relative;
 }
 
@@ -1389,9 +1628,9 @@ body.mobile-nav-open #mobile-nav {
     padding: 20px 10%;
   }
 
-  #groove {
+ /* #groove {
     margin-top: 4px;
-  }
+  }*/
 
   .app-text-intro-android {
     margin-top: 10px;
@@ -1621,6 +1860,7 @@ body.mobile-nav-open #mobile-nav {
   }
 
   /* home page */
+
   .mantle .container {
     width: auto;
     padding: 0 20px;

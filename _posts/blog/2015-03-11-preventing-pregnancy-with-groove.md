@@ -11,7 +11,7 @@ excerpt: "Groove has something for everyone. Whether you&rsquo;re on the pill or
 
 Groove has something for everyone. Whether you&rsquo;re on the pill or using barrier methods, we&rsquo;ve got you covered. Even if you&rsquo;re looking to prevent pregnancy without hormones or devices, we&rsquo;ve got what you need!
 
-Effectively avoiding pregnancy without hormones or devices is slightly more complicated than making a sacrifice to the vagina gods or relying on the good old-fashioned “pull-and-pray.” Luckily, avoiding pregnancy using your body&rsquo;s own stream of data is easy to learn, and it&rsquo;s also really darn effective (we&rsquo;re talking <a class="text-link" target="_blank" href="http://humrep.oxfordjournals.org/content/22/5/1310.full">on par with the pill</a>, here).
+Effectively avoiding pregnancy without hormones or devices is slightly more complicated than making a sacrifice to the vagina gods or relying on the good old-fashioned “pull-and-pray.” Luckily, avoiding pregnancy using your body&rsquo;s own stream of data is easy to learn, and it&rsquo;s also really darn effective (we&rsquo;re talking <a class="text-link" href="http://humrep.oxfordjournals.org/content/22/5/1310.full">on par with the pill</a>, here).
 
 ## The Basics ##
 
@@ -23,7 +23,7 @@ So just how do you know which days you&rsquo;re fertile? There are two primary f
 
 Cervical fluid is, hands down, the most important measure of fertility. 
 
-<a class="text-link" target="_blank" href="http://www.whatiscervicalfluid.com">Cervical fluid</a> is a secretion produced by special glands in your cervix in response to hormone changes, and it&rsquo;s the whole reason sperm can survive inside your body in the first place. Without this fluid, sperm will die within several...which means no babies! Cervical fluid is only produced around ovulation (important factoid alert!), which is the whole reason you can prevent pregnancy using nothing but your body&rsquo;s data.
+<a class="text-link" href="http://www.whatiscervicalfluid.com">Cervical fluid</a> is a secretion produced by special glands in your cervix in response to hormone changes, and it&rsquo;s the whole reason sperm can survive inside your body in the first place. Without this fluid, sperm will die within several...which means no babies! Cervical fluid is only produced around ovulation (important factoid alert!), which is the whole reason you can prevent pregnancy using nothing but your body&rsquo;s data.
 
 ### Basal Body Temperature ###
 
@@ -33,4 +33,4 @@ Yes, it&rsquo;s possible to ovulate twice during a single menstrual cycle, but t
 
 ### The Rules ###
 
-Monitoring the changes in your cervical fluid and BBT make up a method called the <a class="text-link" href="/blog/2015/01/16/the-sympto-thermal-method-of-fertility-awareness-an-overview/">sympto-thermal method of fertility awareness (STM)</a>. Charting your fertility (and avoiding pregnancy) with the sympto-thermal method requires that you follow <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/">a simple set of rules</a>. If you&rsquo;re interested in charting your fertility to avoid a pregnancy, <a class="text-link" href="/the-cycle/">our website</a> and <a class="text-link" target="_blank" href="https://itunes.apple.com/app/id831795151">our app</a> both have loads of great info to help you get started.
+Monitoring the changes in your cervical fluid and BBT make up a method called the <a class="text-link" href="/blog/2015/01/16/the-sympto-thermal-method-of-fertility-awareness-an-overview/">sympto-thermal method of fertility awareness (STM)</a>. Charting your fertility (and avoiding pregnancy) with the sympto-thermal method requires that you follow <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/">a simple set of rules</a>. If you&rsquo;re interested in charting your fertility to avoid a pregnancy, <a class="text-link" href="/the-cycle/">our website</a> and <a class="text-link" href="https://itunes.apple.com/app/id831795151">our app</a> both have loads of great info to help you get started.

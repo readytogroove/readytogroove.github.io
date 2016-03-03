@@ -1,18 +1,15 @@
-
-    </div><!--.content-container-->
-    
 <!-- Website Footer -->
    	<div itemprop="brand" itemscope itemtype="http://schema.org/Brand" itemref="_logo7" id="footer-container">
    		<div class="footer-center">
         <div class="social">
           <div class="social-button">
-					 <a target="_blank" id="twitter" href="http://www.twitter.com/readytogroove" title="Twitter"></a>
+					 <a id="twitter" href="http://www.twitter.com/readytogroove" title="Twitter"></a>
           </div>
           <div class="social-button">
-					 <a target="_blank" id="facebook" href="http://www.facebook.com/readytogroove" title="Facebook"></a>
+					 <a id="facebook" href="http://www.facebook.com/readytogroove" title="Facebook"></a>
           </div>
           <div class="social-button">
-					 <a target="_blank" id="pinterest" href="http://www.pinterest.com/readytogroove" title="Pinterest"></a>
+					 <a id="pinterest" href="http://www.pinterest.com/readytogroove" title="Pinterest"></a>
           </div>
         </div><!--.social-->
         <p class="footer-text">
@@ -109,48 +106,6 @@
            
     </script>
 
-    <script>
-    var deadline = 'February 15 2016 23:59:59 CST';
-
-    function getTimeRemaining(endtime){
-      var t = Date.parse(endtime) - Date.parse(new Date());
-      var seconds = Math.floor( (t/1000) % 60 );
-      var minutes = Math.floor( (t/1000/60) % 60 );
-      var hours = Math.floor( (t/(1000*60*60)) % 24 );
-      var days = Math.floor( t/(1000*60*60*24) );
-      return {
-        'total': t,
-        'days': days,
-        'hours': hours,
-        'minutes': minutes,
-        'seconds': seconds
-      };
-    }
-
-    function initializeClock(id, endtime){
-      var clock = document.getElementById(id);
-      var daysSpan = clock.querySelector('.days');
-      var hoursSpan = clock.querySelector('.hours');
-      var minutesSpan = clock.querySelector('.minutes');
-      var secondsSpan = clock.querySelector('.seconds');
-      function updateClock(){
-        var t = getTimeRemaining(endtime);
-        daysSpan.innerHTML = t.days;
-        hoursSpan.innerHTML = t.hours;
-        minutesSpan.innerHTML = t.minutes;
-        secondsSpan.innerHTML = t.seconds;
-        if(t.total<=0){
-          clearInterval(timeinterval);
-        }
-      }
-
-      updateClock(); // run function once at first to avoid delay
-      var timeinterval = setInterval(updateClock,1000);
-    }
-
-    initializeClock('clockdiv', deadline);
-
-    </script>
    </body><!--.body-container-->
 
 </html>
