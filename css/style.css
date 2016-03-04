@@ -138,8 +138,12 @@ h1 {
   }
 
     .bottom-padding {
-      padding-bottom: 20px;
+      padding-bottom: 10px;
     }
+
+.more-bottom-padding {
+  padding-bottom: 20px;
+}
 
 h2 {
   font-size: 30px;
@@ -686,9 +690,28 @@ li.nav-button-link {
   position: relative;
 }
 
-.initiatives-background-img p {
-  margin-bottom: 20px;
+  .initiatives-background-img p {
+    margin-bottom: 20px;
+  }
+
+.promise-background-img {
+  background: url('/img/little-girl.jpg') 0 0 no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  max-height: 350px;
+  text-align: center;
+  position: relative;
 }
+
+  .promise-background-img h2 {
+    padding-top: 100px;
+  }
+
+  .promise-background-img .tagline {
+    max-width: 600px;
+  }
+
 
 h2.big {
   padding-top: 65px;
@@ -1590,6 +1613,12 @@ body.mobile-nav-open #mobile-nav {
 @media screen and (max-width:1382px) {
   .product-container {
     width: 32%;
+  }
+}
+
+@media screen and (max-width:1301px) {
+  .app-content {
+    padding-top: 40px;
   }
 }
 
