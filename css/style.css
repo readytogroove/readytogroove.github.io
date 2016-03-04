@@ -68,7 +68,7 @@ strong {
   font-style: italic;
 }
 
-.hidden {
+.show {
   display: none;
 }
 
@@ -746,7 +746,6 @@ h1.huge {
     margin: auto;
     overflow: hidden;
     padding: 20px;
-    border-radius: 10px;
     position: relative;
     width: 600px;
   }
@@ -1636,6 +1635,10 @@ body.mobile-nav-open #mobile-nav {
     height: 220px;
   }
 
+  .home-app-button {
+    padding: 15px 10px;
+  }
+
 }
 
 @media screen and (max-width:1140px) {
@@ -1672,6 +1675,25 @@ body.mobile-nav-open #mobile-nav {
   .course-img {
     width: 225px;
   }
+
+  .app-intro-left-float, .app-intro-right-float {
+    float: none;
+    width: 100%;
+    display: block;
+  }
+
+   .hide {
+    display: none;
+  }
+
+  .show {
+    display: block;
+  }
+
+  .app-content {
+    margin-bottom: 50px;
+  }
+
 
 }
 
@@ -1837,10 +1859,6 @@ body.mobile-nav-open #mobile-nav {
     width: 100%;
   }
 
-  .hidden {
-    display: block;
-  }
-
   .app-img-intro, .app-img-intro-android, .course-whats-included {
     display: block;
     width: 100%;
@@ -1920,23 +1938,18 @@ body.mobile-nav-open #mobile-nav {
 @media screen and (max-width: 761px) {
 
   .mantle {
-    padding-top: 50px;
+    max-height: 400px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-position: left;
+  }
+
+  .promise-background-img {
+    background-position: left;
   }
 }
 
 @media screen and (max-width: 751px) {
-
-  .mantle .iphone {
-    width: 116.5px;
-    height: 246px;
-    background-size: 100%;
-    float: none;
-    margin: 0 auto;
-  }
-    .mantle .iphone img {
-      width: 116.5px;
-      height: 246px;
-    }
 
   h1 {
     font-size: 30px;
@@ -1953,6 +1966,15 @@ body.mobile-nav-open #mobile-nav {
   p {
     font-size: 18px;
     font-weight: 300;
+  }
+
+  h1.huge {
+    font-size: 50px;
+  }
+
+  h2.big {
+    font-size: 35px;
+    padding-top: 100px;
   }
 
   .button, .app-download-button, .android-tester-button, .cf-masterclass-button {
@@ -1979,11 +2001,6 @@ body.mobile-nav-open #mobile-nav {
   }
 
   /* home page */
-  .mantle .text-container {
-    height: 290px;
-    width: auto;
-    padding: 0 20px;
-  }
 
   .container {
     width: auto;
@@ -2040,6 +2057,76 @@ body.mobile-nav-open #mobile-nav {
     padding-top: 0px;
   }
 
+  .slider-container {
+    width: 400px;
+    margin: 10px auto;
+  }
+
+  .slider li {
+    float: left;
+    position: relative;
+    width: 400px;
+    display: inline-block;
+    height: 200px;
+  }
+
+  /*.slider ul {
+    width: 2400px;
+  }*/
+
+  @-webkit-keyframes slide-animation {
+    0% {
+      opacity: 0;
+    }
+    2% {
+      opacity: 1;
+    }
+    20% {
+      left: 0px;
+      opacity: 1;
+    }
+    22.5% {
+      opacity: 0.6;
+    }
+    25% {
+      left: -350px;
+      opacity: 1;
+    }
+    45% {
+      left: -350px;
+      opacity: 1;
+    }
+    47.5% {
+      opacity: 0.6;
+    }
+    50% {
+      left: -600px;
+      opacity: 1;
+    }
+    70% {
+      left: -600px;
+      opacity: 1;
+    }
+    72.5% {
+      opacity: 0.6;
+    }
+    75% {
+      left: -950px;
+      opacity: 1;
+    }
+    95% {
+      opacity: 1;
+    }
+    98% {
+      left: -950px;
+      opacity: 0;
+    }
+    100% {
+      left: 0px;
+      opacity: 0;
+    }
+  }
+
 }
 
 @media screen and (max-width: 576px) {
@@ -2080,6 +2167,15 @@ body.mobile-nav-open #mobile-nav {
   .course-info {
     margin-bottom: 15px;
   }
+
+  .mantle-app-button {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+
+  /*.app-content {
+    width: 90%;
+  }*/
 
 }
 
