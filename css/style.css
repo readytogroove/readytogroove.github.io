@@ -1974,7 +1974,11 @@ body.mobile-nav-open #mobile-nav {
 
   h2.big {
     font-size: 35px;
-    padding-top: 100px;
+    padding-top: 50px;
+  }
+
+  .initiatives-background-img {
+    max-height: 350px;
   }
 
   .button, .app-download-button, .android-tester-button, .cf-masterclass-button {
@@ -2063,16 +2067,8 @@ body.mobile-nav-open #mobile-nav {
   }
 
   .slider li {
-    float: left;
-    position: relative;
     width: 400px;
-    display: inline-block;
-    height: 200px;
   }
-
-  /*.slider ul {
-    width: 2400px;
-  }*/
 
   @-webkit-keyframes slide-animation {
     0% {
@@ -2089,36 +2085,36 @@ body.mobile-nav-open #mobile-nav {
       opacity: 0.6;
     }
     25% {
-      left: -350px;
+      left: -400px;
       opacity: 1;
     }
     45% {
-      left: -350px;
+      left: -400px;
       opacity: 1;
     }
     47.5% {
       opacity: 0.6;
     }
     50% {
-      left: -600px;
+      left: -800px;
       opacity: 1;
     }
     70% {
-      left: -600px;
+      left: -800px;
       opacity: 1;
     }
     72.5% {
       opacity: 0.6;
     }
     75% {
-      left: -950px;
+      left: -1200px;
       opacity: 1;
     }
     95% {
       opacity: 1;
     }
     98% {
-      left: -950px;
+      left: -1200px;
       opacity: 0;
     }
     100% {
