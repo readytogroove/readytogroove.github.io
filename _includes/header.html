@@ -18,17 +18,11 @@
       <![endif]-->
 
     	<link rel="shortcut icon" href="/img/favicon.png" type="image/png" />
-      <!-- Bootstrap v3.3.2 -->
-      <!-- <link rel="stylesheet" href="/css/bootstrap.css"/> -->
-
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-      <!-- Bootstrap v3.3.2 -->
       <script src="/js/bootstrap.min.js"></script>
-      <script>
-          //  $(document).ready(function(){
-          //     $('.dropdown-toggle').dropdown()
-          // });
-      </script> 
+
+      <link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <script src="/js/lightslider.js"></script>
       
 <!--Google Analytics-->
       <script>
@@ -59,7 +53,7 @@
         {% else %}
         <li class="nav-link"><a class="text-link" href="/">HOME</a></li>
         {% endif %}
-        {% if page.url == "/app/" %}
+        {% if page.url contains "/app" %}
         <li class="nav-link"><a class="active-nav" href="/app">APP</a></li>
         {% else %}
         <li class="nav-link"><a class="text-link" href="/app">APP</a></li>
@@ -69,15 +63,11 @@
         {% else %}
         <li class="nav-link"><a class="text-link" href="/the-cycle">LEARN</a></li>
         {% endif %}
+        <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
         {% if page.url contains "/blog" or page.url contains "/categories" %}
         <li class="nav-link"><a class="active-nav" href="/blog">BLOG</a></li>
         {% else %}
         <li class="nav-link"><a class="text-link" href="/blog">BLOG</a></li>
-        {% endif %}
-        {% if page.url contains "/help" %}
-        <li class="nav-link"><a class="active-nav" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
-        {% else %}
-        <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
         {% endif %}
         {% if page.url contains "/store" %}
         <li class="nav-link"><a class="active-nav" href="/store">STORE</a></li>
@@ -106,7 +96,7 @@
       <a href="/"><span id="groove"><meta id="_logo7" itemprop="logo" content="http://www.readytogroove.com/img/groove.png">Groove</span></a>
         <div class="header-nav">
           <ul>
-            {% if page.url == "/app/" %}
+            {% if page.url contains "/app" %}
             <li class="nav-link"><a class="active-nav" href="/app">APP</a></li>
             {% else %}
             <li class="nav-link"><a class="text-link" href="/app">APP</a></li>
@@ -116,15 +106,11 @@
             {% else %}
             <li class="nav-link"><a class="text-link" href="/the-cycle">LEARN</a></li>
             {% endif %}
+            <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
             {% if page.url contains "/blog" or page.url contains "/categories" %}
             <li class="nav-link"><a class="active-nav" href="/blog">BLOG</a></li>
             {% else %}
             <li class="nav-link"><a class="text-link" href="/blog">BLOG</a></li>
-            {% endif %}
-            {% if page.url contains "/help" %}
-            <li class="nav-link"><a class="active-nav" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
-            {% else %}
-            <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
             {% endif %}
             {% if page.url contains "/store" %}
             <li class="nav-link"><a class="active-nav" href="/store">STORE</a></li>

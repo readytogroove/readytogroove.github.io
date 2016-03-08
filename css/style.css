@@ -501,7 +501,7 @@ li.nav-button-link {
   }
 
   li.nav-link a.text-link {
-    font-size: 14px;
+    font-size: 15px;
     padding-top: 15px;
   }
 
@@ -634,7 +634,7 @@ li.nav-button-link {
 /* index.html styles */
 
 .mantle {
-  background: url('/img/mantle-woman.jpg') no-repeat;
+  background: url('/img/main-mantle.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   max-height: 700px;
@@ -737,133 +737,6 @@ h1.huge {
   .slider-background h1 {
     padding-top: 20px;
   }
-
-.slider, .slider ul {
-    height: 200px;
-  }
-
-  .slider {
-    margin: auto;
-    overflow: hidden;
-    padding: 20px;
-    position: relative;
-    width: 600px;
-  }
-
-  .slider li {
-    float: left;
-    position: relative;
-    width: 600px;
-    display: inline-block;
-    height: 200px;
-  }
-
-  .slider ul {
-    list-style: none;
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    width: 9000px;
-    transition: left .3s linear;
-    -moz-transition: left .3s linear;
-    -o-transition: left .3s linear;
-    -webkit-transition: left .3s linear;
-    font-family: 'helvetica neue';
-    color: #4C4C4C;
-  }
-
-
-  /*** Content ***/
-
-  .slider-container {
-    margin: 25px auto;
-    padding: 0;
-    width: 550px;
-    min-height: 180px;
-  }
-
-  .slider-container h3 {
-    text-align: center;
-  }
-
-  .slider-container p {
-    margin: 10px 25px;
-    font-weight: semi-bold;
-    line-height: 150%;
-    text-align: center;
-  }
-
-
-  /*** target hooks ****/
-
-  @-webkit-keyframes slide-animation {
-    0% {
-      opacity: 0;
-    }
-    2% {
-      opacity: 1;
-    }
-    20% {
-      left: 0px;
-      opacity: 1;
-    }
-    22.5% {
-      opacity: 0.6;
-    }
-    25% {
-      left: -600px;
-      opacity: 1;
-    }
-    45% {
-      left: -600px;
-      opacity: 1;
-    }
-    47.5% {
-      opacity: 0.6;
-    }
-    50% {
-      left: -1200px;
-      opacity: 1;
-    }
-    70% {
-      left: -1200px;
-      opacity: 1;
-    }
-    72.5% {
-      opacity: 0.6;
-    }
-    75% {
-      left: -1800px;
-      opacity: 1;
-    }
-    95% {
-      opacity: 1;
-    }
-    98% {
-      left: -1800px;
-      opacity: 0;
-    }
-    100% {
-      left: 0px;
-      opacity: 0;
-    }
-  }
-
-  .slider ul {
-    -webkit-animation: slide-animation 25s infinite;
-    -moz-animation: slide-animation 25s infinite;
-    -o-animation: slide-animation 25s infinite;
-    animation: slide-animation 25s infinite;
-  }
-
-
-  /* use to paused the content on mouse over */
-
-  .slider ul:hover {
-    -moz-animation-play-state: paused;
-    -webkit-animation-play-state: paused;
-  }
-
 
 /* about.html styles */
 
@@ -1619,6 +1492,15 @@ body.mobile-nav-open #mobile-nav {
   .app-content {
     padding-top: 40px;
   }
+
+  li.nav-link {
+    margin-right: 10px;
+  }
+
+    li.nav-link a.text-link {
+      font-size: 14px;
+    }
+
 }
 
 @media screen and (max-width:1201px) {
@@ -2061,68 +1943,6 @@ body.mobile-nav-open #mobile-nav {
     padding-top: 0px;
   }
 
-  .slider-container {
-    width: 400px;
-    margin: 10px auto;
-  }
-
-  .slider li {
-    width: 400px;
-  }
-
-  @-webkit-keyframes slide-animation {
-    0% {
-      opacity: 0;
-    }
-    2% {
-      opacity: 1;
-    }
-    20% {
-      left: 0px;
-      opacity: 1;
-    }
-    22.5% {
-      opacity: 0.6;
-    }
-    25% {
-      left: -400px;
-      opacity: 1;
-    }
-    45% {
-      left: -400px;
-      opacity: 1;
-    }
-    47.5% {
-      opacity: 0.6;
-    }
-    50% {
-      left: -800px;
-      opacity: 1;
-    }
-    70% {
-      left: -800px;
-      opacity: 1;
-    }
-    72.5% {
-      opacity: 0.6;
-    }
-    75% {
-      left: -1200px;
-      opacity: 1;
-    }
-    95% {
-      opacity: 1;
-    }
-    98% {
-      left: -1200px;
-      opacity: 0;
-    }
-    100% {
-      left: 0px;
-      opacity: 0;
-    }
-  }
-
 }
 
 @media screen and (max-width: 576px) {
@@ -2169,9 +1989,13 @@ body.mobile-nav-open #mobile-nav {
     margin-left: 5px;
   }
 
-  /*.app-content {
-    width: 90%;
-  }*/
+  .home-app-button {
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 }
 
