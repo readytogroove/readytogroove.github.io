@@ -74,5 +74,5 @@ While observing cervical position is not _necessary_ to practice the sympto-ther
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

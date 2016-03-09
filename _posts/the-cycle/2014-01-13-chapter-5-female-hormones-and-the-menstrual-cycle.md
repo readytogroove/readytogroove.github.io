@@ -99,5 +99,5 @@ I know that was a lot to take in, but I hope you agree that this information is 
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/chapter-4-female-reproductive-organs-and-endocrine-glands/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

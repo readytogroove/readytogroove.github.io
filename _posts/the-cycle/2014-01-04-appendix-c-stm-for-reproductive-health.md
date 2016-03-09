@@ -35,6 +35,6 @@ It's not immediately obvious that an underactive thyroid (hypothyroidism) can ma
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Next Excerpt">Next &raquo;</a></p>
 </div>
 

@@ -1,0 +1,141 @@
+.unslider{
+	overflow:auto;
+	margin:0;
+	padding:0;
+}
+
+.unslider-wrap{
+	position:relative;
+}
+
+.unslider-wrap.unslider-carousel>li{
+	float:left;
+}
+
+.unslider-vertical>ul{
+	height:100%;
+}
+
+.unslider-vertical li{
+	float:none;
+	width:100%;
+}
+
+.unslider-fade{
+	position:relative;
+}
+
+.unslider-fade .unslider-wrap li{
+	position:absolute;
+	left:0;
+	top:0;
+	right:0;
+	z-index:8;
+}
+
+.unslider-fade .unslider-wrap li.unslider-active{
+	z-index:10;
+}
+
+.unslider li,.unslider ol,.unslider ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	border:none;
+}
+
+.unslider-arrow {
+	position: absolute;
+	top: 50%;
+	margin-top: -2em;
+	left: 20px;
+	z-index: 2;
+	cursor: pointer;
+}
+
+.unslider-arrow.next {
+	left: auto;
+	right: 20px;
+}
+
+.prev, .next {
+	display: inline-block;
+  width: 3em;
+  height: 3em;
+  border: 0.3em solid #909090;
+  border-radius: 50%;
+  text-align: center;
+}
+
+	.prev:hover, .next:hover {
+		border: 0.3em solid #245147;
+	}
+
+	.prev:hover::after, .next:hover::after {
+	  border-top: 0.3em solid #245147;
+	  border-right: 0.3em solid #245147;
+	}
+
+	.prev::after {
+		content: '';
+	  display: inline-block;
+	  margin-top: 0.9em;
+	  margin-left: 0.5em;
+	  width: 1em;
+	  height: 1em;
+	  border-top: 0.3em solid #909090;
+	  border-right: 0.3em solid #909090;
+	  -moz-transform: rotate(-135deg);
+	  -webkit-transform: rotate(-135deg);
+	  transform: rotate(-135deg);
+	}
+
+	.next::after {
+		content: '';
+    display: inline-block;
+    margin-top: 0.9em;
+    margin-left: -0.5em;
+    width: 1em;
+    height: 1em;
+    border-top: 0.3em solid #909090;
+    border-right: 0.3em solid #909090;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+	}
+
+
+@media screen and (max-width: 576px) {
+	.prev, .next {
+		width: 2em;
+  	height: 2em;
+  	border: 0.2em solid #909090;
+	}
+
+	.prev:hover, .next:hover {
+		border: 0.2em solid #245147;
+	}
+
+	.prev:hover::after, .next:hover::after {
+	  border-top: 0.2em solid #245147;
+	  border-right: 0.2em solid #245147;
+	}
+
+	.prev::after {
+		margin-top: 0.6em;
+	  margin-left: 0.3em;
+	  width: 0.7em;
+	  height: 0.7em;
+	  border-top: 0.2em solid #909090;
+	  border-right: 0.2em solid #909090;
+	}
+
+	.next::after {
+		margin-top: 0.6em;
+	  margin-left: -0.3em;
+	  width: 0.7em;
+	  height: 0.7em;
+	  border-top: 0.2em solid #909090;
+	  border-right: 0.2em solid #909090;
+	}
+}

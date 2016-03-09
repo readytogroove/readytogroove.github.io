@@ -129,7 +129,7 @@ h1 {
 }
 
   .futura {
-    font-family: 'futura-medium', 'helvetica neue', helvetica, arial;
+    font-family: 'futura-medium', 'Futura', 'Trebuchet MS', 'helvetica neue', helvetica, Arial, sans-serif;
     font-weight: 100;
   }
 
@@ -726,17 +726,43 @@ h1.huge {
   padding-top: 75px;
 }
 
+.right-arrow {
+  content: '';
+  display: inline-block;
+  margin-left: -0.1em;
+  width: .4em;
+  height: .4em;
+  border-top: 0.1em solid #3fc2a5;
+  border-right: 0.1em solid #3fc2a5;
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  }
+
+  a:hover .right-arrow {
+    border-top: 0.1em solid #359E87;
+    border-right: 0.1em solid #359E87;
+  }
+
 /* Home page slider */
 
 .slider-background {
-  background: url('/img/girl-with-skateboard.jpg') 0 0 no-repeat;
+  position: relative;
+  background: url('/img/woman-in-field.jpg') 0 0 no-repeat;
+  background-size: cover;
   width: 100%;
-  height: 300px;
+  padding: 40px 0;
 }
 
   .slider-background h1 {
     padding-top: 20px;
   }
+
+.review-container {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /* about.html styles */
 
@@ -770,30 +796,26 @@ h1.about-header {
   float: left;
 }
 
-#JA-twitter-transparency {
-    background: url('../img/Jennifer-Aldoretta.jpg') 0 0 no-repeat;
-    background-size: 300px 300px;
+.JA-twitter, .BS-twitter {
+    background: url('../img/Jennifer-Aldoretta-twitter.jpg') top left no-repeat;
+    background-size: 600px 300px;
     border-radius: 50%;
     display: block;
     width: 100%;
     height: 100%;
   }
-    #JA-twitter-transparency:hover {
-      background: url('../img/twitter-transparency-JA.jpg') 0 0 no-repeat;
-      background-size: 300px 300px;
-    }
 
-#BS-twitter-transparency {
-    background: url('../img/Brian-Smith.jpg') 0 0 no-repeat;
-    background-size: 300px 300px;
+.BS-twitter {
+    background: url('../img/Brian-Smith-twitter.jpg') top left no-repeat;
+    background-size: 600px 300px;
     border-radius: 50%;
     display: block;
     width: 100%;
     height: 100%;
   }
-    #BS-twitter-transparency:hover {
-      background: url('../img/twitter-transparency-BS.jpg') 0 0 no-repeat;
-      background-size: 300px 300px;
+
+    .JA-twitter:hover, .BS-twitter:hover {;
+      background-position: top right;
     }
 
 img.groover {
@@ -1164,12 +1186,12 @@ img.the-cycle {
   margin-top: 20px;
 }
 
-.previous {
+.previous-page {
   display: inline-block;
   float: left;
 }
 
-.next {
+.next-page {
   display: inline-block;
   float: right;
 }
@@ -1318,9 +1340,7 @@ p.panel-title {
     text-align: center;
     margin: 0;
   }
-  #mobile-nav li.nav-button-link {
-    margin-top: -14px;
-  }
+
     #mobile-nav li a {
       font-size: 16px;
       line-height: 35px;
@@ -1333,11 +1353,10 @@ body.mobile-nav-open #mobile-nav {
 
 .app-download-prompt, .android-tester-prompt, .cf-masterclass {
   background-color: #3FC2A5;
-  padding: 25px;
   text-align: center;
   margin-top: 25px;
   margin-bottom: 25px;
-  padding-bottom: 40px;
+  padding: 40px 25px;
 }
 
 .no-top-margin {
@@ -1504,13 +1523,9 @@ body.mobile-nav-open #mobile-nav {
 }
 
 @media screen and (max-width:1201px) {
-  #JA-twitter-transparency, #BS-twitter-transparency {
-    background-size: 220px 220px;
+  .JA-twitter, .BS-twitter {
+    background-size: 440px 220px;
   }
-
-    #JA-twitter-transparency:hover, #BS-twitter-transparency:hover {
-    background-size: 220px 220px;
-    }
 
   .groover-img {
     width: 220px;
@@ -1748,11 +1763,18 @@ body.mobile-nav-open #mobile-nav {
     margin-top: 25px;
   }
 
+  .app-text-intro-android {
+    display: block;
+    text-align: center;
+    margin-left: 0;
+    width: 100%;
+  }
+
   #meet-the-app-img, .meet-the-course-img {
     width: 400px;
   }
 
-  .app-text-intro, .app-text-intro-android, .course-text-intro {
+  .app-text-intro, .course-text-intro {
     display: none;
   }
 
@@ -1987,6 +2009,8 @@ body.mobile-nav-open #mobile-nav {
   .mantle-app-button {
     margin-right: 5px;
     margin-left: 5px;
+    display: block;
+    margin-bottom: 15px;
   }
 
   .home-app-button {
@@ -1995,6 +2019,10 @@ body.mobile-nav-open #mobile-nav {
     margin-bottom: 15px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .review-container {
+    width: 67%;
   }
 
 }

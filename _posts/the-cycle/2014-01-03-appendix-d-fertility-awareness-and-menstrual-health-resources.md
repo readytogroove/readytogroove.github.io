@@ -82,5 +82,5 @@ _Blue Lotus Holistic Fertility and Contraception was born out of a desire to emp
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

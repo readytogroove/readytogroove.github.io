@@ -106,18 +106,15 @@
            
     </script>
 
-<!--lightslider-->
-    <script type="text/javascript">
-      $(document).ready(function() {
-        var autoplaySlider = $('#autoplay').lightSlider({
-          auto:true,
-          loop:true,
-          pauseOnHover: true,
-          onBeforeSlide: function (el) {
-            $('#current').text(el.getCurrentSlideCount());
-          } 
+<!--Unslider-->
+    <script src="/js/unslider-min.js"></script>
+    <script>
+      jQuery(document).ready(function($) {
+        $('.my-slider').unslider({
+          autoplay: true,
+          speed: 750,
+          delay: 7000
         });
-        $('#total').text(autoplaySlider.getTotalSlideCount());
       });
     </script>
 

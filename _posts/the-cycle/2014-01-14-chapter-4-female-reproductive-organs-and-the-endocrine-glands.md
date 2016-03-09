@@ -78,5 +78,5 @@ Not so bad, right? Next up, we'll focus on  <a class="text-link" href="/the-cycl
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/" title="Previous Excerpt">&laquo; Introduction</a><a class="text-link next" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/" title="Previous Excerpt">&laquo; Introduction</a><a class="text-link next-page" href="/the-cycle/chapter-5-female-hormones-and-the-menstrual-cycle/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

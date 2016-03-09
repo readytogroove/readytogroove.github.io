@@ -34,5 +34,5 @@ I would also recommend reading about <a class="text-link" href="/the-cycle/appen
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

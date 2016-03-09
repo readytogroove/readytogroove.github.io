@@ -1,4 +1,4 @@
----
+-page---
 layout: book-content
 title:  "The Rules of the Sympto-thermal Method of Fertility Awareness"
 date:   2014-01-11
@@ -142,5 +142,5 @@ So, that's that! The sympto-thermal method of fertility awareness may seem a bit
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-8-checking-fertility-signs-how-to/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/chapter-8-checking-fertility-signs-how-to/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

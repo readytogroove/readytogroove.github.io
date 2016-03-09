@@ -37,5 +37,5 @@ I could talk all day long about cervical fluid, but being able to visualize the 
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/notes/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/appendix-d-fertility-awareness-and-menstrual-health-resources/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/notes/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

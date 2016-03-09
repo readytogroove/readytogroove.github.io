@@ -36,5 +36,5 @@ Or, if you find yourself utterly lost and confused (or simply wanting a bit of g
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/chapter-8-checking-fertility-signs-how-to/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/chapter-8-checking-fertility-signs-how-to/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/appendix-a-the-sympto-thermal-method-for-pregnancy-prevention/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

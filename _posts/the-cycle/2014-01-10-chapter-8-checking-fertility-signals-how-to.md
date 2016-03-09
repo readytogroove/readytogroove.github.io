@@ -86,7 +86,7 @@ If you blew your nose and then noticed that your boogers were green, how would y
 So why are so few vagina-wielders able to distinguish healthy cervical fluid? Like an elevated temperature and rainbow-boogers, regularly monitoring cervical fluid can indicate when something's up, which is why it's an important thing for _every_ person to learn. We already encourage women to perform monthly breast self-exams, so shouldn't we also encourage regular cervical fluid self-checks, if for nothing else, to support gynecological health? Uncovering the fertile window should simply be seen as an _added benefit_.
 
 
-<h3><a class="notes" name="how-to-check-cervical-fluid">How to Check Cervical Fluid</a></h2>
+<h2><a class="notes" name="how-to-check-cervical-fluid">How to Check Cervical Fluid</a></h2>
 
 
 The cervix, as we well know by this point, produces cervical fluid. Since the type of fluid present determines whether sperm are able to survive in your body, it's important to get an accurate representation of the type of fluid produced on any given day. The best way to do this is to check fluid at its source. Yep, that's right. And it's not even that scary. I urge partners (male or female) to partake in the fluid-checking...make it fun! Educating everyone about the ins and outs of practicing STM will make for a more confident and supportive partner when the method is being used to avoid or achieve a pregnancy. 
@@ -127,5 +127,5 @@ Becoming a professional cervix-checker isn't something that happens right away; 
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

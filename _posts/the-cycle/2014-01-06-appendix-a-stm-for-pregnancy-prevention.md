@@ -52,5 +52,5 @@ There are a couple sample birth control charts shown below. For assistance with 
 
 
 <div class="arrows">
-	<p><a class="text-link previous" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Next Excerpt">Next &raquo;</a></p>
+	<p><a class="text-link previous-page" href="/the-cycle/chapter-9-sympto-thermal-method-effectiveness/" title="Previous Excerpt">&laquo; Previous</a><a class="text-link next-page" href="/the-cycle/appendix-b-the-sympto-thermal-method-for-pregnancy-assistance/" title="Next Excerpt">Next &raquo;</a></p>
 </div>

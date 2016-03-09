@@ -12,17 +12,19 @@
 
     	<link rel='stylesheet' type='text/css' href="/css/reset.css"/>
     	<link rel='stylesheet' type='text/css' href="/css/style.css"/>
-      <link rel='stylesheet' type='text/css' href="/css/newsletter-popup.css"/>
-      <!--[if lte IE 8]>
-        <link rel="stylesheet" type="text/css" href="/css/ie8-and-down.css" />
-      <![endif]-->
+          <link rel='stylesheet' type='text/css' href="/css/newsletter-popup.css"/>
+          <!--[if lte IE 8]>
+            <link rel="stylesheet" type="text/css" href="/css/ie8-and-down.css" />
+          <![endif]-->
 
-    	<link rel="shortcut icon" href="/img/favicon.png" type="image/png" />
-      <script src="/js/bootstrap.min.js"></script>
+        	<link rel="shortcut icon" href="/img/favicon.png" type="image/png" />
+          <script src="/js/bootstrap.min.js"></script>
 
-      <link type="text/css" rel="stylesheet" href="css/lightslider.css" />                  
-      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-      <script src="/js/lightslider.js"></script>
+
+          <link rel="stylesheet" href="/css/unslider.css">
+          <link rel="stylesheet" href="/css/unslider-dots.css">
+          <!-- <link type="text/css" rel="stylesheet" href="css/lightslider.css" />  -->                 
+          <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
       
 <!--Google Analytics-->
       <script>
@@ -53,17 +55,12 @@
         {% else %}
         <li class="nav-link"><a class="text-link" href="/">HOME</a></li>
         {% endif %}
-        {% if page.url contains "/app" %}
-        <li class="nav-link"><a class="active-nav" href="/app">APP</a></li>
-        {% else %}
-        <li class="nav-link"><a class="text-link" href="/app">APP</a></li>
-        {% endif %}
         {% if page.url contains "/the-cycle" %}
         <li class="nav-link"><a class="active-nav" href="/the-cycle">LEARN</a></li>
         {% else %}
         <li class="nav-link"><a class="text-link" href="/the-cycle">LEARN</a></li>
         {% endif %}
-        <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
+        <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'Period Reset'});">PERIOD RESET</a></li>
         {% if page.url contains "/blog" or page.url contains "/categories" %}
         <li class="nav-link"><a class="active-nav" href="/blog">BLOG</a></li>
         {% else %}
@@ -96,17 +93,12 @@
       <a href="/"><span id="groove"><meta id="_logo7" itemprop="logo" content="http://www.readytogroove.com/img/groove.png">Groove</span></a>
         <div class="header-nav">
           <ul>
-            {% if page.url contains "/app" %}
-            <li class="nav-link"><a class="active-nav" href="/app">APP</a></li>
-            {% else %}
-            <li class="nav-link"><a class="text-link" href="/app">APP</a></li>
-            {% endif %}
             {% if page.url contains "/the-cycle" %}
             <li class="nav-link"><a class="active-nav" href="/the-cycle">LEARN</a></li>
             {% else %}
             <li class="nav-link"><a class="text-link" href="/the-cycle">LEARN</a></li>
             {% endif %}
-            <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/">PERIOD RESET</a></li>
+            <li class="nav-link"><a class="text-link" href="http://periodreset.readytogroove.com/" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'Period Reset'});">PERIOD RESET</a></li>
             {% if page.url contains "/blog" or page.url contains "/categories" %}
             <li class="nav-link"><a class="active-nav" href="/blog">BLOG</a></li>
             {% else %}
