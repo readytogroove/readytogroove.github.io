@@ -8,6 +8,14 @@
 
       {% include opengraph.html %}
 
+      {% if page.url contains "/app" %}
+      <meta http-equiv="refresh" content="0; URL='/'" />
+      {% endif %}
+
+      {% if page.url contains "/courses/period-reset" %}
+      <meta http-equiv="refresh" content="0; URL='http://periodreset.readytogroove.com'" />
+      {% endif %}
+
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 
     	<link rel='stylesheet' type='text/css' href="/css/reset.css"/>
