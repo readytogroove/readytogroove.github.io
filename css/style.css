@@ -419,7 +419,7 @@ input[type=text], input[type=email] {
 }
 
 .active-nav {
-  font-size: 13px;
+  font-size: 15px;
   color: #3FC2A5;
   text-decoration: none;
   border-bottom: #3FC2A5 solid 1px;
@@ -1519,6 +1519,10 @@ body.mobile-nav-open #mobile-nav {
     li.nav-link a.text-link {
       font-size: 14px;
     }
+
+  .active-nav {
+    font-size: 14px;
+  }
 
 }
 

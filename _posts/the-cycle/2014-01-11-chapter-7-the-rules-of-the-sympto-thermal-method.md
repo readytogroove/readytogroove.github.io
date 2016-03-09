@@ -1,4 +1,4 @@
--page---
+---
 layout: book-content
 title:  "The Rules of the Sympto-thermal Method of Fertility Awareness"
 date:   2014-01-11
