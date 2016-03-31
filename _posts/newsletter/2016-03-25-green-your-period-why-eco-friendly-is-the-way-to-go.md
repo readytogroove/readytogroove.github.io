@@ -1,6 +1,6 @@
 ---
 layout: newsletter
-title:  "Green Your Period: Why Eco-Friendly is the Way to Go"
+title:  "Green Your Period: Why Eco-Friendly Period Products are the Way to Go"
 date:   2016-03-25
 author: "Jennifer Aldoretta"
 permalink: /newsletter/general/green-your-period-why-eco-friendly-is-the-way-to-go/
@@ -14,6 +14,8 @@ img: newsletter/tulip-in-field.jpg
   <meta itemprop="name" content="Green Your Period: Why Eco-Friendly is the Way to Go" />
   <meta itemprop="description" content="The Green Your Period video series is all about why sustainable and eco-friendly period products are great for your health and the environment." />
 </div>
+
+Unhealthy periods are a MAJOR problem among women these days, and most of these issues are the result things like endocrine dispruting chemicals that are present in our environment. It's easier than you think to clean up your lifestyle and heal your period problems, and Period Reset &mdash; the awesome 30-day program I created after healing my own terrible periods &mdash; will teach you how. <a class="text-link" href="https://periodreset.readytogroove.com/">Check it out >></a>
 
 ### Video Transcript ###
 

@@ -15,7 +15,7 @@ Here are just a few of the many reasons why:
 
 ## 1. Reproductive health is linked to digestive health. ##
 
-You've probably heard of irritable bowel syndrome (IBS). If you haven't, the name describes it pretty well: it's a gastrointestinal disorder marked by pain, cramps, bloating, gas, food intolerance, and abnormal bowel movements. What you may not know is that <a class="text-link" href="http://www.aboutibs.org/site/what-is-ibs/facts/statistics">10-15% of the Western population is afflicted with IBS</a>. What does this have to do with reproductive health, you might ask?
+You've probably heard of irritable bowel syndrome (IBS). If you haven't, the name describes it pretty well: it's a gastrointestinal disorder marked by pain, cramps, bloating, gas, food intolerance, and abnormal bowel movements. What you may not know is that <a class="text-link" href="http://www.aboutibs.org/site/what-is-ibs/facts/statistics">10-15 percent of the Western population is afflicted with IBS</a>. What does this have to do with reproductive health, you might ask?
 
 As it turns out, studies show that the severity of symptoms experienced by women who have IBS actually change throughout the menstrual cycle, leading researchers to believe that female sex hormones&mdash;estrogen and progesterone&mdash;play a huge role. Interestingly, women afflicted with IBS are especially prone to exacerbated symptoms during their periods.<a class="text-link" href="#references"><sup>1</sup></a>
 
@@ -31,7 +31,7 @@ Melatonin is related to your reproductive health because the progesterone levels
 
 >**Did You Know?** Progesterone is the female sex hormone responsible for, among other things, thickening and maintaining your uterine lining in the latter half of the menstrual cycle. 
 
-Researchers decided to try something: they gave melatonin treatments to women with luteal phase defects, which is linked to low progesterone and is a common cause of infertility. The treatment increased patient progesterone levels, with 64.3% seeing significant improvements. One study recruited women who had at least one failed IVF treatment and showed that pregnancy rates after melatonin treatment were nearly 20% (double that of the group that didn't melatonin treatment)!<a class="text-link" href="#references"><sup>2</sup></a>
+Researchers decided to try something: they gave melatonin treatments to women with luteal phase defects, which is linked to low progesterone and is a common cause of infertility. The treatment increased patient progesterone levels, with 64.3 percent seeing significant improvements. One study recruited women who had at least one failed IVF treatment and showed that pregnancy rates after melatonin treatment were nearly 20 percent (double that of the group that didn't melatonin treatment)!<a class="text-link" href="#references"><sup>2</sup></a>
 
 My point: if you don't have proper levels of melatonin in your body, your reproductive system will likely show signs. Since melatonin also helps regulate sleep, metabolism, and your body's ability to prevent cancer, inadequate levels can throw these out of balance, as well.
 
@@ -47,7 +47,7 @@ The takeaway? Stress can majorly mess with your reproductive health!
 
 ## 4. Reproductive health is linked to your immune system. ##
 
-Autoimmune disorders (such as lupus and multiple sclerosis) are on the rise, with the NIH estimating more than 23.5 million cases in the United States alone. And a whopping <a class="text-link" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328995/">78% of those cases are in women</a>. But why?
+Autoimmune disorders (such as lupus and multiple sclerosis) are on the rise, with the NIH estimating more than 23.5 million cases in the United States alone. And a whopping <a class="text-link" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328995/">78 percent of those cases are in women</a>. But why?
 
 >**Did You Know?** Women using Depo-Provera have been shown to have an <a class="text-link" href="http://www.nytimes.com/2011/10/04/health/04hiv.html?_r=3">increased risk of contracting STIs</a>.
 
@@ -63,7 +63,7 @@ How much time does your doctor spend with you at your annual pelvic exam? 5 minu
 
 If you're struggling with any number of reproductive disorders, hormonal contraceptives can be an appealing choice. While they do provide a seemingly simple way to eliminate various symptoms you may be experiencing, they don't *address* the root of the problem...they mask it. 
 
-Hopefully it's obvious by now that reproductive and hormone health are intricately tied to every system in your body. Health issues are increasingly being shown to manifest in the menstrual cycle, which means that it's more important than ever to pay attention to what's happening.
+Hopefully it's obvious by now that reproductive and hormone health are intricately tied to every system in your body. Health issues are increasingly being shown to manifest in the menstrual cycle, which means that it's more important than ever to pay attention to what's happening. If you struggle with any number of period problems &mdash; like cramps, acne, digestive issues, low libido, a heavy flow, or food cravings &mdash; poor hormonal health is likely the culprit. Luckily for you, we can help you heal these problems FOR GOOD with Period Reset, our super awesome 30-day program. <a class="text-link" href="https://periodreset.readytogroove.com/">Check it out >></a>
 
 If you truly want good reproductive health, listen to and work with your body!
 

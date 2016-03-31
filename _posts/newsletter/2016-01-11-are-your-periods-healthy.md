@@ -53,7 +53,7 @@ Mid-cycle spotting, which happens around ovulation, is perfectly normal and happ
 
 ### 3. crazy mood swings ###
 
-This is almost ALWAYS a sign that your hormones are totally out of whack. I obviously don&rsquo;t expect you to smile and be the happiest person in the entire universe 100% of the time, but feeling like you&rsquo;re completely out of control of your moods is NOT normal. 
+This is almost ALWAYS a sign that your hormones are totally out of whack. I obviously don&rsquo;t expect you to smile and be the happiest person in the entire universe 100 percent of the time, but feeling like you&rsquo;re completely out of control of your moods is NOT normal. 
 
 Mood swings used to be one of my biggest struggles before I worked to balance my hormones. My mental state felt like a complete roller coaster and I had no control over how I felt. It was almost like I was a bystander watching someone else&rsquo;s life unfold...that&rsquo;s how helpless I felt. It was a pretty horrible feeling. Now I know that my outrageous mood roller coasters were the cause of my progesterone levels being practically non-existent.  
 
@@ -61,6 +61,6 @@ Mood swings used to be one of my biggest struggles before I worked to balance my
 
 A healthy period flow is bright red and clot-free, but I hear so many women complaining of gigantic clots and a flow so dark that it&rsquo;s almost black...eek! Why is that?
 
-Do you know what happens to blood when it sits still? It clots! If you&rsquo;ve ever donated blood, the blood bags always contain something called an anticoagulant, or a chemical that prevents the donated blood from turning into a gel and clotting.
+Do you know what happens to blood when it sits still? It clots! If you&rsquo;ve ever donated blood, the blood bags always contain something called an anticoagulant, or a chemical that prevents the donated blood from turning into a gel and clotting. Heavily clotted menstrual fluid indicates flow stagnation, which can be a side effect of higher-than-normal estrogen levels. Being more active during your period can help you avoid some clots, even though I know going for a run is totally the LAST thing you want to do when you&rsquo;re on your period. 
 
-Heavily clotted menstrual fluid indicates flow stagnation, which can be a side effect of higher-than-normal estrogen levels. Being more active during your period can help you avoid some clots, even though I know going for a run is totally the LAST thing you want to do when you&rsquo;re on your period. 
+Period problems are no joke. I struggled with severe pain, digestive issues, acne, depression, and anxiety for YEARS as a result of my super unhealthy periods. I finally realized that my period problems were the result of unhealthy hormone levels, so I worked to fix my hormones. Once I fixed healed my unhealthy hormones, my period problems disappeared...woohoo! I created Period Reset, Groove's badass 30-day program, to help you do the exact same thing. <a class="text-link" href="https://periodreset.readytogroove.com/">Check it out >></a>

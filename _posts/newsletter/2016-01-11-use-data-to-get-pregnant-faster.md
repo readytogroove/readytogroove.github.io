@@ -35,6 +35,8 @@ Charting your fertility using the sympto-thermal method can do all of these thin
 
 >**Krystal:** I'm still trying [to get pregnant], but [charting my fertility] has given me more knowledge. I feel like I know my body now. I know everything I need to do. It helps give me that sense of control and also has helped me learn there is more I can do rather than just being sad it's not happening.
 
+If you're having difficulty conceiving, or if you have in the past, there's a good chance you have an underlying health issue that needs to be addressed. Unhealthy periods are a REAL problem these days, which is why I created Period Reset, the 30-day program designed to help you heal your periods and make way for the perfect baby-making bod. <a class="text-link" href="https://periodreset.readytogroove.com/">Check it out >></a>
+
 ### <a name="references">References</a> ###
 
 1. Zinaman MJ. Using cervical mucus and other easily observed biomarkers to identify ovulation in prospective pregnancy trials. Paediatric and Perinatal Epidemiology 2006; 20(Suppl. 1): 26–29.
