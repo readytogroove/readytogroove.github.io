@@ -40,6 +40,6 @@ Whether you&rsquo;re looking to accurately predict your upcoming periods, having
 
 The human body is freaking amazing, y&rsquo;all. The effects of understanding the female reproductive system can propagate into many areas of your life.
 
-<a class="text-link" href="/the-cycle/">Learn more about the sympto-thermal method</a> on our website, <a class="text-link" href="https://leanpub.com/the-cycle">download this free book about the sympto-thermal method</a>, or <a class="text-link" href="http://www.amazon.com/gp/product/0060881909/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060881909&linkCode=as2&tag=groove07-20&linkId=7HDBBUVMWXDBXOSD">check out this highly-rated book about fertility awareness</a> for more information.
+<a class="text-link" href="/the-cycle/">Learn more about the sympto-thermal method</a> on our website, <a class="text-link" href="https://leanpub.com/the-cycle">download this free book</a> about the sympto-thermal method, or <a class="text-link" href="http://www.amazon.com/gp/product/0060881909/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060881909&linkCode=as2&tag=groove07-20&linkId=7HDBBUVMWXDBXOSD">check out this highly-rated book about fertility awareness</a> for more information.
 
-You can also <a class="text-link" href="https://itunes.apple.com/app/id831795151">download the Groove app to help you track your cycles and practice the sympto-thermal method</a>.
+You can also <a class="text-link" href="https://itunes.apple.com/app/id831795151">download the Groove app</a> to help you track your cycles and practice the sympto-thermal method.
