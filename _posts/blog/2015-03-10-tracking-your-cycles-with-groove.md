@@ -21,7 +21,7 @@ The first thing you need to realize is that your cycles are unique. Your cycles 
 
 Irregular cycles are frustrating and unpredictable, but that doesn&rsquo;t mean period predictions can&rsquo;t work for you. Irregular cycles are more complex, so why is it that most apps treat all cycles the same? To make Groove accurate even for irregular cycles, we let you know what data you should be tracking every day. There&rsquo;s also tons of info in the app that&rsquo;s highly customized, so you&rsquo;ll be able to learn about irregular cycles and other info that applies to *you*.
 
-<a href="/img/blog/fertility-awareness-PCOS-basal-body-temperature-cervical-fluid-chart.png">{% include image.html url="/img/blog/fertility-awareness-PCOS-basal-body-temperature-cervical-fluid-chart.png" %}</a>
+{% include image.html url="/img/blog/fertility-awareness-PCOS-basal-body-temperature-cervical-fluid-chart.png" %}
 
 If you&rsquo;re confused about what data to add or need a bit of help getting started, we&rsquo;ve got you covered. There&rsquo;s tons of educational info in the app and on our website that will teach you everything you need to know to take advantage of what Groove has to offer.
 
