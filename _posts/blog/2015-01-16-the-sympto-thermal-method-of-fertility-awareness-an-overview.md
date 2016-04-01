@@ -11,7 +11,7 @@ excerpt: "When I think about what the sympto-thermal method (STM) is, I&rsquo;m 
 
 I know, I know, &ldquo;sympto-thermal method of fertility awareness&rdquo; is quite the mouthful. The long name alone might be enough to make you want to turn around and run, but read on! In this post, I&rsquo;ll provide a brief overview of what the sympto-thermal method is, some of its benefits, and what sorts of folks can benefit from learning it (HINT: probably you!).
 
-###Sympto-what?###
+### Sympto-what? ###
 
 When I think about what the sympto-thermal method (STM) is, I&rsquo;m reminded of the classic quote: &ldquo;It&rsquo;s a bird! It&rsquo;s a plane! No, it&rsquo;s Superman!&rdquo; Not because STM is often mistaken for flying objects, but because it can mask as *so* many amazing things. Before I get into listing out all those things, here&rsquo;s an overview:
 
