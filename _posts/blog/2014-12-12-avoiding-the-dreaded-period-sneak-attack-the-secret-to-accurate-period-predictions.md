@@ -23,7 +23,7 @@ By measuring your body temperature each morning when you wake up&mdash;which is 
 
 Before you ovulate, your basal body temperature is low. After you ovulate, a hormone called progesterone makes your temperature rise and stay high until you get your period.
 
-<a href="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-pattern-confirm-ovulation-chart.jpg">{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-pattern-confirm-ovulation-chart.jpg" %}</a>
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-pattern-confirm-ovulation-chart.jpg" %}
 
 The number of days between ovulation and the first day of your period (which is represented on the chart by the smaller numbers circled in black) can be anywhere between 11 and 16 days, but it will be almost exactly the same length every single cycle. For me, there are about 12 days between ovulation and my next period, so once I see that my temperature has gone up, I know *exactly* when my period will start. Your temperature will also usually drop back down on the day you start your period, which is extra helpful.
 

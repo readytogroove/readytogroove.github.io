@@ -1,4 +1,6 @@
 <div class="image-container">
-	<img class="image" src="{{ include.url }}" alt="{{ include.description }}"/>
+	<a href="{{ include.url }}">
+		<img class="image" src="{{ include.url }}" alt="{{ include.description }}"/>
+	</a>
 	<p class="small-text">{{ include.description }}</p>
 </div>

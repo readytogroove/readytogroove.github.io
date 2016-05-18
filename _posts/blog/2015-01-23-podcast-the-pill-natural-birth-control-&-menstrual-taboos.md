@@ -13,6 +13,10 @@ It&rsquo;s no secret that <a class="text-link" href="/blog/2014/03/15/finding-fe
 
 We had an amazing chat about my experience with the pill, how I found the sympto-thermal method of fertility awareness, why I wrote <a class="text-link" href="https://leanpub.com/the-cycle/">The Cycle</a>, what led me to start Groove, and what I think the future holds for fertility charting. Check it out, and make sure to <a class="text-link" href="https://twitter.com/fertilefriday">follow Fertility Friday on Twitter</a>!
 
-<a href="https://fertilityfriday.com/Jennifer">{% include image.html url="/img/blog/fertility-friday-podcast-the-pill-menstrual-taboos-groove-charting-app-featuring-Jennifer-Aldoretta.jpg" %}</a>
+<div class="image-container">
+	<a href="http://www.fertilityfriday.com/Jennifer">
+		<img class="image" src="/img/blog/fertility-friday-podcast-the-pill-menstrual-taboos-groove-charting-app-featuring-Jennifer-Aldoretta.jpg" alt=""/>
+	</a>
+</div>
 
 <iframe width="320" height="30" src="http://fertilityfriday.com/?powerpress_embed=626-podcast&amp;powerpress_player=mediaelement-audio" frameborder="0" scrolling="no"></iframe>

@@ -10,4 +10,4 @@ categories:
 excerpt: "The types of apps that exist for women span far and wide, but there's a huge problem: apps for women are horribly sexist. So we made an infographic about it..."
 ---
 
-<a href="/img/blog/how-to-design-apps-for-women.jpg">{% include image.html url="/img/blog/how-to-design-apps-for-women.jpg" %}</a>
+{% include image.html url="/img/blog/how-to-design-apps-for-women.jpg" %}
