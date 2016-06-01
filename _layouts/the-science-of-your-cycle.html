@@ -1,35 +1,37 @@
 {% include header.html %}
 
 <div class="white-background">
-	{% include science-of-your-cycle-header.html %}
-	<div class="blog-container">
-		<h3 class="gray-dark center margin-top">{{ page.title }}</h3>
-		<div class="text-body">
-			<p class="gray-light">
-				{{ content }}
-			</p>
+	<div class="container">
+		{% include science-of-your-cycle-header.html %}
+		<div class="blog-container">
+			<h3 class="gray-dark center margin-top">{{ page.title }}</h3>
+			<div class="blog-body">
+				<p class="gray-light">
+					{{ content }}
+				</p>
 
-		</div><!--.text-body-->
+			</div><!--.text-body-->
 
-		<!-- DISQUS CODE -->
+			<!-- DISQUS CODE -->
 
-			<div id="disqus_thread"></div>
-			<script type="text/javascript">
-			    /* * * CONFIGURATION VARIABLES * * */
-			    var disqus_shortname = 'readytogroove';
-			    
-			    /* * * DON'T EDIT BELOW THIS LINE * * */
-			    (function() {
-			        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-			        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-			        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-			    })();
-			</script>
-			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+				<div id="disqus_thread"></div>
+				<script type="text/javascript">
+				    /* * * CONFIGURATION VARIABLES * * */
+				    var disqus_shortname = 'readytogroove';
+				    
+				    /* * * DON'T EDIT BELOW THIS LINE * * */
+				    (function() {
+				        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+				        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				    })();
+				</script>
+				<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-		<!-- END DISQUS CODE -->
-		
-	</div><!--.container-->
+			<!-- END DISQUS CODE -->
+			
+		</div><!--.container-->
+	</div>
 </div><!--.white-background-->
 
 {% include footer.html %}
