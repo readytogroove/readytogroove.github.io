@@ -1499,6 +1499,12 @@ body.mobile-nav-open #mobile-nav {
   margin-bottom: 20px;
 }
 
+/* Science of Your Cycle */
+
+.soyc-logo {
+  width: 533px;
+}
+
 /* responsive, y'all */
 
 @media screen and (max-width:1382px) {
@@ -1912,6 +1918,14 @@ body.mobile-nav-open #mobile-nav {
     margin-left: 25px;
   }
 
+  .soyc-logo {
+    width: 400px;
+  }
+
+  .margin-top {
+    margin-top: 35px;
+  }
+
   /* home page */
 
   .container {
@@ -2090,6 +2104,10 @@ body.mobile-nav-open #mobile-nav {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+  }
+
+  .soyc-logo {
+    width: 350px;
   }
 
 
