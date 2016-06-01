@@ -467,16 +467,15 @@ input[type=text], input[type=email] {
   border-bottom: 1px solid #ccc; 
   /*static header*/
   z-index: 999;
-  padding: 25px 10%;
-  width: 80%;
+  padding: 25px 5%;
+  width: 90%;
 }
 
 .nav-button {
-  font-size: 16px;
-  border-radius: 7px;
+  font-size: 15px;
+  border-radius: 4px;
   text-decoration: none;
-  padding: 16px 18px;
-  display: inline-block;
+  padding: 8px 10px;
   background-color: transparent;
   border: 2px solid #3FC2A5;
   color: #3FC2A5;
@@ -488,7 +487,22 @@ input[type=text], input[type=email] {
     cursor: pointer;
   }
 
-li.nav-button-link {
+  .nav-button-active {
+    font-size: 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 8px 10px;
+    border: 2px solid #3FC2A5;
+    background-color: #3FC2A5;
+    color: white;
+  }
+
+  li.nav-button-link {
+    display: inline-block;
+    margin-top: -15px;
+  }
+
+  li.nav-button-position {
     display: inline-block;
     margin-top: -15px;
   }
@@ -1564,7 +1578,7 @@ body.mobile-nav-open #mobile-nav {
   }
 
   #header-container {
-    padding: 20px 10%;
+    padding: 20px 5%;
   }
 
  /* #groove {
