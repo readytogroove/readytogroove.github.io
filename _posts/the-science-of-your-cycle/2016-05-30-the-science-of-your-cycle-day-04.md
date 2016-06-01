@@ -18,6 +18,7 @@ If you thought the first half of the menstrual cycle was cool, just wait until y
 </div>
 
 ## Resources ##
-1. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-04.pdf">Download today's slides.</a></p>
+1. <p><a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/">View images of cervical fluid.</a></p>
+2. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-04.pdf">Download today's slides.</a></p>
 
 What was the most surprising thing you learned in today&rsquo;s video? We&rsquo;d love to hear your thoughts in the comments below!

@@ -9,7 +9,7 @@ excerpt: "Welcome to &ldquo;The Science of Your Cycle&rdquo;, Groove&rsquo;s ah-
 ---
 
 
-Welcome to &ldquo;The Science of Your Cycle&rdquo;, Groove&rsquo;s ah-mazing (and FREE) 7-day course that will teach you everything you need to know about how your body (and your period) works. We genuinely believe that you DESERVE to have a deep understanding of how your body works, and we made this course to arm you with information that will help you care for your body, spot any health problems that may arise, and benefit from the incredible that data your body provides you each and every day.
+Welcome to <strong>The Science of Your Cycle</strong>, Groove&rsquo;s ah-mazing (and FREE) 7-day mini-course that will teach you everything you need to know about how your body (and your period) works. We genuinely believe that you DESERVE to have a deep understanding of how your body works, and we made this course to arm you with information that will help you care for your body, spot any health problems that may arise, and benefit from the incredible data your body provides you each and every day.
 
 Today&rsquo;s video will cover the basics of how the female reproductive system works &mdash; you might just be surprised by how much you don&rsquo;t know!
 

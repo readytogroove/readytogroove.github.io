@@ -9,7 +9,7 @@ excerpt: "Welcome to day 2 of &ldquo;The Science of Your Cycle&rdquo;! Today, yo
 ---
 
 
-Welcome to Day 2 of &ldquo;The Science of Your Cycle&rdquo;! Today, you&rsquo;ll learn about the hormones that control the menstrual cycle (and what they do), you'll gain a basic understanding of what causes period problems to happen, and we&rsquo;ll lay the groundwork that will help you spot potential health problems in your own body. The next few days of this course will seriously put your sex ed class to shame, so get ready to be blown away!
+Welcome to Day 2 of <strong>The Science of Your Cycle</strong>! Today, you&rsquo;ll learn about the hormones that control the menstrual cycle (and what they do), you'll gain a basic understanding of what causes period problems to happen, and we&rsquo;ll lay the groundwork that will help you spot potential health problems in your own body. The next few days of this course will seriously put your sex ed class to shame, so get ready to be blown away!
 
 <div class="center" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
   <iframe class="video" width="700" height="394" src="//www.youtube.com/embed/93B5Fxtm8TI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

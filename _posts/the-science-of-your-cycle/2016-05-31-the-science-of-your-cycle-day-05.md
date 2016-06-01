@@ -8,7 +8,8 @@ img: courses/the-science-of-your-cycle-day-05.png
 ---
 
 
-We don't typically think about our reproductive health as some hugely important thing that requires constant upkeep. For most of us, maintaining good reproductive health means going to the gynecologist once a year for a pap smear and trying not to contract an STI. (Apologies for my kitty making noise at the 4-minute mark &mdash; she's just excited about learning about the awesome benefits of tracking your cycle!)
+
+Period tracking has exploded in popularity over the last few years, but why do so many people do it? Sure, it helps you keep track of when your next period might show up, but there are MANY other amazing benefits we don't often discuss. Today, we'll cover the numerous, life-changing benefits of tracking your menstrual cycle data. Period tracking isn't just about convenience &mdash; it can also help you keep your body healthy, prevent pregnancy, get pregnant, predict upcoming periods with unbeatable accuracy, and more!  
 
 <div class="center" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
   <iframe class="video" width="700" height="394" src="//www.youtube.com/embed/hMRL_1IIhKg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
