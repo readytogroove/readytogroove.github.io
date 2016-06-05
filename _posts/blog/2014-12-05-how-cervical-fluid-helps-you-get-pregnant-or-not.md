@@ -21,6 +21,8 @@ It&rsquo;s not until they&rsquo;re actually *trying* to get pregnant that many w
 
 While there are many subtle physiological mechanisms that ultimately lead to a pregnancy, there is one (aside from actually ovulating) that is by far the most important: the production of an awesome substance called cervical fluid. There are several reasons why cervical fluid is incredibly vital to getting pregnant (or avoiding it).
 
+{% include soyc-prompt.html %}
+
 ### Semen is alkaline. ###
 
 The makeup of seminal fluid serves a very specific and important purpose in reproduction: ensuring sperm stay alive long enough to fertilize an egg. The pH of seminal fluid ranges anywhere from about 7.2&ndash;8.0, making it alkaline.

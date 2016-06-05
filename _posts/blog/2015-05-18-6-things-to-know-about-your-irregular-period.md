@@ -31,7 +31,7 @@ If you do ovulate every cycle, then you&rsquo;re probably okay&mdash;despite you
 
 If you don&rsquo;t ovulate, then *that* is what matters&mdash;not your irregular periods *per se*.  
 
-{% include period-reset-plug.html %}
+{% include soyc-prompt.html %}
 
 ## 4. Ovulation is pretty easy to detect. ##
 

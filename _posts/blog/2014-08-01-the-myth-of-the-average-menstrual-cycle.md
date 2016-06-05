@@ -16,7 +16,7 @@ Little did I know back then, I had absolutely nothing to worry about. The idea t
 
 When teaching children about menstruation, it&rsquo;s much easier to say that cycles are 28 days long and that ovulation happens on day 14. In the real world, however, there is lots of variation from woman to woman and even on an individual level. However, we&rsquo;re not told that this variation is totally normal. Well, here you go: *variation is totally normal!* 
 
-{% include period-reset-plug.html %}
+{% include soyc-prompt.html %}
 
 This &ldquo;myth of the average cycle length&rdquo; ends up causing a lot of confusion and often makes women and girls think that they&rsquo;re abnormal for not having 28 day cycles. And many of us end up feeling like our cycles are &ldquo;irregular&rdquo; simply because they&rsquo;re not all the same length. This can be particularly frustrating during puberty, because cycles during this time can be more varied in length than in adulthood. But again, this is totally normal. After a girl starts her period, it can take several years for her hormones to stabilize, which makes her first few years of periods more prone to small variations. Even adults aren&rsquo;t immune to this. There are <a class="text-link" href="/blog/2014/07/18/why-you-shouldnt-trust-apps-that-predict-fertility/#.U9f9n4BdVW1">lots of factors</a> that can affect a woman&rsquo;s cycle length. 
 

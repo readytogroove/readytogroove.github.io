@@ -22,6 +22,8 @@ Ovulation can be unexpectedly delayed by many, many factors, which can have a *h
 
 Another point of failure for fertility predictions is the variable length of your fertile window. This can result from delays in ovulation, but that&rsquo;s not always the cause. Let&rsquo;s say that during your previous four cycles, you started producing cervical fluid on day 10 (or 10 days after you started your period). Based on this information, your app may tell you that your fertile window for the current cycle begins on cycle day 10. But what if your fertile window actually ends up starting on day eight? If you&rsquo;re trying to avoid pregnancy, you&rsquo;d be putting yourself at risk by trusting the prediction. And if you&rsquo;re <a class="text-link" href="/blog/2014/07/04/how-to-get-pregnant-while-charting-your-fertility/#.U8k_JI1dVW0">trying to get pregnant</a>, you may end up missing an opportunity to conceive. If you chart your fertility, then you&rsquo;ll be able to recognize the error and adjust accordingly. But what about women who fully trust fertility predictions simply because they haven&rsquo;t been taught how fertility really works? Eek. 
 
+{% include soyc-prompt.html %}
+
 ### Early ovulation ###
 
 Another potential failure point when trying to predict fertility is *early* ovulation. Let&rsquo;s say you don&rsquo;t typically start producing cervical fluid &ndash; and, thus, aren&rsquo;t fertile &ndash; until day 13. However, this cycle you unexpectedly ovulated on day 12. According to a fertility predictor, you&rsquo;re not even *supposed* to be fertile yet! This is a HUGE problem if you&rsquo;re relying on it to avoid pregnancy. On the flip side, if you&rsquo;re trying to conceive, you might miss your fertile window entirely.

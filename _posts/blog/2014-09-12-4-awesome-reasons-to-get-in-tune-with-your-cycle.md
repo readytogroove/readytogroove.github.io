@@ -16,6 +16,8 @@ Getting in tune with your menstrual cycles doesn&rsquo;t mean that you have to p
 
 Something wonderful always seems to happen when women come face-to-face with oodles of information about their body that they&rsquo;ve been missing out on: their confidence goes through the roof! I&rsquo;ve even experienced this for myself. After more than two decades of thinking that my cycles are completely mysterious and unreliable, I learned that Aunt Flow is actually very predictable when you know what to look for. I&rsquo;ve walked with my head a little higher ever since.
 
+{% include soyc-prompt.html %}
+
 ### 2. Predict your periods. ###
 
 Predicting your upcoming periods is slightly more complicated than counting 28 days on a calendar, but for some reason that&rsquo;s the way most of us were taught. Although arbitrarily circling days on your calendar is super simple to do, it&rsquo;s typically not very accurate. Your body gives you <a class="text-link" href="/the-cycle/chapter-6-hormone-changes-and-fertility-signals/#what-is-cervical-fluid">certain cues</a> throughout your cycle, and paying attention to these changes will help you mark your calendar more accurately than you ever thought possible. 

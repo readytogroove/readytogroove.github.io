@@ -19,6 +19,8 @@ PCOS is a disorder of the endocrine system, which is the system in your body tha
 
 The direct cause of PCOS is uncertain, though there appear to be many factors that contribute to the condition. Research shows that there is a genetic component to PCOS, but that it is made worse by factors such as obesity. Additionally, many women with the disorder suffer from insulin resistance and excess insulin, leading researchers to believe that this may contribute to its development. This excess insulin is thought to increase the body&rsquo;s androgens (or male hormones) above the normal level, causing problems with ovulation.
 
+{% include soyc-prompt.html %}
+
 Recent research is also beginning to show <a class="text-link" href="https://www.endocrine.org/news-room/press-release-archives/2010/women-with-polycystic-ovary-syndrome-have-higher-bpa-blood-levels">a link between PCOS and endocrine disruptors (like BPA)</a> that are found in many household products and beauty supplies. It&rsquo;s thought that these endocrine disrupting chemicals contribute to the development of PCOS by interfering with hormone health in those who are predisposed to the condition.
 
 ### What are the symptoms? ###

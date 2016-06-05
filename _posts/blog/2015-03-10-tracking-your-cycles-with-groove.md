@@ -25,7 +25,7 @@ Irregular cycles are frustrating and unpredictable, but that doesn&rsquo;t mean 
 
 If you&rsquo;re confused about what data to add or need a bit of help getting started, we&rsquo;ve got you covered. There&rsquo;s tons of educational info in the app and on our website that will teach you everything you need to know to take advantage of what Groove has to offer.
 
-{% include period-reset-plug.html %}
+{% include soyc-prompt.html %}
 
 ### Learn about your body. ###
 

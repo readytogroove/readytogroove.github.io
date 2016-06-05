@@ -25,6 +25,8 @@ Practicing the <a class="text-link" href="/the-cycle/chapter-7-the-rules-of-the-
 
 Observing cervical fluid allows you to pinpoint the start of your fertile window (i.e. when you should start trying), and measuring basal body temperature allows you to pinpoint the end of your fertile window (i.e. when your baby-making window has passed until your next cycle). STM is a simple way to remove much of the stress that often comes along with trying to get pregnant. No more ovulation predictor kits, no more ovulation calculators, no more fertility predictors, and no more blindly timing sex. More time for relaxation and enjoyment!
 
+{% include soyc-prompt.html %}
+
 ### Fertility Charting, Reproductive Disorders, & Hormonal Contraception ###
 
 A number of different reproductive issues can lead to a difficulty getting pregnant, including luteal phase disorders, PCOS, anovulation, and other hormone imbalance. Many women unknowingly struggle with these, and each one can make it difficult to get pregnant. One of the biggest benefits of fertility charting &ndash; aside from pinpointing your fertile window &ndash; is the help it can provide in <a class="text-link" href="/the-cycle/appendix-c-the-sympto-thermal-method-for-reproductive-health/">detecting reproductive disorders</a>. STM can provide valuable insight into your reproductive system, and it can help you and your doctor diagnose disorders and guide treatment. STM can also help women who are already undergoing infertility treatment. It can be used in conjunction with medications like Clomid to detect if, in fact, ovulation is successfully being stimulated. 
