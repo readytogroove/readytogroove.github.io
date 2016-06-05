@@ -30,6 +30,8 @@ The ovaries are small, almond-sized pouches that, together, house about a millio
 
 The uterus is the female reproductive organ you&rsquo;re probably the most familiar with, as this small, pear-shaped organ plays an important, well-known role. During every cycle, the lining of the uterus swells with blood in hopes of providing nutrients to a fertilized egg, or an embryo. If an embryo does imbed itself in the uterine lining, the uterus ensures the developing fetus is warm and cuddly and provides it with nutrients before it is born. If an embryo does not imbed in the uterine lining&mdash;and, therefore, a pregnancy does not occur&mdash;the lining is shed through the process of menstruation. 
 
+{% include soyc-prompt.html %}
+
 
 ### The Vagina ###
 

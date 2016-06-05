@@ -17,6 +17,8 @@ If you&rsquo;re in this situation, infertility treatment probably isn&rsquo;t fa
 
 When I say this, I&rsquo;m not suggesting that you obsessively use ovulation predictor kits (OPKs). OPKs measure your levels of luteinizing hormone, which surges as your body is ramping up to ovulate. Unfortunately, OPKs won&rsquo;t give you any indication of whether ovulation is *actually* happening. And if you&rsquo;re not ovulating, you&rsquo;re definitely not getting pregnant.
 
+{% include soyc-prompt.html %}
+
 A super easy way to confirm that you&rsquo;re ovulating is to measure your body temperature each morning as soon as you wake up. This is called your basal body temperature (BBT), and it helps you confirm that you are, in fact, ovulating. Your BBT will be low before ovulation, and you&rsquo;ll notice a sustained rise in your BBT&mdash;called a temperature shift&mdash;after ovulation due to an increase in progesterone that occurs as a result of ovulation. So if you notice a temperature shift each month, you can rule out anovulation.
 
 {% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-basal-body-temperature-pattern-confirm-ovulation-chart.jpg" description="Since ovulation typically occurs the day before your temperature shift, ovulation occurred on cycle day 16 in the above chart." %}
