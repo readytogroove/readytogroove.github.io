@@ -65,9 +65,9 @@
         <li class="nav-link"><a class="text-link" href="/">HOME</a></li>
         {% endif %}
         {% if page.url contains "/start-here" %}
-        <li class="nav-link"><a class="nav-button-active" href="/start-here">START HERE</a></li>
+        <li class="nav-link"><a class="nav-button-active" href="/start-here" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'SoYC - header'});">START HERE</a></li>
         {% else %}
-        <li class="nav-link"><a class="nav-button" href="/start-here">START HERE</a></li>
+        <li class="nav-link"><a class="nav-button" href="/start-here" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'SoYC - header'});">START HERE</a></li>
         {% endif %}
         {% if page.url contains "/the-cycle" %}
         <li class="nav-link"><a class="active-nav" href="/the-cycle">LEARN</a></li>
@@ -108,9 +108,9 @@
         <div class="header-nav">
           <ul>
             {% if page.url contains "/start-here" %}
-            <li class="nav-link"><a class="nav-button-active" href="/start-here">START HERE</a></li>
+            <li class="nav-link"><a class="nav-button-active" href="/start-here" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'SoYC - header'});">START HERE</a></li>
             {% else %}
-            <li class="nav-link"><a class="nav-button" href="/start-here">START HERE</a></li>
+            <li class="nav-link"><a class="nav-button" href="/start-here" onClick="ga('send', 'event', { eventCategory: 'Button', eventAction: 'Click', eventLabel: 'SoYC - header'});">START HERE</a></li>
             {% endif %}
             {% if page.url contains "/the-cycle" %}
             <li class="nav-link"><a class="active-nav" href="/the-cycle">LEARN</a></li>
