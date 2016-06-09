@@ -18,8 +18,8 @@ Welcome to Day 3 of <strong>The Science of Your Cycle</strong>, Groove's amazing
 </div>
 
 ## Resources ##
-1. <p><a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/">View images of cervical fluid.</a></p>
-2. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-03.pdf">Download today's slides.</a></p>
+1. <p><a class="text-link" href="/the-cycle/appendix-e-visualizing-cervical-fluid-changes/" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'Cervical fluid images - SoYC'});">View images of cervical fluid.</a></p>
+2. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-03.pdf" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'SoYC - Day 3 slides'});">Download today's slides.</a></p>
 3. <p><a class="text-link" href="/start-here">Sign up for <strong>The SCIENCE of Your Cycle</strong></a></p>
 
 Did you LOVE this video?! Leave a comment to let us know!

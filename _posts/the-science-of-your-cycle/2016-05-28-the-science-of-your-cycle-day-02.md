@@ -18,7 +18,7 @@ Welcome to Day 2 of <strong>The Science of Your Cycle</strong>, Groove's amazing
 </div>
 
 ## Resources ##
-1. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-02.pdf">Download today's slides.</a></p>
+1. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-02.pdf" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'SoYC - Day 2 slides'});">Download today's slides.</a></p>
 2. <p><a class="text-link" href="/start-here">Sign up for <strong>The SCIENCE of Your Cycle</strong></a></p>
 
 Did you learn something new in today&rsquo;s video?! Tell us in the comments!

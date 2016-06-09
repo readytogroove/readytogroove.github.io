@@ -21,7 +21,7 @@ Today&rsquo;s video will cover the basics of how the female reproductive system 
 
 ## Resources ##
 
-1. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-01.pdf">Download today's slides.</a></p>
+1. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-01.pdf" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'SoYC - Day 1 slides'});">Download today's slides.</a></p>
 2. <p><a class="text-link" href="/start-here">Sign up for <strong>The SCIENCE of Your Cycle</strong></a></p>
 
 What are you hoping to get out of this awesome, 7-day course? Leave a comment below and let us know!

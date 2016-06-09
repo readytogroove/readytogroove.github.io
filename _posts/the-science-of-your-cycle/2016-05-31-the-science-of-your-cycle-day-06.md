@@ -18,9 +18,9 @@ Welcome to Day 6 of <strong>The Science of Your Cycle</strong>, Groove's amazing
 </div>
 
 ## Resources ##
-1. <p><a class="text-link" href="http://www.readytogroove.com/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/">Download Groove</a> to start tracking and benefiting from your menstrual cycle data.</p>
-2. <p><a class="text-link" href="http://www.readytogroove.com/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/">Learn the rules</a> that MUST be followed to prevent pregnancy using your menstrual cycle data.</p>
-3. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-06.pdf">Download today's slides.</a></p>
+1. <p><a class="text-link" href="http://www.readytogroove.com" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'App download - SoYC'});">Download Groove</a> to start tracking and benefiting from your menstrual cycle data.</p>
+2. <p><a class="text-link" href="http://www.readytogroove.com/the-cycle/chapter-7-the-rules-of-the-sympto-thermal-method/" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'STM rules - SoYC'});">Learn the rules</a> that MUST be followed to prevent pregnancy using your menstrual cycle data.</p>
+3. <p><a class="text-link" target="_blank" href="/download/The-Science-of-Your-Cycle-Day-06.pdf" onClick="ga('send', 'event', { eventCategory: 'Link', eventAction: 'Click', eventLabel: 'SoYC - Day 6 slides'});">Download today's slides.</a></p>
 4. <p><a class="text-link" href="/start-here">Sign up for <strong>The SCIENCE of Your Cycle</strong></a></p>
 
 Did you LOVE this video?! Let us know in the comments!
