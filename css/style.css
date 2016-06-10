@@ -1253,8 +1253,12 @@ div.image-container p.small-text {
 /* help.html styles */
 
 p.panel-title {
-    font-size: 20px;
+    font-size: 22px;
   }
+
+.panel-title .text-link {
+  font-weight: 400;
+}
 
 /* store.html styles */
 
