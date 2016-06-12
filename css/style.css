@@ -1522,6 +1522,7 @@ body.mobile-nav-open #mobile-nav {
 
 .soyc-logo {
   width: 533px;
+  max-width:100%;
 }
 
 /* responsive, y'all */
@@ -1937,10 +1938,6 @@ body.mobile-nav-open #mobile-nav {
     margin-left: 25px;
   }
 
-  .soyc-logo {
-    width: 400px;
-  }
-
   .margin-top {
     margin-top: 35px;
   }
@@ -2123,10 +2120,6 @@ body.mobile-nav-open #mobile-nav {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-  }
-
-  .soyc-logo {
-    width: 325px;
   }
 
 
