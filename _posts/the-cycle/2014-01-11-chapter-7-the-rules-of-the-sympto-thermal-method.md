@@ -122,7 +122,7 @@ While that bigger, more educated brain of yours processes all of the information
 
 >  __5. Double-Check Rule:__ you must wait until BOTH the "Peak Day Rule" AND the "Temperature Shift Rule" are satisfied before you consider yourself infertile for the remainder of your current cycle.
 
-The sample charts below show all of the STM rules in action:
+<a class="notes" name="sample-STM-charts">The following sample charts show all of the sympto-thermal method rules in action:</a>
 
 
 {% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-chart.jpg" description="This person's fertile window begins on cycle day nine, which is the first day after menstruation that cervical fluid is present. Their peak day occurs on cycle day 14 and their temperature shift occurs on cycle day 16. Therefore, the end of the fertile window occurs on cycle day 18 when BOTH the temperature shift rule AND the peak day rule are satisfied. If menstruation had lasted for six days, cycle day six would be considered fertile according to the First Five Days Rule." %}
