@@ -122,10 +122,37 @@ While that bigger, more educated brain of yours processes all of the information
 
 >  __5. Double-Check Rule:__ you must wait until BOTH the "Peak Day Rule" AND the "Temperature Shift Rule" are satisfied before you consider yourself infertile for the remainder of your current cycle.
 
-<a class="notes" name="sample-STM-charts">The following sample charts show all of the sympto-thermal method rules in action:</a>
+The following sample charts show all of the sympto-thermal method rules in action:
 
+## <a class="notes" name="sample-STM-charts">Sympto-thermal Method Sample Charts</a> ##
 
-{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-chart.jpg" description="This person's fertile window begins on cycle day nine, which is the first day after menstruation that cervical fluid is present. Their peak day occurs on cycle day 14 and their temperature shift occurs on cycle day 16. Therefore, the end of the fertile window occurs on cycle day 18 when BOTH the temperature shift rule AND the peak day rule are satisfied. If menstruation had lasted for six days, cycle day six would be considered fertile according to the First Five Days Rule." %}
+### Sudden Temperature Shift ###
+
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-sudden-temperature-shift.jpg" description="This person's fertile phase begins on Cycle Day 8 when cervical fluid production begins. Since this person experienced a SUDDEN temperature shift on Day 16, the Peak Day Rule is satisfied on the 3rd day after their Peak Day. The Temperature Shift Rule is satisfied on the 3rd consecutive day of a basal body temperature that is above the coverline, since that third temperature is at least 0.3 &deg;F (0.15 &deg;C) above the coverline. The fertile phase ends in the evening on Cycle Day 18, since that is when both the Peak Day Rule and the Temperature Shift Rule are satisfied." %}
+
+### Sudden Temperature Shift &amp; Early Peak Day ###
+
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-early-peak-day-sudden-temperature-shift.jpg" description="This person's fertile phase begins on Cycle Day 9 when cervical fluid production begins. Since this person experienced a SUDDEN temperature shift on Day 17, the Peak Day Rule is satisfied on the 3rd day after their Peak Day, which in this case occurs on Cycle Day 18. The Temperature Shift Rule is satisfied on the 3rd consecutive day of a basal body temperature that is above the coverline, since that third temperature is at least 0.3 &deg;F (0.15 &deg;C) above the coverline. Because the fertile phase does not end until BOTH of these rules have been satisfied, the fertile phase ends on Cycle Day 19 once the Temperature Shift Rule is satisfied &mdash; even though the Peak Day Rule was satisfied on the previous day." %}
+
+### Sudden Temperature Shift &amp; Late Peak Day ###
+
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-late-peak-day-sudden-temperature-shift.jpg" description="This person's fertile phase begins on Cycle Day 9 when cervical fluid production begins. Since this person experienced a SUDDEN temperature shift on Day 17, the Peak Day Rule is satisfied on the 3rd day after their Peak Day, which in this case occurs on Cycle Day 20. The Temperature Shift Rule is satisfied on the 3rd consecutive day of a basal body temperature that is above the coverline, since that third temperature is at least 0.3 &deg;F (0.15 &deg;C) above the coverline. In this case, the Temperature Shift Rule is satisfied on Day 19, a day earlier than the Peak Day Rule. But because the fertile phase does not end until BOTH of these rules have been satisfied, the fertile phase ends on Cycle Day 20 once the Peak Day Rule is satisfied." %}
+
+## Slow-rise Temperature Shift ##
+
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-slow-rise-temperature-shift.jpg" description="This person's fertile phase begins on Cycle Day 8 when cervical fluid production begins. Since this person experienced a SLOW-RISE temperature shift on Day 16, the Peak Day Rule is not satisfied until the 4th day after their Peak Day, which in this case occurs on Cycle Day 19. The Temperature Shift Rule is satisfied on the 4th consecutive day of a basal body temperature that is ABOVE the coverline. In this case, the Temperature Shift Rule is satisfied on Day 20, a day after the Peak Day Rule. But because the fertile phase does not end until BOTH of these rules have been satisfied, the fertile phase ends on Cycle Day 20 once the Temperature Shift Rule is satisfied." %}
+
+### Slow-Rise Temperature Shift &amp; Early Peak Day ###
+
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-early-peak-day-slow-rise-temperature-shift.jpg" description="This person's fertile phase begins on Cycle Day 9 when cervical fluid production begins. Since this person experienced a SLOW-RISE temperature shift on Day 17, the Peak Day Rule is not satisfied until the 4th day after their Peak Day, which in this case occurs on Cycle Day 19. The Temperature Shift Rule is satisfied on the 4th consecutive day of a basal body temperature that is ABOVE the coverline. In this case, the Temperature Shift Rule is satisfied on Day 21, two days after the Peak Day Rule. But because the fertile phase does not end until BOTH of these rules have been satisfied, the fertile phase ends on Cycle Day 21 once the Temperature Shift Rule is satisfied." %}
+
+### Slow-Rise Temperature Shift &amp; Late Peak Day ###
+
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-late-peak-day-slow-rise-temperature-shift.jpg" description="This person's fertile phase begins on Cycle Day 9 when cervical fluid production begins. Since this person experienced a SLOW-RISE temperature shift on Day 17, the Peak Day Rule is not satisfied until the 4th day after their Peak Day, which in this case occurs on Cycle Day 21. The Temperature Shift Rule is satisfied on the 4th consecutive day of a basal body temperature that is ABOVE the coverline. In this case, the Temperature Shift Rule is satisfied on Day 21, which is the same day as the Peak Day Rule. The fertile phase ends on Cycle Day 21 since BOTH rules are satisfied on this day." %}
+
+## Non-Dry Basic Infertile Pattern (BIP) ##
+
+{% include image.html url="/img/book/sympto-thermal-fertility-awareness-method-rules-non-dry-bip.jpg" description="This person has a non-dry basic infertile pattern (BIP), which means their fertile phase began on Cycle Day 10 as soon as they noticed a CHANGE in their cervical fluid. Since this person experienced a SUDDEN temperature shift on Day 17, the Peak Day Rule is satisfied on the 3rd day after their Peak Day, which occurred on Cycle Day 19. In the case of a sudden temperature shift, the Temperature Shift Rule is satisfied on the 3rd day that the basal body temperature (BBT) is above the coverline, AS LONG AS that third temperature reaches at least 0.3 &deg;F (0.15 &deg;C) above the coverline. Unfortunately, the third temperature is only 0.2 &deg;F (0.05 &deg;C) above the coverline, meaning that the slow-rise temperature shift rule is adopted. Since the third temperature did't reach 0.3 &deg;F (0.15 &deg;C) above the coverline, the Temperature Shift Rule isn't satisfied until the FOURTH day that the BBT is above the coverline, which is on Cycle Day 20. Because the fertile phase does not end until BOTH of these rules have been satisfied, the fertile phase ends on Cycle Day 20 once the Temperature Shift Rule is satisfied." %}
 
 
 <h2><a class="notes" name="how-to-draw-a-coverline">How to Draw a Coverline</a></h2>
