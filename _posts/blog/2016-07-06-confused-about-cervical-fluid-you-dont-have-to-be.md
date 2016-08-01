@@ -3,7 +3,7 @@ layout: blog-post
 title:  "Confused about your cervical fluid? You don&rsquo;t have to be."
 date:   2016-07-06
 author: "Jennifer Aldoretta"
-img: blog/groove-loves-android-download-groove-period-fertility-tracker-on-android.png
+img: blog/confused-about-cervical-fluid-you-dont-have-to-be.jpg
 categories:
 - blog
 excerpt: "Cervical fluid can be hella confusing, especially when you&rsquo;re trying to figure out if the fluid you&rsquo;re seeing is ACTUALLY fertile. Everyone&rsquo;s cervical fluid pattern is a little different, and it won&rsquo;t always follow the stereotypical &ldquo;sticky&rdquo; &rarr; &ldquo;creamy&rdquo; &rarr; &ldquo;egg white&rdquo; &rarr; &ldquo;watery&rdquo; pattern that we always hear so much about ..."
