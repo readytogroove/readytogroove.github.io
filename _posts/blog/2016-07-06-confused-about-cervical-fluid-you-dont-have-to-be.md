@@ -55,7 +55,7 @@ For some, checking at the vaginal opening works totally fine, but for others (li
 
 Deciphering your cervical fluid can feel super confusing, but it doesn&rsquo;t have to if you know the RIGHT things to focus on. If you learn and remember the simple tips I mentioned today, categorizing your cervical fluid will start to feel like second nature. Good luck, and happy charting!
 
-Ready to learn more about cervical fluid and hormone health?! Sign up for our <a class="text-link" href="/start-here/">FREE 7-day mini course</a>!
+Ready to learn more about cervical fluid and hormone health?! Sign up for our <a class="text-link" href="/start-here" onClick="ga('send', 'event', { eventCategory: Link, eventAction: 'Click', eventLabel: 'SOYC - general link});">FREE 7-day mini course</a>!
 
 <br/>
 What did you think of this post? Let us know in the comments!
