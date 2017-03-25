@@ -36,74 +36,6 @@
         console.log('click!');
         $body.toggleClass('mobile-nav-open');
       });
-
-      // newsletter popup window
-      window.onload = function () {
-        // check for localStorage support
-        if (localStorage) {
-
-          //add an event listener to the newsletter form submission
-          document.getElementById('newsletter-form').addEventListener('submit', function () {
-            // Save variable to localStorage
-            localStorage.setItem('newNewsletterSubmission', 'signedUp');
-          }); // end event listener
-
-        } // end if statement
-
-        // retrieve localStorage variable
-        signedUp = localStorage.getItem('newNewsletterSubmission');
-
-        // check if visitor has signed up for newsletter
-        if (signedUp == null) {
-
-          // check if this is the visitor's first visit
-          initialPopupTime = localStorage.getItem('initialPopupTime');
-
-          // if it's the visitor's first visit
-          if (initialPopupTime == null || initialPopupTime == 'undefined') {
-            // show the popup after 30 seconds & then set initial popup time
-            setTimeout(function showPopup() {
-              document.getElementById('popup').style.display = 'inline';
-              setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
-              localStorage.setItem('initialPopupTime', Date.now());
-            }, 30000);
-
-          // if it's not the visitor's first visit
-          } else {
-            popupTime = localStorage.getItem('initialPopupTime');
-            var timeElapsed = Date.now() - popupTime;
-            console.log(timeElapsed);
-
-            // if it's been > 10 minutes since the popup, show it again in 30 sec
-            if (timeElapsed > 600000) {
-              setTimeout(function showPopup() {
-                document.getElementById('popup').style.display = 'inline';
-                setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
-                localStorage.setItem('initialPopupTime', Date.now());
-              }, 30000);
-
-
-            } else {
-              // if it's been < 10 min, show popup again after 10 min
-              setTimeout(function showPopup() {
-                document.getElementById('popup').style.display = 'inline';
-                setTimeout(function(){document.getElementById('popup').style.opacity = '1';}, 0);
-                localStorage.setItem('initialPopupTime', Date.now());
-              }, 600000 - timeElapsed);
-            }
-
-          } // end of else
-
-        } // end if statement
-
-      } // end window.onload
-
-      // close popup when (X) is clicked
-      function closePopup() {
-        var hidePopup = document.getElementById('popup');
-        hidePopup.style.display = 'none';
-      }
-           
     </script>
 
 <!--Unslider-->
@@ -117,6 +49,9 @@
         });
       });
     </script>
+
+<!--Popup Domination code -->
+		<script src='https://app.popupdomination.com/a/NkFEMty2f.js'></script>
 
    </body><!--.body-container-->
 
